@@ -2,6 +2,8 @@
 
 A curated list of awesome big data frameworks, ressources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) & [hadoopecosystemtable](http://hadoopecosystemtable.github.io/).
 
+Your contributions are always welcome!
+
 - [Awesome Big Data](#awesome-bigdata)
     - [Frameworks](#frameworks)
     - [Distributed Programming](#distributed-programming)
@@ -24,7 +26,7 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
     - [MySQL forks and evolutions](#mysql-forks-and-evolutions)
     - [Memcached forks and evolutions](#memcached-forks-and-evolutions)
     - [Embedded Databases](#embedded-databases)
-
+    - [Data Visualization](#data-visualization)
 
 ## Frameworks
 
@@ -83,23 +85,88 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [Tachyon](http://tachyon-project.org/) - reliable file sharing at memory speed across cluster frameworks.
 
 ## Column Data Model
+
+* [Actian Vector](http://www.actian.com/) -  column-oriented analytic database.
+* [Apache Accumulo](http://accumulo.apache.org/) - distribuited key/value store, built on Hadoop.
+* [Apache Cassandra](http://cassandra.apache.org/) - column-oriented distribuited datastore, inspired by BigTable.
+* [Apache HBase](http://hbase.apache.org/) - column-oriented distribuited datastore, inspired by BigTable.
+* [C-Store](http://db.lcs.mit.edu/projects/cstore/) - column oriented DBMS.
+* [Facebook HydraBase](https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/) - evolution of HBase made by Facebook.
+* [Google BigTable](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - column-oriented distributed datastore.
+* [Google Cloud Datastore](https://developers.google.com/datastore/) - is a fully managed, schemaless database for storing non-relational data over BigTable
+* [Hypertable](http://hypertable.org/) - column-oriented distribuited datastore, inspired by BigTable.
+* [InfiniDB](http://infinidb.co/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
+* [MonetDB](https://www.monetdb.org/) - column store database.
+* [OhmData C5](http://ohmdata.com/) - improved version of HBase.
+* [Parquet](http://parquet.io/) - columnar storage format for Hadoop.
+* [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
+* [Vertica](http://www.vertica.com/) - is designed to manage large, fast-growing volumes of data and provide very fast query performance when used for data warehouses.
+
 ## Document Data Model
+
+* [Crate Data](https://crate.io/) - is an open source massively scalable data store. It requires zero administration.
+* [Facebook Apollo](http://www.infoq.com/news/2014/06/facebook-apollo/) - Facebook’s Paxos-like NoSQL database.
+* [jumboDB](http://comsysto.github.io/jumbodb/) - document oriented datastore over Hadoop.
+* [LinkedIn Espresso](http://data.linkedin.com/projects/espresso) - horizontally scalable document-oriented NoSQL data store.
+* [MarkLogic](http://www.marklogic.com/) - Schema-agnostic Enterprise NoSQL database technology.
+* [MongoDB](http://www.mongodb.org/) - Document-oriented database system.
+* [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
+
 ## Key-value Data Model
+
+* [Amazon DynamoDB](http://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
+* [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
+* [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
+* [EventStore](http://geteventstore.com/) - distributed time series database.
+* [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
+* [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
+* [OpenTSDB](http://opentsdb.net/) - distributed time series database on top of HBase.
+* [Redis](http://redis.io/) - in memory key value datastore.
+* [Storehaus](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
+
 ## Graph Data Model
+
+* [Apache Giraph](http://giraph.apache.org/) - implementation of Pregel, based on Hadoop.
+* [Apache Spark Bagel](http://spark.incubator.apache.org/docs/0.7.3/bagel-programming-guide.html) - implementation of Pregel, part of Spark.
+* [ArangoDB](https://www.arangodb.org/) - multi model distribuited database.
+* [Facebook TAO](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - TAO is the distributed data store that is widely used at facebook to store and serve the social graph.
+* [Google Cayley](https://github.com/google/cayley) - open-source graph database.
+* [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) - graph processing framework.
+* [GraphLab PowerGraph](http://graphlab.org/projects/source.html) - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
+* [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
+* [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
+* [Neo4j](http://www.neo4j.org/) - graph database writting entirely in Java.
+* [OrientDB](http://www.orientechnologies.com/) - document and graph database.
+* [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
+* [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
+* [Twitter FlockDB](https://github.com/twitter/flockdb) - distribuited graph database.
+
 ## NewSQL Databases
+
 ## SQL-like processing
+
 ## Data Ingestion
+
 ## Service Programming
+
 ## Scheduling
+
 ## Machine Learning
+
 ## Bechmarking
+
 ## Security
+
 ## System Deployment
+
 ## Applications
+
 ## Search engine and framework
+
 ## MySQL forks and evolutions
+
 ## Memcached forks and evolutions
+
 ## Embedded Databases
 
-
-Your contributions are always welcome!
+## Data Visualization
