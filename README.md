@@ -4,7 +4,8 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 
 - [Awesome Big Data](#awesome-bigdata)
     - [Frameworks](#frameworks)
-    - [Distributed Filesystem](#distributed-filesystems)
+    - [Distributed Programming](#distributed-programming)
+    - [Distributed Filesystem](#distributed-filesystem)
     - [Column Data Model](#column-data-model)
     - [Document Data Model](#document-data-model)
     - [Key-value Data Model](#key-value-data-model)
@@ -68,6 +69,19 @@ A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [Twitter Summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 
 ## Distributed Filesystem
+
+* [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
+* [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
+* [Facebook Haystack](https://www.facebook.com/note.php?note_id=76191543919) - object storage system.
+* [Google Colossus](https://google.com/) - distributed filesystem (GFS2).
+* [Google GFS](https://google.com/) - distributed filesystem.
+* [Google Megastore](http://research.google.com/pubs/pub36971.html) - scalable, highly available storage.
+* [GridGain](http://www.gridgain.org/) - GGFS, Hadoop compliant in-memory file system.
+* [Lustre file system](http://wiki.lustre.org/) - high-performance distributed filesystem.
+* [Quantcast File System QFS](https://www.quantcast.com/engineering/qfs/) - open-source distributed file system.
+* [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
+* [Tachyon](http://tachyon-project.org/) - reliable file sharing at memory speed across cluster frameworks.
+
 ## Column Data Model
 ## Document Data Model
 ## Key-value Data Model
