@@ -143,6 +143,23 @@ Your contributions are always welcome!
 
 ## NewSQL Databases
 
+* [Amazon RedShift](http://aws.amazon.com/redshift/) - data warehouse service, based on PostgreSQL.
+* [BayesDB](http://probcomp.csail.mit.edu/bayesdb/index.html) - statistic oriented SQL database.
+* [FoundationDB](https://foundationdb.com/) - distributed database, inspired by F1.
+* [Google F1](http://research.google.com/pubs/pub41344.html) - distributed SQL database built on Spanner.
+* [Google Spanner](http://research.google.com/archive/spanner.html) - globally distributed semi-relational database.
+* [H-Store](http://hstore.cs.brown.edu/) - is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (OLTP) applications.
+* [Haeinsa](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
+* [HandlerSocket](http://www.percona.com/doc/percona-server/5.5/performance/handlersocket.html) - NoSQL plugin for MySQL/MariaDB.
+* [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
+* [InfluxDB](https://github.com/influxdb/influxdb) - distributed time series database.
+* [MemSQL](http://www.memsql.com/) - in memory SQL database witho optimized columnar storage on flash.
+* [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
+* [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
+* [SenseiDB](http://senseidb.com/) - distributed, realtime, semi-structured database.
+* [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
+* [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
+
 ## SQL-like processing
 
 ## Data Ingestion
