@@ -1,6 +1,6 @@
 # Awesome Big Data
 
-A curated list of awesome big data frameworks, ressources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby) & [hadoopecosystemtable](http://hadoopecosystemtable.github.io/).
+A curated list of awesome big data frameworks, ressources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://blog.andreamostosi.name/big-data/).
 
 Your contributions are always welcome!
 
@@ -183,32 +183,75 @@ Your contributions are always welcome!
 
 ## Data Ingestion
 
-* [Amazon Kinesis]() - real-time processing of streaming data at massive scale.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* [Apache]() - SQL-like data warehouse system for Hadoop.
-* 
-
+* [Amazon Kinesis](http://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
+* [Apache Chukwa](http://incubator.apache.org/chukwa/) - data collection system.
+* [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
+* [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
+* [Apache Samza](http://samza.incubator.apache.org/) - stream processing framework, based on Kafla and YARN.
+* [Apache Sqoop](http://sqoop.apache.org/) - tool to transfer data between Hadoop and a structured datastore.
+* [Cloudera Morphlines](https://github.com/cloudera/cdk/tree/master/cdk-morphlines) - framework that help ETL to Solr, HBase and HDFS.
+* [Facebook Scribe](https://github.com/facebook/scribe) - streamed log data aggregator.
+* [Fluentd](http://fluentd.org/) - tool to collect events and logs.
+* [HIHO](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
+* [Kestrel](http://robey.github.io/kestrel/) - distributed message queue system.
+* [LinkedIn Databus](http://data.linkedin.com/projects/databus) - stream of change capture events for a database.
+* [LinkedIn Kamikaze](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
+* [LinkedIn White Elephant](https://github.com/linkedin/white-elephant) -  log aggregator and dashboard.
+* [Netflix Suro](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
+* [Pinterest Secor](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 
 ## Service Programming
 
+* [Akka Toolkit](http://akka.io/) - runtime for distributed, and fault tolerant event-driven applications on the JVM.
+* [Apache Avro](http://avro.apache.org/) - data serialization system.
+* [Apache Curator](http://curator.apache.org/) - Java libaries for Apache ZooKeeper.
+* [Apache Karaf](http://karaf.apache.org/) - OSGi runtime that runs on top of any OSGi framework.
+* [Apache Thrift](http://thrift.apache.org//) - framework to build binary protocols.
+* [Apache Zookeeper](http://zookeeper.apache.org/) - centralized service for process management.
+* [Google Chubby](http://research.google.com/archive/chubby.html) - a lock service for loosely-coupled distributed systems.
+* [Linkedin Norbert](http://data.linkedin.com/opensource/norbert) - cluster manager.
+* [OpenMPI](http://www.open-mpi.org/) - message passing framework.
+* [Serf](http://www.serfdom.io/) - decentralized solution for service discovery and orchestration.
+* [Spring XD](https://github.com/spring-projects/spring-xd) - distributed and extensible system for data ingestion, real time analytics, batch processing, and data export.
+* [Twitter Elephant Bird](https://github.com/kevinweil/elephant-bird) - libraries for working with LZOP-compressed data.
+* [Twitter Finagle](https://twitter.github.io/finagle/) - asynchronous network stack for the JVM.
+
 ## Scheduling
+
+* [Apache Aurora](http://aurora.incubator.apache.org/) - is a service scheduler that runs on top of Apache Mesos.
+* [Apache Falcon](http://falcon.incubator.apache.org/) - data management framework.
+* [Apache Oozie](http://oozie.apache.org/) - workflow job schedul.
+* [Chronos](http://airbnb.github.io/chronos/) - distributed and fault-tolerant scheduler.
+* [Linkedin Azkaban](http://azkaban.github.io/azkaban2/) - batch workflow job scheduler.
+* [Sparrow](https://github.com/radlab/sparrow) - scheduling platform.
 
 ## Machine Learning
 
+* [Apache Mahout](http://mahout.apache.org/) - machine learning library for Hadoop.
+* [Cloudera Oryx](https://github.com/cloudera/oryx) - real-time large-scale machine learning.
+* [Concurrent Pattern](http://www.cascading.org/pattern/) - machine learning library for Cascading.
+* [etcML](http://www.etcml.com/) - text classification with machine learning.
+* [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
+* [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
+* [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
+* [PredictionIO](http://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
+* [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
+* [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
+* [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
+
 ## Bechmarking
 
+* [Apache Hadoop Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-3561) - micro-benchmarks for testing Hadoop performances.
+* [Berkeley SWIM Benchmark](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
+* [Intel HiBench](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
+* [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - benchmark suite for MapReduce application.
+* [Yahoo Gridmix3](https://developer.yahoo.com/blogs/hadoop/gridmix3-emulating-production-workload-apache-hadoop-450.html) - Hadoop cluster benchmarking from Yahoo engineer team.
+
+
 ## Security
+
+* [Apache Knox Gateway](http://knox.apache.org/) - single point of secure access for Hadoop clusters.
+* [Apache Sentr](http://incubator.apache.org/projects/sentry.html) - security module for data stored in Hadoop.
 
 ## System Deployment
 
@@ -226,4 +269,4 @@ Your contributions are always welcome!
 
 ## Data Visualization
 
-## Readings
+## Interesting readings
