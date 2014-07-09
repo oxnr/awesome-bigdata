@@ -200,6 +200,10 @@ Your contributions are always welcome!
 * [Netflix Suro](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
 * [Pinterest Secor](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 
+## Integrated Development Environments
+
+* [R-Studio](https://github.com/rstudio/rstudio) - IDE for R.
+
 ## Service Programming
 
 * [Akka Toolkit](http://akka.io/) - runtime for distributed, and fault tolerant event-driven applications on the JVM.
@@ -255,18 +259,102 @@ Your contributions are always welcome!
 
 ## System Deployment
 
+* [Apache Ambari](http://ambari.apache.org/) - operational framework for Hadoop mangement.
+* [Apache Bigtop](http://bigtop.apache.org//) - system deployment framework for the Hadoop ecosystem.
+* [Apache Helix](http://helix.apache.org/) - cluster management framework.
+* [Apache Mesos](http://mesos.apache.org/) - cluster manager.
+* [Apache Slider](https://github.com/hortonworks/slider) - is a YARN application to deploy existing distributed applications on YARN.
+* [Apache Whirr](http://whirr.apache.org/) - set of libraries for running cloud services.
+* [Apache YARN](http://hortonworks.com/hadoop/yarn/) - Cluster manager.
+* [Brooklyn]() - library that simplifies application deployment and management.
+* [Buildoop](http://buildoop.github.io/) - Similar to Apache BigTop based on Groovy language.
+* [Cloudera HUE](http://gethue.com/) - web application for interacting with Hadoop.
+* [Facebook Prism](http://www.wired.com/2012/08/facebook-prism/) - multi datacenters replication system.
+* [Google Borg](http://www.wired.com/wiredenterprise/2013/03/google-borg-twitter-mesos/all/) - job scheduling and monitoring system.
+* [Google Omega](https://www.youtube.com/watch?v=0ZFMlO98Jkc) - job scheduling and monitoring system.
+* [Hortonworks HOYA](http://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/) - application that can deploy HBase cluster on YARN.
+* [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
+
 ## Applications
+
+* [Apache Kiji](http://www.kiji.org/) - framework to collect and analyze data in real-time, based on HBas.
+* [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
+* [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA’s scientific archives.
+* [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
+* [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
+* [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop’s MapReduce.
+* [Hunk](http://www.splunk.com/download/hunk) - Splunk analytics for Hadoop.
+* [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
+* [PivotalR](https://github.com/gopivotal/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
+* [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
+* [Splunk](http://www.splunk.com/) - analyzer for machine-generated date.
+* [Talend](http://www.talend.com/products/big-data) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
 
 ## Search engine and framework
 
+* [Apache Lucene](http://lucene.apache.org/) - Search engine library.
+* [Apache Solr](http://lucene.apache.org/solr/) - Search platform for Apache Lucene.
+* [ElasticSearch](http://www.elasticsearch.org/) - Search and analytics engine based on Apache Lucene.
+* [Facebook Unicorn](https://www.facebook.com/publications/219621248185635/) - social graph search platform.
+* [Google Caffeine](http://googleblog.blogspot.it/2010/06/our-new-search-index-caffeine.html) - continuous indexing system.
+* [Google Percolator](http://research.google.com/pubs/pub36726.html) - continuous indexing system.
+* [TeraGoogle]() - large search index.
+* [HBase Comprocessor](https://blogs.apache.org/hbase/entry/coprocessor_introduction) - implementation of Percolator, part of HBase.
+* [LinkedIn Bobo](http://senseidb.github.io/bobo/) - is a Faceted Search implementation written purely in Java, an extension to Apache Lucene.
+* [LinkedIn Cleo](https://github.com/linkedin/cleo) - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
+* [LinkedIn Galene](http://engineering.linkedin.com/search/did-you-mean-galene) - search architecture at LinkedIn.
+* [LinkedIn Zoie](https://github.com/senseidb/zoie) - is a realtime search/indexing system written in Java.
+* [Sphnix Search Server](http://sphinxsearch.com/) - fulltext search engine.
+
 ## MySQL forks and evolutions
+
+* [Amazon RDS](http://aws.amazon.com/rds/) - MySQL databases in Amazon’s cloud.
+* [Drizzle](http://www.drizzle.org/) - evolution of MySQL 6.0.
+* [Google Cloud SQL](https://developers.google.com/cloud-sql/) - MySQL databases in Google’s cloud.
+* [MariaDB](https://mariadb.org/) - enhanced, drop-in replacement for MySQL.
+* [MySQL Cluster](http://www.mysql.com/products/cluster/) - MySQL implementation using NDB Cluster storage engine.
+* [Percona Server](http://www.percona.com/software/percona-server) - enhanced, drop-in replacement for MySQL.
+* [ProxySQL](https://github.com/renecannao/proxysql) - High Performance Proxy for MySQL.
+* [TokuDB](http://www.tokutek.com/products/tokudb-for-mysql/) - TokuDB is a storage engine for MySQL and MariaDB.
+* [WebScaleSQL](http://webscalesql.org/) - is a collaboration among engineers from several companies that face similar challenges in running MySQL at scale.
 
 ## Memcached forks and evolutions
 
+* [Facebook McDipper](https://www.facebook.com/notes/facebook-engineering/mcdipper-a-key-value-cache-for-flash-storage/10151347090423920) - key/value cache for flash storage.
+* [Facebook Memcached](https://www.facebook.com/notes/facebook-engineering/scaling-memcache-at-facebook/10151411410803920) - fork of Memcache.
+* [Twemproxy](https://github.com/twitter/twemproxy) - a fast, light-weight proxy for memcached and redis.
+* [Twitter Fatcache](https://github.com/twitter/fatcache) - key/value cache for flash storage.
+* [Twitter Twemcache](https://github.com/twitter/twemcache) - fork of Memcache.
+
 ## Embedded Databases
+
+* [BerkeleyDB](http://www.oracle.com/us/products/database/berkeley-db/overview/index.html) - a software library that provides a high-performance embedded database for key/value data.
+* [HanoiDB](https://github.com/krestenkrab/hanoidb) - Erlang LSM BTree Storage.
+* [LevelDB](https://code.google.com/p/leveldb/) - a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+* [LMDB](http://symas.com/mdb/) - ultra-fast, ultra-compact key-value embedded data store developed by Symas.
+* [RocksDB](http://rocksdb.org/) - embeddable persistent key-value store for fast storage based on LevelDB.
 
 ## Business Intelligence
 
+* [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
+* [Jedox Palo](http://www.jedox.com/) - customisable business intelligence platform.
+* [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
+* [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
+* [Pentaho](http://www.pentaho.com/) - business intelligence platform.
+* [Qlik](http://www.qlik.com/) - business intelligence and analytics platform.
+* [Tableau](https://www.tableausoftware.com/) - business intelligence platform.
+* [Spango BI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - open source business intelligence platform.
+
 ## Data Visualization
 
+* [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
+* [D3.js](http://d3js.org/) - javaScript library for manipulating documents.
+* [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
+* [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
+* [Google Charts](https://developers.google.com/chart/) - simple charting API.
+* [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
+* [NVD3](http://nvd3.org/) - chart components for d3.js.
+
 ## Interesting readings
+
+### 2001 - 2010
