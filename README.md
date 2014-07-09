@@ -26,6 +26,7 @@ Your contributions are always welcome!
     - [MySQL forks and evolutions](#mysql-forks-and-evolutions)
     - [Memcached forks and evolutions](#memcached-forks-and-evolutions)
     - [Embedded Databases](#embedded-databases)
+    - [Business Intelligence](#business-intelligence)
     - [Data Visualization](#data-visualization)
 
 ## Frameworks
@@ -162,7 +163,42 @@ Your contributions are always welcome!
 
 ## SQL-like processing
 
+* [AMPLAB Shark](https://github.com/amplab/shark/) - data warehouse system for Spark.
+* [Apache Drill](http://incubator.apache.org/drill/) - framework for interactive analysis, inspired by Dremel.
+* [Apache HCatalog](http://hive.apache.org/docs/hcat_r0.5.0/) - table and storage management layer for Hadoop.
+* [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
+* [Apache Phoenix](http://phoenix.incubator.apache.org/index.html) - SQL skin over HBase.
+* [BlinkDB](http://blinkdb.org/) - massively parallel, approximate query engine.
+* [Cloudera Impala](http://www.cloudera.com/content/cloudera/en/products/cdh/impala.html) - framework for interactive analysis, Inspired by Dremel.
+* [Concurrent Lingual](http://www.cascading.org/lingual/) - SQL-like query language for Cascading.
+* [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
+* [Facebook PrestoDB](http://prestodb.io/) - distributed SQL query engine.
+* [Google BigQuery](http://research.google.com/pubs/pub36632.html) - framework for interactive analysis, implementation of Dremel.
+* [Pivotal HAWQ](http://www.gopivotal.com/pivotal-products/data/pivotal-hd) - SQL-like data warehouse system for Hadoop.
+* [Spark Catalyst](https://github.com/apache/spark/tree/master/sql) - is a Query Optimization Framework for Spark and Shark.
+* [SparkSQL](http://databricks.com/blog/2014/03/26/Spark-SQL-manipulating-structured-data-using-Spark.html) - Manipulating Structured Data Using Spark.
+* [Splice Machine](http://www.splicemachine.com/) - a full-featured SQL-on-Hadoop RDBMS with ACID transactions.
+* [Stinger](http://hortonworks.com/labs/stinger/) - interactive query for Hive.
+* [Tajo](http://tajo.incubator.apache.org/) - distributed data warehouse system on Hadoop.
+
 ## Data Ingestion
+
+* [Amazon Kinesis]() - real-time processing of streaming data at massive scale.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* [Apache]() - SQL-like data warehouse system for Hadoop.
+* 
+
 
 ## Service Programming
 
@@ -186,4 +222,8 @@ Your contributions are always welcome!
 
 ## Embedded Databases
 
+## Business Intelligence
+
 ## Data Visualization
+
+## Readings
