@@ -31,6 +31,7 @@ Your contributions are always welcome!
     - [Data Visualization](#data-visualization)
     - [Interesting Readings](#interesting-readings)
     - [Interesting Papers](#interesting-papers)
+- [Other Awesome Lists](#other-awesome-lists)
 
 ## Frameworks
 
@@ -411,3 +412,6 @@ Your contributions are always welcome!
 * [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - **Google** - Bigtable: A Distributed Storage System for Structured Data.
 * [2004](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/mapreduce-osdi04.pdf) - **Google** - MapReduce: Simplied Data Processing on Large Clusters.
 * [2003](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/gfs-sosp2003.pdf) - **Google** - The Google File System.
+
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
