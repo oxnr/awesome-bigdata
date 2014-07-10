@@ -128,6 +128,7 @@ Your contributions are always welcome!
 * [OpenTSDB](http://opentsdb.net/) - distributed time series database on top of HBase.
 * [Redis](http://redis.io/) - in memory key value datastore.
 * [Storehaus](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
+* [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 
 ## Graph Data Model
 
