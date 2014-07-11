@@ -13,6 +13,7 @@ Your contributions are always welcome!
     - [Key-value Data Model](#key-value-data-model)
     - [Graph Data Model](#graph-data-model)
     - [NewSQL Databases](#newsql-databases)
+    - [Time-Series Databases](#time-series-databases)
     - [SQL-like processing](#sql-like-processing)
     - [Integrated Development Environments](#integrated-development-environments)
     - [Data Ingestion](#data-ingestion)
@@ -165,6 +166,14 @@ Your contributions are always welcome!
 * [SenseiDB](http://senseidb.com/) - distributed, realtime, semi-structured database.
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
+
+## Time-Series Databases
+
+* [TempoDB](https://tempo-db.com/) - Cloud-based
+* [InfluxDB](http://influxdb.com/) - Open-source distributed time series database
+* [OpenTSDB](http://opentsdb.net/) - uses HBase
+* [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra
+* [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data
 
 ## SQL-like processing
 
