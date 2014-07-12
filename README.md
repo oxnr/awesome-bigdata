@@ -302,6 +302,7 @@ Your contributions are always welcome!
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA’s scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
+* [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop’s MapReduce.
 * [Hunk](http://www.splunk.com/download/hunk) - Splunk analytics for Hadoop.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
