@@ -128,6 +128,7 @@ Your contributions are always welcome!
 * [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
 * [OpenTSDB](http://opentsdb.net/) - distributed time series database on top of HBase.
 * [Redis](http://redis.io/) - in memory key value datastore.
+* [Riak](https://github.com/basho/riak) - a decentralized datastore.
 * [Storehaus](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
 * [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 
@@ -367,13 +368,21 @@ Your contributions are always welcome!
 
 ## Data Visualization
 
+* [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
-* [D3.js](http://d3js.org/) - javaScript library for manipulating documents.
+* [Cubism](https://github.com/square/cubism) - JavaScript library for time series visualization.
+* [D3](http://d3js.org/) - javaScript library for manipulating documents.
+* [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
 * [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
 * [Google Charts](https://developers.google.com/chart/) - simple charting API.
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
+* [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
+* [Peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
+* [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
+* [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
+* [Vega](https://github.com/trifacta/vega) - a visualization grammar.
 
 ## Interesting Readings
 
