@@ -138,6 +138,7 @@ Your contributions are always welcome!
 * [Apache Spark Bagel](http://spark.incubator.apache.org/docs/0.7.3/bagel-programming-guide.html) - implementation of Pregel, part of Spark.
 * [ArangoDB](https://www.arangodb.org/) - multi model distribuited database.
 * [Facebook TAO](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920) - TAO is the distributed data store that is widely used at facebook to store and serve the social graph.
+* [Gremlin](https://github.com/tinkerpop/gremlin) - graph traversal Language.
 * [Google Cayley](https://github.com/google/cayley) - open-source graph database.
 * [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) - graph processing framework.
 * [GraphLab PowerGraph](http://graphlab.org/projects/source.html) - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
@@ -163,6 +164,7 @@ Your contributions are always welcome!
 * [MemSQL](http://www.memsql.com/) - in memory SQL database witho optimized columnar storage on flash.
 * [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
+* [SAP HANA](http://www.saphana.com/welcome) - SQL based in-memory database.
 * [SenseiDB](http://senseidb.com/) - distributed, realtime, semi-structured database.
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
@@ -226,6 +228,7 @@ Your contributions are always welcome!
 * [Apache Karaf](http://karaf.apache.org/) - OSGi runtime that runs on top of any OSGi framework.
 * [Apache Thrift](http://thrift.apache.org//) - framework to build binary protocols.
 * [Apache Zookeeper](http://zookeeper.apache.org/) - centralized service for process management.
+* [Apache Avro](http://avro.apache.org/) - data serialization system.
 * [Google Chubby](http://research.google.com/archive/chubby.html) - a lock service for loosely-coupled distributed systems.
 * [Linkedin Norbert](http://data.linkedin.com/opensource/norbert) - cluster manager.
 * [OpenMPI](http://www.open-mpi.org/) - message passing framework.
