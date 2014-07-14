@@ -369,6 +369,7 @@ Your contributions are always welcome!
 * [Qlik](http://www.qlik.com/) - business intelligence and analytics platform.
 * [Tableau](https://www.tableausoftware.com/) - business intelligence platform.
 * [Spango BI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - open source business intelligence platform.
+* [BIRT](http://www.eclipse.org/birt/) - open source business intelligence reporting tool.
 
 ## Data Visualization
 
