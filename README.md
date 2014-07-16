@@ -20,7 +20,7 @@ Your contributions are always welcome!
     - [Service Programming](#service-programming)
     - [Scheduling](#scheduling)
     - [Machine Learning](#machine-learning)
-    - [Bechmarking](#benchmarking)
+    - [Benchmarking](#benchmarking)
     - [Security](#security)
     - [System Deployment](#system-deployment)
     - [Applications](#applications)
@@ -266,7 +266,7 @@ Your contributions are always welcome!
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
 
-## Bechmarking
+## Benchmarking
 
 * [Apache Hadoop Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-3561) - micro-benchmarks for testing Hadoop performances.
 * [Berkeley SWIM Benchmark](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
