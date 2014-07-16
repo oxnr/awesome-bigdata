@@ -228,7 +228,6 @@ Your contributions are always welcome!
 * [Apache Karaf](http://karaf.apache.org/) - OSGi runtime that runs on top of any OSGi framework.
 * [Apache Thrift](http://thrift.apache.org//) - framework to build binary protocols.
 * [Apache Zookeeper](http://zookeeper.apache.org/) - centralized service for process management.
-* [Apache Avro](http://avro.apache.org/) - data serialization system.
 * [Google Chubby](http://research.google.com/archive/chubby.html) - a lock service for loosely-coupled distributed systems.
 * [Linkedin Norbert](http://data.linkedin.com/opensource/norbert) - cluster manager.
 * [OpenMPI](http://www.open-mpi.org/) - message passing framework.
