@@ -310,6 +310,7 @@ Your contributions are always welcome!
 * [Hunk](http://www.splunk.com/download/hunk) - Splunk analytics for Hadoop.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
 * [PivotalR](https://github.com/gopivotal/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
+* [Qubole](http://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
 * [Snowplow](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 * [Splunk](http://www.splunk.com/) - analyzer for machine-generated date.
