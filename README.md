@@ -361,6 +361,7 @@ Your contributions are always welcome!
 
 ## Business Intelligence
 
+* [Chartio](https://chartio.com) - The best way to visualize and explore your data.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable business intelligence platform.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
