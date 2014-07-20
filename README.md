@@ -185,7 +185,7 @@ Your contributions are always welcome!
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
 * [Apache Phoenix](http://phoenix.incubator.apache.org/index.html) - SQL skin over HBase.
 * [BlinkDB](http://blinkdb.org/) - massively parallel, approximate query engine.
-* [Cloudera Impala](http://www.cloudera.com/content/cloudera/en/products/cdh/impala.html) - framework for interactive analysis, Inspired by Dremel.
+* [Cloudera Impala](http://www.cloudera.com/content/cloudera/en/products-and-services/cdh/impala.html) - framework for interactive analysis, Inspired by Dremel.
 * [Concurrent Lingual](http://www.cascading.org/lingual/) - SQL-like query language for Cascading.
 * [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
 * [Facebook PrestoDB](http://prestodb.io/) - distributed SQL query engine.
