@@ -232,6 +232,7 @@ Your contributions are always welcome!
 * [Linkedin Norbert](http://data.linkedin.com/opensource/norbert) - cluster manager.
 * [OpenMPI](http://www.open-mpi.org/) - message passing framework.
 * [Serf](http://www.serfdom.io/) - decentralized solution for service discovery and orchestration.
+* [Spotify Luigi] (https://github.com/spotify/luigi) - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 * [Spring XD](https://github.com/spring-projects/spring-xd) - distributed and extensible system for data ingestion, real time analytics, batch processing, and data export.
 * [Twitter Elephant Bird](https://github.com/kevinweil/elephant-bird) - libraries for working with LZOP-compressed data.
 * [Twitter Finagle](https://twitter.github.io/finagle/) - asynchronous network stack for the JVM.
