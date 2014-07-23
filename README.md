@@ -81,6 +81,7 @@ Your contributions are always welcome!
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
 * [Facebook Haystack](https://www.facebook.com/note.php?note_id=76191543919) - object storage system.
+* [GlusterFS](http://www.gluster.org/) - open-source distributed file system.
 * [Google Colossus](https://google.com/) - distributed filesystem (GFS2).
 * [Google GFS](https://google.com/) - distributed filesystem.
 * [Google Megastore](http://research.google.com/pubs/pub36971.html) - scalable, highly available storage.
