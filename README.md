@@ -378,6 +378,7 @@ Your contributions are always welcome!
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
 * [Cubism](https://github.com/square/cubism) - JavaScript library for time series visualization.
+* [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks
 * [D3](http://d3js.org/) - javaScript library for manipulating documents.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
 * [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
