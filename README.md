@@ -155,6 +155,7 @@ Your contributions are always welcome!
 
 * [Amazon RedShift](http://aws.amazon.com/redshift/) - data warehouse service, based on PostgreSQL.
 * [BayesDB](http://probcomp.csail.mit.edu/bayesdb/index.html) - statistic oriented SQL database.
+* [Datomic](http://www.datomic.com/) - distributed database designed to enable scalable, flexible and intelligent applications.
 * [FoundationDB](https://foundationdb.com/) - distributed database, inspired by F1.
 * [Google F1](http://research.google.com/pubs/pub41344.html) - distributed SQL database built on Spanner.
 * [Google Spanner](http://research.google.com/archive/spanner.html) - globally distributed semi-relational database.
@@ -209,6 +210,7 @@ Your contributions are always welcome!
 * [Cloudera Morphlines](https://github.com/cloudera/cdk/tree/master/cdk-morphlines) - framework that help ETL to Solr, HBase and HDFS.
 * [Facebook Scribe](https://github.com/facebook/scribe) - streamed log data aggregator.
 * [Fluentd](http://fluentd.org/) - tool to collect events and logs.
+* [Heka](https://github.com/mozilla-services/heka) - open source stream processing software system.
 * [HIHO](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
 * [Kestrel](http://robey.github.io/kestrel/) - distributed message queue system.
 * [LinkedIn Databus](http://data.linkedin.com/projects/databus) - stream of change capture events for a database.
@@ -388,6 +390,7 @@ Your contributions are always welcome!
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
+* [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
