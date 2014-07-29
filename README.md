@@ -145,6 +145,7 @@ Your contributions are always welcome!
 * [GraphLab PowerGraph](http://graphlab.org/projects/source.html) - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
 * [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
 * [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
+* [Infovore](https://github.com/paulhoule/infovore) -- RDF-centric Map/Reduce framework
 * [Neo4j](http://www.neo4j.org/) - graph database writting entirely in Java.
 * [OrientDB](http://www.orientechnologies.com/) - document and graph database.
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
