@@ -117,6 +117,7 @@ Your contributions are always welcome!
 * [LinkedIn Espresso](http://data.linkedin.com/projects/espresso) - horizontally scalable document-oriented NoSQL data store.
 * [MarkLogic](http://www.marklogic.com/) - Schema-agnostic Enterprise NoSQL database technology.
 * [MongoDB](http://www.mongodb.org/) - Document-oriented database system.
+* [RavenDB](http://www.ravendb.net/) - A transactional, open-source Document Database
 * [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
 
 ## Key-value Data Model
