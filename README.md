@@ -385,6 +385,7 @@ Your contributions are always welcome!
 * [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks
 * [D3](http://d3js.org/) - javaScript library for manipulating documents.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
+* [Freeboard](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
 * [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
 * [Google Charts](https://developers.google.com/chart/) - simple charting API.
