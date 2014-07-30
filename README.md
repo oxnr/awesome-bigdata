@@ -30,6 +30,7 @@ Your contributions are always welcome!
     - [Embedded Databases](#embedded-databases)
     - [Business Intelligence](#business-intelligence)
     - [Data Visualization](#data-visualization)
+    - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
     - [Interesting Readings](#interesting-readings)
     - [Interesting Papers](#interesting-papers)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -175,7 +176,6 @@ Your contributions are always welcome!
 * [Pivotal GemFire XD](http://gemfirexd.docs.gopivotal.com/latest/userguide/index.html?q=about_users_guide.html/) - Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.
 ## Time-Series Databases
 
-* [TempoDB](https://tempo-db.com/) - Cloud-based
 * [InfluxDB](http://influxdb.com/) - Open-source distributed time series database
 * [OpenTSDB](http://opentsdb.net/) - uses HBase
 * [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra
@@ -397,6 +397,10 @@ Your contributions are always welcome!
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
+
+## Internet of things and sensor data
+
+* [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics
 
 ## Interesting Readings
 
