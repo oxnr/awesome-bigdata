@@ -218,6 +218,7 @@ Your contributions are always welcome!
 * [LinkedIn Databus](http://data.linkedin.com/projects/databus) - stream of change capture events for a database.
 * [LinkedIn Kamikaze](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
 * [LinkedIn White Elephant](https://github.com/linkedin/white-elephant) -  log aggregator and dashboard.
+* [Logstash](http://logstash.net) - a tool for managing events and logs.
 * [Netflix Suro](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
 * [Pinterest Secor](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 
