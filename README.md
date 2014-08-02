@@ -404,7 +404,7 @@ Your contributions are always welcome!
 * [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
 * [Qlik](http://www.qlik.com/) - business intelligence and analytics platform.
-* [Spango BI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - .
+* [Spango BI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - open source business intelligence platform.
 * [Tableau](https://www.tableausoftware.com/) - business intelligence platform.
 * [Zoomdata](http://www.zoomdata.com/) - Big Data Analytics.
 
