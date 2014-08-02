@@ -32,7 +32,8 @@ Your contributions are always welcome!
     - [Business Intelligence](#business-intelligence)
     - [Data Visualization](#data-visualization)
     - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
-
+    - [Interesting Readings](#interesting-readings)
+    - [Interesting Papers](#interesting-papers)
 - [Other Awesome Lists](#other-awesome-lists)
 
 
