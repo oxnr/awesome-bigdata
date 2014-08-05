@@ -398,6 +398,7 @@ Your contributions are always welcome!
 
 ## Business Intelligence
 
+* [BIME Analytics](http://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
