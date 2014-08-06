@@ -8,11 +8,12 @@ Your contributions are always welcome!
     - [Frameworks](#frameworks)
     - [Distributed Programming](#distributed-programming)
     - [Distributed Filesystem](#distributed-filesystem)
-    - [Column Data Model](#column-data-model)
+    - [Key-Map Data Model](#key-map-data-model)
     - [Document Data Model](#document-data-model)
     - [Key-value Data Model](#key-value-data-model)
     - [Graph Data Model](#graph-data-model)
     - [NewSQL Databases](#newsql-databases)
+    - [Columnar Databases](#columnar-databases)
     - [Time-Series Databases](#time-series-databases)
     - [SQL-like processing](#sql-like-processing)
     - [Integrated Development Environments](#integrated-development-environments)
@@ -98,25 +99,7 @@ Your contributions are always welcome!
 * [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
 * [Tachyon](http://tachyon-project.org/) - reliable file sharing at memory speed across cluster frameworks.
 
-## Column Data Model
 
-* [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
-* [Apache Accumulo](http://accumulo.apache.org/) - distribuited key/value store, built on Hadoop.
-* [Apache Cassandra](http://cassandra.apache.org/) - column-oriented distribuited datastore, inspired by BigTable.
-* [Apache HBase](http://hbase.apache.org/) - column-oriented distribuited datastore, inspired by BigTable.
-* [C-Store](http://db.lcs.mit.edu/projects/cstore/) - column oriented DBMS.
-* [Facebook HydraBase](https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/) - evolution of HBase made by Facebook.
-* [Google BigTable](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - column-oriented distributed datastore.
-* [Google Cloud Datastore](https://developers.google.com/datastore/) - is a fully managed, schemaless database for storing non-relational data over BigTable.
-* [Hypertable](http://hypertable.org/) - column-oriented distribuited datastore, inspired by BigTable.
-* [InfiniDB](http://infinidb.co/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
-* [MonetDB](https://www.monetdb.org/) - column store database.
-* [OhmData C5](http://ohmdata.com/) - improved version of HBase.
-* [Parquet](http://parquet.io/) - columnar storage format for Hadoop.
-* [Pivotal Greenplum](https://www.pivotal.io/big-data/pivotal-greenplum-database) - purpose-built, dedicated analytic data warehouse.
-* [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
-* [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
-* [Vertica](http://www.vertica.com/) - is designed to manage large, fast-growing volumes of data and provide very fast query performance when used for data warehouses.
 
 ## Document Data Model
 
@@ -129,6 +112,31 @@ Your contributions are always welcome!
 * [MongoDB](http://www.mongodb.org/) - Document-oriented database system.
 * [RavenDB](http://www.ravendb.net/) - A transactional, open-source Document Database.
 * [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
+
+## Key Map Data Model
+
+**Note**: There is some term confusion in the industry, and two different things are called "Columnar Databases". Some, listed here, are distributed, persistent databases built around the "key-map" data model: all data has a (possibly composite) key, with which a map of key-value pairs is associated. In some systems, multiple such value maps can be associated with a key, and these maps are referred to as "column families" (with value map keys being referred to as "columns").
+
+Another group of technologies that can also be called "columnar databases" is distinguished by how it stores data, on disk or in memory -- rather than storing data the traditional way, where all column values for a given key are stored next to each other, "row by row", these systems store all *column* values next to each other. So more work is needed to get all columns for a given key, but less work is needed to get all values for a given column.
+
+The former group is referred to as "key map data model" here. The line between these and the [Key-value Data Model](#key-value-data-model) stores is fairly blurry.
+ 
+The latter, being more about the storage format than about the data model, is listed under [Columnar Databases](#columnar-databases).
+
+You can read more about this distinction on Prof. Daniel Abadi's blog: [Distinguishing two major types of Column Stores](http://dbmsmusings.blogspot.com/2010/03/distinguishing-two-major-types-of_29.html). 
+
+* [Apache Accumulo](http://accumulo.apache.org/) - distribuited key/value store, built on Hadoop.
+* [Apache Cassandra](http://cassandra.apache.org/) - column-oriented distribuited datastore, inspired by BigTable.
+* [Apache HBase](http://hbase.apache.org/) - column-oriented distribuited datastore, inspired by BigTable.
+* [Facebook HydraBase](https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/) - evolution of HBase made by Facebook.
+* [Google BigTable](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - column-oriented distributed datastore.
+* [Google Cloud Datastore](https://developers.google.com/datastore/) - is a fully managed, schemaless database for storing non-relational data over BigTable.
+* [Hypertable](http://hypertable.org/) - column-oriented distribuited datastore, inspired by BigTable.
+* [InfiniDB](http://infinidb.co/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
+* [OhmData C5](http://ohmdata.com/) - improved version of HBase.
+* [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
+* [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
+
 
 ## Key-value Data Model
 
@@ -163,6 +171,21 @@ Your contributions are always welcome!
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
 * [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
 * [Twitter FlockDB](https://github.com/twitter/flockdb) - distribuited graph database.
+
+
+## Columnar Databases
+
+**Note** please read the note on [Key-Map Data Model](#key-map-data-model) section.
+
+* [Columnar Storage](http://the-paper-trail.org/blog/columnar-storage/) - an explanation of what columnar storage is and when you might want it.
+* [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
+* [C-Store](http://db.lcs.mit.edu/projects/cstore/) - column oriented DBMS.
+* [MonetDB](https://www.monetdb.org/) - column store database.
+* [Parquet](http://parquet.incubator.apache.org/) - columnar storage format for Hadoop.
+* [Pivotal Greenplum](https://www.pivotal.io/big-data/pivotal-greenplum-database) - purpose-built, dedicated analytic data warehouse that offers a columnar engine as well as a traditional row-based one.
+* [Vertica](http://www.vertica.com/) - is designed to manage large, fast-growing volumes of data and provide very fast query performance when used for data warehouses.
+* [Google BigQuery](https://developers.google.com/bigquery/) Google's cloud offering backed by their pioneering work on Dremel.
+* [Amazon Redshift](http://aws.amazon.com/redshift/) Amazon's cloud offering, also based on a columnar datastore backend.
 
 ## NewSQL Databases
 
