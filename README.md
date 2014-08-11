@@ -430,7 +430,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
 * [Qlik](http://www.qlik.com/) - business intelligence and analytics platform.
-* [Spango BI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - open source business intelligence platform.
+* [SpagoBI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - open source business intelligence platform.
 * [Tableau](https://www.tableausoftware.com/) - business intelligence platform.
 * [Zoomdata](http://www.zoomdata.com/) - Big Data Analytics.
 
@@ -449,10 +449,11 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
+* [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
-* [Plot,ly](http://plot.ly) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
+* [Plot.ly](http://plot.ly) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
