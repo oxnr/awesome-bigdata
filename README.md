@@ -37,7 +37,6 @@ Your contributions are always welcome!
     - [Interesting Papers](#interesting-papers)
 - [Other Awesome Lists](#other-awesome-lists)
 
-
 ## Frameworks
 
 * [Apache Hadoop](http://hadoop.apache.org/) - framework for distributed processing. Integrates MapReduce (parallel processing), YARN (job scheduling) and HDFS (distributed file system).
@@ -98,8 +97,6 @@ Your contributions are always welcome!
 * [Quantcast File System QFS](https://www.quantcast.com/engineering/qfs/) - open-source distributed file system.
 * [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
 * [Tachyon](http://tachyon-project.org/) - reliable file sharing at memory speed across cluster frameworks.
-
-
 
 ## Document Data Model
 
@@ -353,6 +350,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
+* [Domino](http://www.dominoup.com/) - Run, scale, share, and deploy models — without any infrastructure.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
@@ -360,6 +358,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
 * [PivotalR](https://github.com/gopivotal/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](http://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
+* [Sense](https://senseplatform.com//) - Cloud Platform for Data Science and Big Data Analytics.
 * [Snowplow](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 * [Splunk](http://www.splunk.com/) - analyzer for machine-generated date.
