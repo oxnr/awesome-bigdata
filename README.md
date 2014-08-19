@@ -137,6 +137,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Key-value Data Model
 
+* [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
 * [Amazon DynamoDB](http://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
 * [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
@@ -148,7 +149,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Riak](https://github.com/basho/riak) - a decentralized datastore.
 * [Storehaus](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
 * [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
-* [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
+* [TreodeDB](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
+
 
 ## Graph Data Model
 
