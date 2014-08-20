@@ -348,7 +348,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Applications
 
-* [Apache Kiji](http://www.kiji.org/) - framework to collect and analyze data in real-time, based on HBase.
+* [Adobe spindle](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
+* [Apache Kiji](http://www.kiji.org/) - framework to collect and analyze data in real-time, based on HBase.
 * [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
