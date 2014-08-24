@@ -526,4 +526,13 @@ for Data Analytics at Twitter.
 * [2003](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/gfs-sosp2003.pdf) - **Google** - The Google File System.
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+Even more lists [awesome](https://github.com/sindresorhus/awesome).
+Another list? [list](https://github.com/jnv/lists).
+WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
+There [awesome-awesomenes](https://github.com/fleveque/awesome-awesomes).
+are [awesome-awesomene](https://github.com/oyvindrobertsen/awesome-awesome).
+way [awesome-awesomene](https://github.com/erichs/awesome-awesome).
+to [awesome-awesomene](https://github.com/erichs/awesome-awesome).
+many [awesome-awesomene](https://github.com/emijrp/awesome-awesome).
+lists. [awesome-all](https://github.com/bradoyler/awesome-all).
