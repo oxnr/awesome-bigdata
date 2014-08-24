@@ -530,9 +530,4 @@ for Data Analytics at Twitter.
 - Even more lists [awesome](https://github.com/sindresorhus/awesome).
 - Another list? [list](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- There [awesome-awesomenes](https://github.com/fleveque/awesome-awesomes).
-- are [awesome-awesomene](https://github.com/oyvindrobertsen/awesome-awesome).
-- way [awesome-awesomene](https://github.com/erichs/awesome-awesome).
-- to [awesome-awesomene](https://github.com/erichs/awesome-awesome).
-- many [awesome-awesomene](https://github.com/emijrp/awesome-awesome).
-- lists. [awesome-all](https://github.com/bradoyler/awesome-all).
+- Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
