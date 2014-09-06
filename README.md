@@ -442,6 +442,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Crossfilter](http://square.github.io/crossfilter/) -  JavaScript library for exploring large multivariate datasets in the browser. Works well with dc.js and d3.js. 
 * [Cubism](https://github.com/square/cubism) - JavaScript library for time series visualization.
 * [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks.
+* [Datawrapper](http://datawrapper.de/) - An open source, forkable tool helping anyone to create simple, correct and embeddable charts in minutes, and develop more advanced visualizations on their own server.
 * [DC.js](http://dc-js.github.io/dc.js/) - Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3.
 * [D3](http://d3js.org/) - javaScript library for manipulating documents.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
@@ -456,9 +457,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
 * [Plot.ly](http://plot.ly) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
-* [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
+* [Recline.js](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
+* [Tableau Public](http://www.tableausoftware.com/public/) - Free software from aforementioned BI platform Tableau Software that can allow anyone to connect to a spreadsheet or file and create interactive data visualizations for the web.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
 
 ## Internet of things and sensor data
