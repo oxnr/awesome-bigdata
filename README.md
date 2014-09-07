@@ -444,6 +444,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 * [CartoDB](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API. 
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
+* [Chartist.js](https://github.com/gionkunz/chartist-js) - another open source HTML5 Charts visualization.
 * [Crossfilter](http://square.github.io/crossfilter/) -  JavaScript library for exploring large multivariate datasets in the browser. Works well with dc.js and d3.js. 
 * [Cubism](https://github.com/square/cubism) - JavaScript library for time series visualization.
 * [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks.
