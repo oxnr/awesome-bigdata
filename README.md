@@ -365,7 +365,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Sense](https://senseplatform.com//) - Cloud Platform for Data Science and Big Data Analytics.
 * [Snowplow](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
-* [Splunk](http://www.splunk.com/) - analyzer for machine-generated date.
+* [Splunk](http://www.splunk.com/) - analyzer for machine-generated data.
+* [Sumo Logic](http://www.sumologic.com/) - cloud based analyzer for machine-generated data.
 * [Talend](http://www.talend.com/products/big-data) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
 
 ## Search engine and framework
