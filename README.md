@@ -473,6 +473,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Internet of things and sensor data
 
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
+* [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
 
 ## Interesting Readings
 
