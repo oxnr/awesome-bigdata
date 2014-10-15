@@ -460,6 +460,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
 * [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
+* [Kibana](http://www.elasticsearch.org/overview/kibana/) - visualize logs and time-stamped data
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
