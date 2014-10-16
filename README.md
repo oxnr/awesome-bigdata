@@ -211,6 +211,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SenseiDB](http://senseidb.com/) - distributed, realtime, semi-structured database.
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
+* [Map-D](http://www.map-d.com/) - GPU in-memory database, big data analysis and visualization platform
 
 ## Time-Series Databases
 
@@ -473,6 +474,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Internet of things and sensor data
 
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
+* [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
 
 ## Interesting Readings
 
