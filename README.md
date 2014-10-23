@@ -35,6 +35,7 @@ Your contributions are always welcome!
     - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
     - [Interesting Readings](#interesting-readings)
     - [Interesting Papers](#interesting-papers)
+    - [Videos](#videos)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Frameworks
@@ -532,6 +533,15 @@ for Data Analytics at Twitter.
 * [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - **Google** - Bigtable: A Distributed Storage System for Structured Data.
 * [2004](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/mapreduce-osdi04.pdf) - **Google** - MapReduce: Simplied Data Processing on Large Clusters.
 * [2003](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/gfs-sosp2003.pdf) - **Google** - The Google File System.
+ 
+## Videos
+
+### Data Visualization
+ * [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
+ * [Designing Data Visualizations with Noah Iliinsky](https://www.youtube.com/watch?v=R-oiKt7bUU8)
+ * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)
+ * [Ice Bucket Challenge Data Visualization](https://www.youtube.com/watch?v=qTEchen97rQ)
+ 
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
