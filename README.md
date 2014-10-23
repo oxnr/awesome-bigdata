@@ -476,6 +476,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
 * [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
+* [Pubnub] - (http://www.pubnub.com/) - Data stream network
+* [ThingWorx] - (http://www.thingworx.com/) - Rapid development and connection of intelligent systems
+* [IFTTT] - (https://ifttt.com/) - If this then that
+* [Evrything] - (https://evrythng.com/)- Making products smart
 
 ## Interesting Readings
 
