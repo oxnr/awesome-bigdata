@@ -536,6 +536,7 @@ for Data Analytics at Twitter.
  * [Designing Data Visualizations with Noah Iliinsky](https://www.youtube.com/watch?v=R-oiKt7bUU8)
  * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)
  * [Ice Bucket Challenge Data Visualization](https://www.youtube.com/watch?v=qTEchen97rQ)
+ * [a visual analysis of Skateboarding battle](http://www.georgelmurphy.com/berrics/)
  
 
 # Other Awesome Lists
