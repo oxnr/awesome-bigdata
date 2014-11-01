@@ -361,6 +361,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](http://www.splunk.com/download/hunk) - Splunk analytics for Hadoop.
+* [Imhotep](http://indeedeng.github.io/imhotep/) - Large scale analytics platform by indeed.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
 * [Kylin](http://www.kylin.io/) - open source Distributed Analytics Engine from eBay.
 * [PivotalR](https://github.com/gopivotal/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
