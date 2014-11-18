@@ -467,6 +467,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - visualize logs and time-stamped data
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
+* [Metricsgraphic.js](http://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
 * [Plot.ly](http://plot.ly) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
