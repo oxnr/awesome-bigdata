@@ -448,6 +448,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Data Visualization
 
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
+* [Banana](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
 * [C3](http://c3js.org/) - D3-based reusable chart library
 * [CartoDB](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API. 
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
