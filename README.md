@@ -78,6 +78,7 @@ Your contributions are always welcome!
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
 * [Pinterest Pinlater](http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system) - asynchronous job execution system.
 * [Pydoop](http://pydoop.sourceforge.net/docs/) - Python MapReduce and HDFS API for Hadoop.
+* [Rackerlabs Blueflood] (http://blueflood.io/) - multi-tenant distributed metric processing system
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - usefull for counting activities of event streams over different time windows and finding the most active one.
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
