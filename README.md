@@ -1,4 +1,3 @@
-@@ -1,90 +1,4 @@
 # Awesome Big Data
 
 A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://blog.andreamostosi.name/big-data/).
@@ -36,6 +35,7 @@ Your contributions are always welcome!
     - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
     - [Interesting Readings](#interesting-readings)
     - [Interesting Papers](#interesting-papers)
+    - [Videos](#videos)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Frameworks
@@ -78,6 +78,7 @@ Your contributions are always welcome!
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
 * [Pinterest Pinlater](http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system) - asynchronous job execution system.
 * [Pydoop](http://pydoop.sourceforge.net/docs/) - Python MapReduce and HDFS API for Hadoop.
+* [Rackerlabs Blueflood] (http://blueflood.io/) - multi-tenant distributed metric processing system
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - usefull for counting activities of event streams over different time windows and finding the most active one.
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
@@ -86,11 +87,10 @@ Your contributions are always welcome!
 
 ## Distributed Filesystem
 
-@@ -88,7 +88,6 @@ Your contributions are always welcome!
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
 * [BeeGFS](http://www.fhgfs.com/cms/) - formerly FhGFS, parallel distributed file system.
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
-@@ -92,49 +6,7 @@ Your contributions are always welcome!
+* [Disco DDFS](http://disco.readthedocs.org/en/latest/howto/ddfs.html) - distributed filesystem.
 * [Facebook Haystack](https://www.facebook.com/note.php?note_id=76191543919) - object storage system.
 * [Google Colossus](https://google.com/) - distributed filesystem (GFS2).
 * [Google GFS](https://google.com/) - distributed filesystem.
@@ -137,11 +137,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
 
-@@ -138,7 +137,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Key-value Data Model
 
-@@ -142,289 +14,27 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
+* [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
 * [Amazon DynamoDB](http://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
 * [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
@@ -150,13 +149,11 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
 * [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) - distributed key-value database by Oracle Corporation.
 * [Redis](http://redis.io) - in memory key value datastore.
-@@ -150,8 +148,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Riak](https://github.com/basho/riak) - a decentralized datastore.
 * [Storehaus](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
 * [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 * [TreodeDB](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
 
-* [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
 
 ## Graph Data Model
 
@@ -216,6 +213,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SenseiDB](http://senseidb.com/) - distributed, realtime, semi-structured database.
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
+* [Map-D](http://www.map-d.com/) - GPU in-memory database, big data analysis and visualization platform
+* [VoltDB](http://voltdb.com/) - claim to be fastest in-memory database
 
 ## Time-Series Databases
 
@@ -316,6 +315,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 * [PredictionIO](http://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
+* [SAMOA](http://samoa-project.net/) - distributed streaming machine learning framework.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
@@ -351,13 +351,11 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Google Omega](https://www.youtube.com/watch?v=0ZFMlO98Jkc) - job scheduling and monitoring system.
 * [Hortonworks HOYA](http://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/) - application that can deploy HBase cluster on YARN.
 * [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
-@@ -349,8 +346,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Applications
 
 * [Adobe spindle](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
 * [Apache Kiji](http://www.kiji.org/) - framework to collect and analyze data in real-time, based on HBase.
-* [Apache Kiji](http://www.kiji.org/) - framework to collect and analyze data in real-time, based on HBase.
 * [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
@@ -366,13 +364,16 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](http://www.splunk.com/download/hunk) - Splunk analytics for Hadoop.
+* [Imhotep](http://indeedeng.github.io/imhotep/) - Large scale analytics platform by indeed.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
+* [Kylin](http://www.kylin.io/) - open source Distributed Analytics Engine from eBay.
 * [PivotalR](https://github.com/gopivotal/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](http://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
 * [Sense](https://senseplatform.com//) - Cloud Platform for Data Science and Big Data Analytics.
 * [Snowplow](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
-* [Splunk](http://www.splunk.com/) - analyzer for machine-generated date.
+* [Splunk](http://www.splunk.com/) - analyzer for machine-generated data.
+* [Sumo Logic](http://www.sumologic.com/) - cloud based analyzer for machine-generated data.
 * [Talend](http://www.talend.com/products/big-data) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
 
 ## Search engine and framework
@@ -432,11 +433,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [RocksDB](http://rocksdb.org/) - embeddable persistent key-value store for fast storage based on LevelDB.
 
 ## Business Intelligence
-@@ -428,7 +424,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [BIME Analytics](http://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
-@@ -432,98 +42,34 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
+* [datapine](http://www.datapine.com/) - self-service business intelligence tool in the cloud.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
@@ -450,40 +450,46 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Data Visualization
 
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
+* [Banana](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
+* [C3](http://c3js.org/) - D3-based reusable chart library
 * [CartoDB](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API. 
-* [C3.js](https://github.com/masayuki0812/c3) - D3-based reusable chart library.
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
-@@ -447,6 +442,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
+* [Chartist.js](https://github.com/gionkunz/chartist-js) - another open source HTML5 Charts visualization.
 * [Crossfilter](http://square.github.io/crossfilter/) -  JavaScript library for exploring large multivariate datasets in the browser. Works well with dc.js and d3.js. 
 * [Cubism](https://github.com/square/cubism) - JavaScript library for time series visualization.
 * [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks.
-* [Datawrapper](http://datawrapper.de/) - An open source, forkable tool helping anyone to create simple, correct and embeddable charts in minutes, and develop more advanced visualizations on their own server.
 * [DC.js](http://dc-js.github.io/dc.js/) - Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3.
 * [D3](http://d3js.org/) - javaScript library for manipulating documents.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
+* [FnordMetric](http://fnordmetric.io/) - write SQL queries that return SVG charts rather than tables
 * [Freeboard](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
 * [Gephi](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X. 
-@@ -455,15 +451,16 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Google Charts](https://developers.google.com/chart/) - simple charting API.
 * [Grafana](http://grafana.org/) - graphite dashboard frontend, editor and graph composer.
 * [Graphite](http://graphite.wikidot.com/) - scalable Realtime Graphing.
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
-* [Highcharts.js](http://www.highcharts.com/) - simple and flexible charting API.
 * [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
+* [Kibana](http://www.elasticsearch.org/overview/kibana/) - visualize logs and time-stamped data
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
+* [Metricsgraphic.js](http://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
 * [Plot.ly](http://plot.ly) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
-* [Recline.js](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
-* [Tableau Public](http://www.tableausoftware.com/public/) - Free software from aforementioned BI platform Tableau Software that can allow anyone to connect to a spreadsheet or file and create interactive data visualizations for the web.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
+* [Zing Charts](http://www.zingchart.com/) - JavaScript charting library for big data.
+
 
 ## Internet of things and sensor data
 
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
+* [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
+* [Pubnub] - (http://www.pubnub.com/) - Data stream network
+* [ThingWorx] - (http://www.thingworx.com/) - Rapid development and connection of intelligent systems
+* [IFTTT] - (https://ifttt.com/) - If this then that
+* [Evrything] - (https://evrythng.com/)- Making products smart
 
 ## Interesting Readings
 
@@ -539,12 +545,20 @@ for Data Analytics at Twitter.
 * [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/chubby-osdi06.pdf) - **Google** - The Chubby lock service for loosely-coupled distributed systems.
 * [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - **Google** - Bigtable: A Distributed Storage System for Structured Data.
 * [2004](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/mapreduce-osdi04.pdf) - **Google** - MapReduce: Simplied Data Processing on Large Clusters.
-@@ -527,8 +524,4 @@ for Data Analytics at Twitter.
 * [2003](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/gfs-sosp2003.pdf) - **Google** - The Google File System.
+ 
+## Videos
+
+### Data Visualization
+ * [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
+ * [Designing Data Visualizations with Noah Iliinsky](https://www.youtube.com/watch?v=R-oiKt7bUU8)
+ * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)
+ * [Ice Bucket Challenge Data Visualization](https://www.youtube.com/watch?v=qTEchen97rQ)
+ 
 
 # Other Awesome Lists
-@@ -532,3 +78,4 @@ for Data Analytics at Twitter.
+- Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+- Even more lists [awesome](https://github.com/sindresorhus/awesome).
 - Another list? [list](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
