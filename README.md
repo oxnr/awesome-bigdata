@@ -78,6 +78,7 @@ Your contributions are always welcome!
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
 * [Pinterest Pinlater](http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system) - asynchronous job execution system.
 * [Pydoop](http://pydoop.sourceforge.net/docs/) - Python MapReduce and HDFS API for Hadoop.
+* [Rackerlabs Blueflood] (http://blueflood.io/) - multi-tenant distributed metric processing system
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - usefull for counting activities of event streams over different time windows and finding the most active one.
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
@@ -314,6 +315,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 * [PredictionIO](http://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
+* [SAMOA](http://samoa-project.net/) - distributed streaming machine learning framework.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
@@ -478,6 +480,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
+* [Zing Charts](http://www.zingchart.com/) - JavaScript charting library for big data.
+
 
 ## Internet of things and sensor data
 
