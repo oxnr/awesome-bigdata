@@ -479,6 +479,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
+* [Zeppelin](https://github.com/NFLabs/zeppelin) - a notebook-style collaborative data analysis.
 * [Zing Charts](http://www.zingchart.com/) - JavaScript charting library for big data.
 
 
