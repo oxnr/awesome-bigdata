@@ -41,6 +41,7 @@ Your contributions are always welcome!
 ## Frameworks
 
 * [Apache Hadoop](http://hadoop.apache.org/) - framework for distributed processing. Integrates MapReduce (parallel processing), YARN (job scheduling) and HDFS (distributed file system).
+* [Togin](https://github.com/caskdata/tigon) - High Throughput Real-time Stream Processing Framework.
 
 ## Distributed Programming
 
