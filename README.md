@@ -215,7 +215,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
 * [Map-D](http://www.map-d.com/) - GPU in-memory database, big data analysis and visualization platform
-* [VoltDB](http://voltdb.com/) - claim to be fastest in-memory database
+* [VoltDB](http://voltdb.com/) - claims to be fastest in-memory database
 
 ## Time-Series Databases
 
@@ -247,10 +247,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Stinger](http://hortonworks.com/labs/stinger/) - interactive query for Hive.
 * [Tajo](http://tajo.incubator.apache.org/) - distributed data warehouse system on Hadoop.
 * [Trafodion](https://wiki.trafodion.org/wiki/index.php/Main_Page) - enterprise-class SQL-on-HBase solution targeting big data transactional or operational workloads.
-
-## Integrated Development Environments
-
-* [R-Studio](https://github.com/rstudio/rstudio) - IDE for R.
 
 ## Data Ingestion
 
@@ -488,10 +484,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
 * [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
-* [Pubnub] - (http://www.pubnub.com/) - Data stream network
-* [ThingWorx] - (http://www.thingworx.com/) - Rapid development and connection of intelligent systems
-* [IFTTT] - (https://ifttt.com/) - If this then that
-* [Evrything] - (https://evrythng.com/)- Making products smart
+* [Pubnub](http://www.pubnub.com/) - Data stream network
+* [ThingWorx](http://www.thingworx.com/) - Rapid development and connection of intelligent systems
+* [IFTTT](https://ifttt.com/) - If this then that
+* [Evrything](https://evrythng.com/)- Making products smart
 
 ## Interesting Readings
 
