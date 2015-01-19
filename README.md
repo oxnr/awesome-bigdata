@@ -312,6 +312,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
+* [MonkeyLearn](http://www.monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 * [PredictionIO](http://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
 * [SAMOA](http://samoa-project.net/) - distributed streaming machine learning framework.
@@ -459,6 +460,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks.
 * [DC.js](http://dc-js.github.io/dc.js/) - Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3.
 * [D3](http://d3js.org/) - javaScript library for manipulating documents.
+* [D3Plus](http://d3plus.org) - A fairly robust set of reusable charts and styles for d3.js.
 * [Echarts](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
 * [FnordMetric](http://fnordmetric.io/) - write SQL queries that return SVG charts rather than tables
