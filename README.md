@@ -305,6 +305,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Concurrent Pattern](http://www.cascading.org/pattern/) - machine learning library for Cascading.
 * [convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 * [Decider](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
+* [ENCOG](http://www.heatonresearch.com/encog) - machine learning framework that supports a variety of advanced algorithms, as well as support classes to normalize and process data.
 * [etcML](http://www.etcml.com/) - text classification with machine learning.
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
 * [Google Sibyl](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
