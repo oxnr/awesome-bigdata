@@ -74,7 +74,7 @@ Your contributions are always welcome!
 * [Google MillWheel](http://research.google.com/pubs/pub41378.html) - fault tolerant stream processing framework.
 * [JAQL](https://code.google.com/p/jaql/) - declarative programming language for working with structured, semi-structured and unstructured data.
 * [Kite](http://kitesdk.org/docs/current/) - is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
-* [Metamarkers Druid](http://druid.io/) - framework for real-time analysis of large datasets.
+* [Metamarkets Druid](http://druid.io/) - framework for real-time analysis of large datasets.
 * [Netflix PigPen](https://github.com/Netflix/PigPen) - map-reduce for Clojure whiche compiles to Apache Pig.
 * [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
 * [Pinterest Pinlater](http://engineering.pinterest.com/post/91288882494/pinlater-an-asynchronous-job-execution-system) - asynchronous job execution system.
