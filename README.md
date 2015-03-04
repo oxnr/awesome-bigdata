@@ -256,7 +256,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Chukwa](http://incubator.apache.org/chukwa/) - data collection system.
 * [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
 * [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
-* [Apache Samza](http://samza.incubator.apache.org/) - stream processing framework, based on Kafla and YARN.
+* [Apache Samza](http://samza.incubator.apache.org/) - stream processing framework, based on Kafka and YARN.
 * [Apache Sqoop](http://sqoop.apache.org/) - tool to transfer data between Hadoop and a structured datastore.
 * [Cloudera Morphlines](https://github.com/cloudera/cdk/tree/master/cdk-morphlines) - framework that help ETL to Solr, HBase and HDFS.
 * [Facebook Scribe](https://github.com/facebook/scribe) - streamed log data aggregator.
