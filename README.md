@@ -310,6 +310,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [etcML](http://www.etcml.com/) - text classification with machine learning.
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
 * [Google Sibyl](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
+* [GraphLab Create](http://dato.com/products/create/) - A machine learning platform in Python with a broad collection of ML toolkits, data engineering, and deployment tools.
 * [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
