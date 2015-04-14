@@ -271,6 +271,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Logstash](http://logstash.net) - a tool for managing events and logs.
 * [Netflix Suro](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
 * [Pinterest Secor](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
+* [Linkedin Gobblin](https://github.com/linkedin/gobblin) - linkedin's universal data ingestion framework.
 
 ## Service Programming
 
