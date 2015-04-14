@@ -449,6 +449,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SpagoBI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - open source business intelligence platform.
 * [Tableau](https://www.tableausoftware.com/) - business intelligence platform.
 * [Zoomdata](http://www.zoomdata.com/) - Big Data Analytics.
+* [Jethrodata](http://www.jethrodata.com/) - Interactive Big Data Analytics.
 
 ## Data Visualization
 
