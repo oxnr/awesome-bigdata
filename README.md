@@ -101,6 +101,7 @@ Your contributions are always welcome!
 * [Quantcast File System QFS](https://www.quantcast.com/engineering/qfs/) - open-source distributed file system.
 * [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
 * [Tachyon](http://tachyon-project.org/) - reliable file sharing at memory speed across cluster frameworks.
+* [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - decentralized cloud storage system.
 
 ## Document Data Model
 
