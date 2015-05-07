@@ -379,6 +379,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Splunk](http://www.splunk.com/) - analyzer for machine-generated data.
 * [Sumo Logic](http://www.sumologic.com/) - cloud based analyzer for machine-generated data.
 * [Talend](http://www.talend.com/products/big-data) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
+* [Warp](https://pixelspark.nl/2015/warp-a-query-by-example-analysis-tool-for-big-data) - query by example tool for big data (OS X app)
 
 ## Search engine and framework
 
@@ -506,6 +507,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/) - Benchmark of Redshift, Hive, Shark, Impala and Stiger/Tez.
 * [NoSQL Comparison](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis) - Cassandra vs MongoDB vs CouchDB vs Redis vs Riak vs HBase vs Couchbase vs Neo4j vs Hypertable vs ElasticSearch vs Accumulo vs VoltDB vs Scalaris comparison.
+* [The big data successor of the spreadsheet](https://medium.com/@tommyvdv/rewriting-excel-for-the-era-of-big-ger-data-part-2-c13cc40f248e). On what the successor of the spreadsheet should look like for big data.
 
 ## Interesting Papers
 
