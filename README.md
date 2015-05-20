@@ -82,6 +82,7 @@ Your contributions are always welcome!
 * [Rackerlabs Blueflood] (http://blueflood.io/) - multi-tenant distributed metric processing system
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - usefull for counting activities of event streams over different time windows and finding the most active one.
+* [Tuktu](https://github.com/ErikTromp/Tuktu) - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
 * [Twitter Summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 * [Twitter TSAR](https://blog.twitter.com/2014/tsar-a-timeseries-aggregator) - TimeSeries AggregatoR by Twitter.
