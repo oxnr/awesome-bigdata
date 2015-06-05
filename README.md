@@ -223,6 +223,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Time-Series Databases
 
 * [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
+* [Axibase Time Series Database](http://axibase.com/products/axibase-time-series-database/) - distributed time series database on top of HBase. Includes built-in Rule Engine, data forecasting and visualization.
 * [InfluxDB](http://influxdb.com/) - distributed time series database.
 * [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra.
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
