@@ -300,6 +300,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Oozie](http://oozie.apache.org/) - workflow job scheduler.
 * [Chronos](http://airbnb.github.io/chronos/) - distributed and fault-tolerant scheduler.
 * [Linkedin Azkaban](http://azkaban.github.io/azkaban2/) - batch workflow job scheduler.
+* [Schedoscope](http://schedoscope.org) - Scala DSL for agile scheduling of Hadoop jobs.
 * [Sparrow](https://github.com/radlab/sparrow) - scheduling platform.
 
 ## Machine Learning
