@@ -136,8 +136,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Google BigTable](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - column-oriented distributed datastore.
 * [Google Cloud Datastore](https://developers.google.com/datastore/) - is a fully managed, schemaless database for storing non-relational data over BigTable.
 * [Hypertable](http://hypertable.org/) - column-oriented distribuited datastore, inspired by BigTable.
-* [InfiniDB](http://infinidb.co/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
-* [OhmData C5](http://ohmdata.com/) - improved version of HBase.
+* [InfiniDB](https://github.com/infinidb/infinidb/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
 * [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
 
@@ -213,7 +212,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
 * [Oracle Database](http://www.oracle.com/us/corporate/features/database-12c/index.html) - object-relational database management system.
 * [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) - in-memory, relational database management system with persistence and recoverability.
-* [Pivotal GemFire XD](http://gemfirexd.docs.gopivotal.com/latest/userguide/index.html?q=about_users_guide.html/) - Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.
+* [Pivotal GemFire XD](http://gemfirexd.docs.pivotal.io/latest/) - Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.
 * [SAP HANA](http://www.saphana.com/welcome) - is an in-memory, column-oriented, relational database management system.
 * [SenseiDB](http://senseidb.com/) - distributed, realtime, semi-structured database.
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
@@ -235,7 +234,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Actian SQL for Hadoop](http://www.actian.com/products/analytics-platform/) - high performance interactive SQL access to all Hadoop data.
 * [AMPLAB Shark](https://github.com/amplab/shark/) - data warehouse system for Spark.
 * [Apache Drill](http://incubator.apache.org/drill/) - framework for interactive analysis, inspired by Dremel.
-* [Apache HCatalog](http://hive.apache.org/docs/hcat_r0.5.0/) - table and storage management layer for Hadoop.
+* [Apache HCatalog](https://cwiki.apache.org/confluence/display/HCATALOG/) - table and storage management layer for Hadoop.
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
 * [Apache Optiq](https://wiki.apache.org/incubator/OptiqProposal) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.incubator.apache.org/index.html) - SQL skin over HBase.
@@ -298,8 +297,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Aurora](http://aurora.incubator.apache.org/) - is a service scheduler that runs on top of Apache Mesos.
 * [Apache Falcon](http://falcon.incubator.apache.org/) - data management framework.
 * [Apache Oozie](http://oozie.apache.org/) - workflow job scheduler.
-* [Chronos](http://airbnb.github.io/chronos/) - distributed and fault-tolerant scheduler.
-* [Linkedin Azkaban](http://azkaban.github.io/azkaban2/) - batch workflow job scheduler.
+* [Chronos](http://mesos.github.io/chronos/) - distributed and fault-tolerant scheduler.
+* [Linkedin Azkaban](https://azkaban.github.io/) - batch workflow job scheduler.
 * [Schedoscope](http://schedoscope.org) - Scala DSL for agile scheduling of Hadoop jobs.
 * [Sparrow](https://github.com/radlab/sparrow) - scheduling platform.
 
@@ -316,7 +315,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
 * [Google Sibyl](http://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [GraphLab Create](http://dato.com/products/create/) - A machine learning platform in Python with a broad collection of ML toolkits, data engineering, and deployment tools.
-* [H2O](http://0xdata.github.io/h2o/) - statistical, machine learning and math runtime for Hadoop.
+* [H2O](https://github.com/h2oai/h2o-2/) - statistical, machine learning and math runtime for Hadoop.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
 * [MonkeyLearn](http://www.monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
@@ -347,7 +346,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Bigtop](http://bigtop.apache.org//) - system deployment framework for the Hadoop ecosystem.
 * [Apache Helix](http://helix.apache.org/) - cluster management framework.
 * [Apache Mesos](http://mesos.apache.org/) - cluster manager.
-* [Apache Slider](https://github.com/hortonworks/slider) - is a YARN application to deploy existing distributed applications on YARN.
+* [Apache Slider](https://github.com/apache/incubator-slider) - is a YARN application to deploy existing distributed applications on YARN.
 * [Apache Whirr](http://whirr.apache.org/) - set of libraries for running cloud services.
 * [Apache YARN](http://hortonworks.com/hadoop/yarn/) - Cluster manager.
 * [Brooklyn](http://brooklyncentral.github.io/) - library that simplifies application deployment and management.
@@ -366,7 +365,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
-* [Domino](http://www.dominoup.com/) - Run, scale, share, and deploy models — without any infrastructure.
+* [Domino](https://www.dominodatalab.com/) - Run, scale, share, and deploy models — without any infrastructure.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
@@ -376,7 +375,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Kylin](http://www.kylin.io/) - open source Distributed Analytics Engine from eBay.
 * [PivotalR](https://github.com/gopivotal/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](http://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
-* [Sense](https://senseplatform.com//) - Cloud Platform for Data Science and Big Data Analytics.
+* [Sense](https://sense.io/) - Cloud Platform for Data Science and Big Data Analytics.
 * [Snowplow](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 * [Splunk](http://www.splunk.com/) - analyzer for machine-generated data.
@@ -452,7 +451,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
 * [Qlik](http://www.qlik.com/) - business intelligence and analytics platform.
 * [Saiku](http://www.meteorite.bi/) - open source analytics platform.
-* [SpagoBI](http://www.spagoworld.org/xwiki/bin/view/SpagoBI/) - open source business intelligence platform.
+* [SpagoBI](http://www.spagobi.org/) - open source business intelligence platform.
 * [Tableau](https://www.tableausoftware.com/) - business intelligence platform.
 * [Zoomdata](http://www.zoomdata.com/) - Big Data Analytics.
 * [Jethrodata](http://www.jethrodata.com/) - Interactive Big Data Analytics.
