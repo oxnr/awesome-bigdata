@@ -371,6 +371,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Domino](https://www.dominodatalab.com/) - Run, scale, share, and deploy models — without any infrastructure.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
+* [Hermes](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](http://www.splunk.com/download/hunk) - Splunk analytics for Hadoop.
 * [Imhotep](http://indeedeng.github.io/imhotep/) - Large scale analytics platform by indeed.
