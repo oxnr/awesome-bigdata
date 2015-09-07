@@ -230,7 +230,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [InfluxDB](http://influxdb.com/) - distributed time series database.
 * [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra.
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
-* [Prometheus](http://prometheus.io) - an time series database and service monitoring system
+* [Prometheus](http://prometheus.io) - a time series database and service monitoring system
+* [Newts](https://opennms.github.io/newts/) - a time series database based on Apache Cassandra
 
 ## SQL-like processing
 
