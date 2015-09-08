@@ -221,6 +221,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
 * [Map-D](http://www.map-d.com/) - GPU in-memory database, big data analysis and visualization platform
+* [TiDB](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [VoltDB](http://voltdb.com/) - claims to be fastest in-memory database
 
 ## Time-Series Databases
