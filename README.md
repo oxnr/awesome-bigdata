@@ -101,7 +101,7 @@ Your contributions are always welcome!
 * [Google GFS](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) - distributed filesystem.
 * [Google Megastore](http://research.google.com/pubs/pub36971.html) - scalable, highly available storage.
 * [GridGain](http://www.gridgain.com/) - GGFS, Hadoop compliant in-memory file system.
-* [Lustre file system](http://wiki.lustre.org/Main_Page) - high-performance distributed filesystem.
+* [Lustre file system](http://wiki.lustre.org/) - high-performance distributed filesystem.
 * [Quantcast File System QFS](https://www.quantcast.com/about-us/quantcast-file-system/) - open-source distributed file system.
 * [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
 * [Seaweed-FS](https://github.com/chrislusf/seaweedfs) - simple and highly scalable distributed file system.
@@ -327,7 +327,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [MonkeyLearn](http://www.monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 * [PredictionIO](https://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
-* [SAMOA](http://samoa-project.net/) - distributed streaming machine learning framework.
+* [SAMOA](http://samoa.incubator.apache.org/) - distributed streaming machine learning framework.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
@@ -379,7 +379,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Hunk](http://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
-* [Kylin](http://www.kylin.io/) - open source Distributed Analytics Engine from eBay.
+* [Kylin](http://kylin.incubator.apache.org/) - open source Distributed Analytics Engine from eBay.
 * [PivotalR](https://github.com/pivotalsoftware/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](https://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
 * [Sense](https://sense.io/) - Cloud Platform for Data Science and Big Data Analytics.
@@ -454,7 +454,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
-* [Microstrategy](http://www.microstrategy.com/us) - software platforms for business intelligence, mobile intelligence, and network applications.
+* [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
 * [Qlik](http://www.qlik.com/) - business intelligence and analytics platform.
 * [Saiku](http://www.meteorite.bi/) - open source analytics platform.
@@ -468,7 +468,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Airpal](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 * [Banana](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
-* [Bokeh](http://bokeh.pydata.org/) - A powerful Python interactive visualization library that targets modern web browsers for presentation, with the goal of providing elegant, concise construction of novel graphics in the style of D3.js, but also delivering this capability with high-performance interactivity over very large or streaming datasets.
+* [Bokeh](http://bokeh.pydata.org/en/latest/) - A powerful Python interactive visualization library that targets modern web browsers for presentation, with the goal of providing elegant, concise construction of novel graphics in the style of D3.js, but also delivering this capability with high-performance interactivity over very large or streaming datasets.
 * [C3](http://c3js.org/) - D3-based reusable chart library
 * [CartoDB](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API.
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
@@ -560,7 +560,7 @@ for Data Analytics at Twitter.
 * [2010](http://kowshik.github.io/JPregel/pregel_paper.pdf) - **Google** - Pregel: A System for Large-Scale Graph Processing.
 * [2010](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//pubs/archive/36726.pdf) - **Google** - Large-scale Incremental Processing Using Distributed Transactions and Notiﬁcations base of Percolator and Caffeine.
 * [2010](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//pubs/archive/36632.pdf) - **Google** - Dremel: Interactive Analysis of Web-Scale Datasets.
-* [2010](http://www.4lunas.org/pub/2010-s4.pdf) - **Yahoo** - S4: Distributed Stream Computing Platform.
+* [2010](http://leoneu.github.io/) - **Yahoo** - S4: Distributed Stream Computing Platform.
 * [2009](http://www.vldb.org/pvldb/2/vldb09-861.pdf) - HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads.
 * [2008](http://www.cca08.org/papers/Paper-13-Ariel-Rabkin.pdf) - **AMPLab** - Chukwa: A large-scale monitoring system.
 * [2007](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) - **Amazon** - Dynamo: Amazon’s Highly Available Key-value Store.
