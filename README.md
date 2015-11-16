@@ -307,6 +307,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Linkedin Azkaban](https://azkaban.github.io/) - batch workflow job scheduler.
 * [Schedoscope](https://github.com/ottogroup/schedoscope) - Scala DSL for agile scheduling of Hadoop jobs.
 * [Sparrow](https://github.com/radlab/sparrow) - scheduling platform.
+* [Airflow](https://github.com/airbnb/airflow) -  a platform to programmatically author, schedule and monitor workflows.
 
 ## Machine Learning
 
