@@ -496,6 +496,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
 * [Plot.ly](https://plot.ly/) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
+* [Plotly.js](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
