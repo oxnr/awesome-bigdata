@@ -56,6 +56,7 @@ Your contributions are always welcome!
 * [Apache Hama](http://hama.apache.org/) - BSP (Bulk Synchronous Parallel) computing framework.
 * [Apache MapReduce](http://wiki.apache.org/hadoop/MapReduce/) - programming model for processing large data sets with a parallel, distributed algorithm on a cluster.
 * [Apache Pig](https://pig.apache.org/) - high level language to express data analysis programs for Hadoop.
+* [Apache REEF](http://reef.apache.org/) - retainable evaluator execution framework to simplify and unify the lower layers of big data systems.
 * [Apache S4](http://incubator.apache.org/s4/) - framework for stream processing, implementation of S4.
 * [Apache Spark](http://spark.apache.org/) - framework for in-memory cluster computing.
 * [Apache Spark Streaming](http://spark.apache.org/docs/0.7.3/streaming-programming-guide.html) - framework for stream processing, part of Spark.
