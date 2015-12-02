@@ -7,6 +7,7 @@ A curated list of awesome big data frameworks, resources and other awesomeness. 
 Your contributions are always welcome!
 
 - [Awesome Big Data](#awesome-bigdata)
+    - [RDBMS](#rdbms)
     - [Frameworks](#frameworks)
     - [Distributed Programming](#distributed-programming)
     - [Distributed Filesystem](#distributed-filesystem)
@@ -39,6 +40,11 @@ Your contributions are always welcome!
     - [Interesting Papers](#interesting-papers)
     - [Videos](#videos)
 - [Other Awesome Lists](#other-awesome-lists)
+
+## RDBMS
+* [MySQL] (http://www.mysql.com/) The world's most popular open source database.
+* [PostgreSQL] (http://www.postgresql.org/) The world's most advanced open source database.
+* [Oracle Database](http://www.oracle.com/us/corporate/features/database-12c/index.html) - object-relational database management system.
 
 ## Frameworks
 
@@ -214,7 +220,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
 * [MemSQL](http://www.memsql.com/) - in memory SQL database witho optimized columnar storage on flash.
 * [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
-* [Oracle Database](http://www.oracle.com/us/corporate/features/database-12c/index.html) - object-relational database management system.
 * [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) - in-memory, relational database management system with persistence and recoverability.
 * [Pivotal GemFire XD](http://gemfirexd.docs.pivotal.io/latest/) - Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.
 * [SAP HANA](http://hana.sap.com/abouthana.html) - is an in-memory, column-oriented, relational database management system.
