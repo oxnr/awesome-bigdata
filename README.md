@@ -396,7 +396,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Splunk](http://www.splunk.com/) - analyzer for machine-generated data.
 * [Sumo Logic](http://www.sumologic.com/) - cloud based analyzer for machine-generated data.
 * [Talend](http://www.talend.com/products/big-data) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
-* [Warp](https://pixelspark.nl/2015/warp-a-query-by-example-analysis-tool-for-big-data) - query by example tool for big data (OS X app)
+* [Warp](http://warp.one) - query by example tool for big data (OS X app)
 
 ## Search engine and framework
 
