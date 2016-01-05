@@ -381,6 +381,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
+* [Countly](http://count.ly) - open source mobile and web analytics platform, based on Node.js & MongoDB.
 * [Domino](https://www.dominodatalab.com/) - Run, scale, share, and deploy models — without any infrastructure.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
