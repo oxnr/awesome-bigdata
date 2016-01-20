@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://blog.andreamostosi.name/big-data/).
+A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [awesome-ruby](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://usefulstuff.io/big-data/).
 
 Your contributions are always welcome!
 
@@ -92,7 +92,7 @@ Your contributions are always welcome!
 * [Rackerlabs Blueflood] (http://blueflood.io/) - multi-tenant distributed metric processing system
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - usefull for counting activities of event streams over different time windows and finding the most active one.
-* [Tuktu](https://github.com/ErikTromp/Tuktu) - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
+* [Tuktu](https://github.com/UnderstandLingBV/Tuktu) - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
 * [Twitter Summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 * [Twitter TSAR](https://blog.twitter.com/2014/tsar-a-timeseries-aggregator) - TimeSeries AggregatoR by Twitter.
@@ -124,7 +124,7 @@ Your contributions are always welcome!
 * [LinkedIn Espresso](http://data.linkedin.com/projects/espresso) - horizontally scalable document-oriented NoSQL data store.
 * [MarkLogic](http://www.marklogic.com/) - Schema-agnostic Enterprise NoSQL database technology.
 * [MongoDB](https://www.mongodb.org/) - Document-oriented database system.
-* [RavenDB](http://www.ravendb.net/) - A transactional, open-source Document Database.
+* [RavenDB](https://ravendb.net/) - A transactional, open-source Document Database.
 * [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
 
 ## Key Map Data Model
@@ -145,7 +145,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Facebook HydraBase](https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/) - evolution of HBase made by Facebook.
 * [Google BigTable](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - column-oriented distributed datastore.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/docs/concepts/overview) - is a fully managed, schemaless database for storing non-relational data over BigTable.
-* [Hypertable](http://hypertable.org/) - column-oriented distributed datastore, inspired by BigTable.
+* [Hypertable](http://www.hypertable.org/) - column-oriented distributed datastore, inspired by BigTable.
 * [InfiniDB](https://github.com/infinidb/infinidb/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
 * [Tephra](https://github.com/caskdata/tephra) - Transactions for HBase.
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
@@ -236,7 +236,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [Axibase Time Series Database](http://axibase.com/products/axibase-time-series-database/) - distributed time series database on top of HBase. Includes built-in Rule Engine, data forecasting and visualization.
 * [Heroic](https://spotify.github.io/heroic/#!/index) - is a scalable time series database based on Cassandra and Elasticsearch.
-* [InfluxDB](https://influxdb.com/) - distributed time series database.
+* [InfluxDB](https://influxdata.com) - distributed time series database.
 * [Kairosdb](https://code.google.com/p/kairosdb/) - similar to OpenTSDB but allows for Cassandra.
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
 * [Prometheus](http://prometheus.io) - a time series database and service monitoring system
@@ -252,7 +252,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Optiq](https://wiki.apache.org/incubator/OptiqProposal) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.apache.org/index.html) - SQL skin over HBase.
 * [BlinkDB](http://blinkdb.org/) - massively parallel, approximate query engine.
-* [Cloudera Impala](http://www.cloudera.com/content/www/en-us/products/apache-hadoop/impala.html) - framework for interactive analysis, Inspired by Dremel.
+* [Cloudera Impala](http://www.cloudera.com/products/apache-hadoop/impala.html) - framework for interactive analysis, Inspired by Dremel.
 * [Concurrent Lingual](http://www.cascading.org/projects/lingual/) - SQL-like query language for Cascading.
 * [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
 * [Facebook PrestoDB](https://prestodb.io/) - distributed SQL query engine.
@@ -381,7 +381,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
-* [Countly](http://count.ly) - open source mobile and web analytics platform, based on Node.js & MongoDB.
+* [Countly](https://count.ly/) - open source mobile and web analytics platform, based on Node.js & MongoDB.
 * [Domino](https://www.dominodatalab.com/) - Run, scale, share, and deploy models — without any infrastructure.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
@@ -390,7 +390,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Hunk](http://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
-* [Kylin](http://kylin.incubator.apache.org/) - open source Distributed Analytics Engine from eBay.
+* [Kylin](http://kylin.apache.org/) - open source Distributed Analytics Engine from eBay.
 * [PivotalR](https://github.com/pivotalsoftware/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](https://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
 * [Sense](https://sense.io/) - Cloud Platform for Data Science and Big Data Analytics.
@@ -472,7 +472,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SpagoBI](http://www.spagobi.org/) - open source business intelligence platform.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
 * [Zoomdata](http://www.zoomdata.com/) - Big Data Analytics.
-* [Jethrodata](http://www.jethrodata.com/) - Interactive Big Data Analytics.
+* [Jethrodata](http://jethro.io) - Interactive Big Data Analytics.
 
 ## Data Visualization
 
@@ -509,7 +509,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Plot.ly](https://plot.ly/) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
 * [Plotly.js](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
-* [Redash](https://github.com/everythingme/redash) - open-source platform to query and visualize data.
+* [Redash](https://github.com/getredash/redash) - open-source platform to query and visualize data.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
 * [Zeppelin](https://github.com/NFLabs/zeppelin) - a notebook-style collaborative data analysis.
