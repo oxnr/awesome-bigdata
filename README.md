@@ -394,6 +394,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [PivotalR](https://github.com/pivotalsoftware/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](https://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
 * [Sense](https://sense.io/) - Cloud Platform for Data Science and Big Data Analytics.
+* [SnappyData](https://github.com/SnappyDataInc/snappydata) - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
 * [Snowplow](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 * [Splunk](http://www.splunk.com/) - analyzer for machine-generated data.
