@@ -537,6 +537,9 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Interesting Papers
 
+### 2015 - 2016
+* [2015](http://www.vldb.org/pvldb/vol8/p1804-ching.pdf) - **Facebook** - One Trillion Edges: Graph Processing at Facebook-Scale.
+
 ### 2013 - 2014
 * [2014](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - **Stanford** - Mining of Massive Datasets.
 * [2013](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/03/eurosys13-paper83.pdf) - **AMPLab** - Presto: Distributed Machine Learning and Graph Processing with Sparse Matrices.
