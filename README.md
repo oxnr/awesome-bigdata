@@ -252,7 +252,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
 * [Apache Optiq](https://wiki.apache.org/incubator/OptiqProposal) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.apache.org/index.html) - SQL skin over HBase.
-* [BlinkDB](http://blinkdb.org/) - massively parallel, approximate query engine.
 * [Cloudera Impala](http://www.cloudera.com/products/apache-hadoop/impala.html) - framework for interactive analysis, Inspired by Dremel.
 * [Concurrent Lingual](http://www.cascading.org/projects/lingual/) - SQL-like query language for Cascading.
 * [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
