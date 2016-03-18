@@ -246,7 +246,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## SQL-like processing
 
 * [Actian SQL for Hadoop](http://www.actian.com/products/analytics-platform/) - high performance interactive SQL access to all Hadoop data.
-* [AMPLAB Shark](https://github.com/amplab/shark/) - data warehouse system for Spark.
 * [Apache Drill](http://drill.apache.org/) - framework for interactive analysis, inspired by Dremel.
 * [Apache HCatalog](https://cwiki.apache.org/confluence/display/HCATALOG/) - table and storage management layer for Hadoop.
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
