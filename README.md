@@ -332,7 +332,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
 * [Google Sibyl](https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) - System for Large Scale Machine Learning at Google.
 * [GraphLab Create](https://dato.com/products/create/) - A machine learning platform in Python with a broad collection of ML toolkits, data engineering, and deployment tools.
-* [H2O](https://github.com/h2oai/h2o-2/) - statistical, machine learning and math runtime for Hadoop.
+* [H2O](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime for Hadoop.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
 * [MonkeyLearn](http://www.monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
