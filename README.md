@@ -358,6 +358,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Security
 
+* [Apache Eagle](https://eagle.incubator.apache.org/) - real time monitoring solution
 * [Apache Knox Gateway](http://knox.apache.org/) - single point of secure access for Hadoop clusters.
 * [Apache Sentry](http://incubator.apache.org/projects/sentry.html) - security module for data stored in Hadoop.
 
