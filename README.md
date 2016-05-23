@@ -338,6 +338,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [H2O](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime for Hadoop.
 * [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
+* [MOA](http://moa.cms.waikato.ac.nz) - MOA performs big data stream mining in real time, and large scale machine learning.
 * [MonkeyLearn](http://www.monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
 * [PredictionIO](https://prediction.io/) - machine learning server buit on Hadoop, Mahout and Cascading.
