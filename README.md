@@ -248,6 +248,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
 * [Prometheus](http://prometheus.io) - a time series database and service monitoring system
 * [Newts](https://opennms.github.io/newts/) - a time series database based on Apache Cassandra
+* [TrailDB](http://traildb.io/) - an efficient tool for storing and querying series of events.
 
 ## SQL-like processing
 
