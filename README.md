@@ -350,6 +350,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
 * [BidMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
+* [Velox](https://github.com/amplab/velox-modelserver) - System for serving machine learning predictions.
 
 ## Benchmarking
 
