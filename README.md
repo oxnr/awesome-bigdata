@@ -240,14 +240,15 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Time-Series Databases
 
-* [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [Axibase Time Series Database](http://axibase.com/products/axibase-time-series-database/) - distributed time series database on top of HBase. Includes built-in Rule Engine, data forecasting and visualization.
+* [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [Heroic](https://spotify.github.io/heroic/#!/index) - is a scalable time series database based on Cassandra and Elasticsearch.
 * [InfluxDB](https://influxdata.com) - distributed time series database.
 * [Kairosdb](https://github.com/kairosdb/kairosdb) - similar to OpenTSDB but allows for Cassandra.
+* [Newts](https://opennms.github.io/newts/) - a time series database based on Apache Cassandra.
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
-* [Prometheus](http://prometheus.io) - a time series database and service monitoring system
-* [Newts](https://opennms.github.io/newts/) - a time series database based on Apache Cassandra
+* [Prometheus](http://prometheus.io) - a time series database and service monitoring system.
+* [TrailDB](http://traildb.io/) - an efficient tool for storing and querying series of events.
 
 ## SQL-like processing
 
