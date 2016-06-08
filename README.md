@@ -474,6 +474,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [BIME Analytics](http://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
 * [datapine](http://www.datapine.com/) - self-service business intelligence tool in the cloud.
+* [GoodData](http://www.gooddata.com/) - platform for data products and embedded analytics.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
