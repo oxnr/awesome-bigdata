@@ -604,6 +604,8 @@ for Data Analytics at Twitter.
 
 ## Videos
 
+* [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket
+
 ### Data Visualization
  * [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
  * [Designing Data Visualizations with Noah Iliinsky](https://www.youtube.com/watch?v=R-oiKt7bUU8)
