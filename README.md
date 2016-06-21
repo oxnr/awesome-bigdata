@@ -60,6 +60,7 @@ Your contributions are always welcome!
 * [Apache Crunch](http://crunch.apache.org/) - a simple Java API for tasks like joining and data aggregation that are tedious to implement on plain MapReduce.
 * [Apache DataFu](http://incubator.apache.org/projects/datafu.html) - collection of user-defined functions for Hadoop and Pig developed by LinkedIn.
 * [Apache Flink](http://flink.apache.org/) - high-performance runtime, and automatic program optimization.
+* [Apache Gearpump](http://gearpump.apache.org/) - real-time big data streaming engine based on Akka.
 * [Apache Gora](http://gora.apache.org/) - framework for in-memory data model and persistence.
 * [Apache Hama](http://hama.apache.org/) - BSP (Bulk Synchronous Parallel) computing framework.
 * [Apache MapReduce](http://wiki.apache.org/hadoop/MapReduce/) - programming model for processing large data sets with a parallel, distributed algorithm on a cluster.
