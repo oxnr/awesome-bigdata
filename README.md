@@ -353,6 +353,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
 * [BidMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 * [Velox](https://github.com/amplab/velox-modelserver) - System for serving machine learning predictions.
+* [TensorFlow](https://github.com/tensorflow/tensorflow) - Open source software library from Google for machine learning using data flow graphs.
 
 ## Benchmarking
 
