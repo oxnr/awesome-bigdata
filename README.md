@@ -161,6 +161,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
 * [Amazon DynamoDB](http://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
 * [Bolt](https://github.com/boltdb/bolt) - an embedded key-value database for Go.
+* [BuntDB](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 * [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](https://geteventstore.com/) - distributed time series database.
