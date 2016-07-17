@@ -455,6 +455,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Apache Lucene](http://lucene.apache.org/) - Search engine library.
 * [Apache Solr](http://lucene.apache.org/solr/) - Search platform for Apache Lucene.
+* [Elassandra](https://github.com/vroyer/elassandra) - is a fork of Elasticsearch modified to run on top of Apache Cassandra in a scalable and resilient peer-to-peer architecture.
 * [ElasticSearch](https://www.elastic.co/) - Search and analytics engine based on Apache Lucene.
 * [Enigma.io](http://enigma.io) – Freemium robust web application for exploring, filtering, analyzing, searching and exporting massive datasets scraped from across the Web.
 * [Facebook Unicorn](https://www.facebook.com/publications/219621248185635/) - social graph search platform.
