@@ -529,6 +529,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Plotly.js](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
 * [Recline](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 * [Redash](https://github.com/getredash/redash) - open-source platform to query and visualize data.
+* [ReCharts](http://recharts.org/) - A composable charting library built on React components
 * [Shiny](http://shiny.rstudio.com/) - a web application framework for R.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
