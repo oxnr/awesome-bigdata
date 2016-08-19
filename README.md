@@ -104,6 +104,7 @@ Your contributions are always welcome!
 
 ## Distributed Filesystem
 
+* [Ambry](https://github.com/linkedin/ambry) - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
 * [BeeGFS](http://www.beegfs.com/content/) - formerly FhGFS, parallel distributed file system.
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
@@ -160,10 +161,13 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
 * [Amazon DynamoDB](http://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
+* [Bolt](https://github.com/boltdb/bolt) - an embedded key-value database for Go.
+* [BuntDB](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 * [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](https://geteventstore.com/) - distributed time series database.
 * [GridDB](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
+* [HyperDex](https://github.com/rescrv/HyperDex) - a scalable, next generation key-value and document store with a wide array of features, including consistency, fault tolerance and high performance.
 * [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
 * [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
 * [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) - distributed key-value database by Oracle Corporation.
@@ -205,6 +209,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Columnar Storage](http://the-paper-trail.org/blog/columnar-storage/) - an explanation of what columnar storage is and when you might want it.
 * [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
 * [C-Store](http://db.lcs.mit.edu/projects/cstore/) - column oriented DBMS.
+* [ClickHouse](https://clickhouse.yandex/) - an open-source column-oriented database management system that allows generating analytical data reports in real time.
+* [EventQL](http://eventql.io/) - a distributed, column-oriented database built for large-scale event collection and analytics.
 * [MonetDB](https://www.monetdb.org/) - column store database.
 * [Parquet](http://parquet.apache.org/) - columnar storage format for Hadoop.
 * [Pivotal Greenplum](https://pivotal.io/big-data/pivotal-greenplum) - purpose-built, dedicated analytic data warehouse that offers a columnar engine as well as a traditional row-based one.
@@ -391,6 +397,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Adobe spindle](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
 * [Apache Kiji](http://www.kiji.org.s3-website-us-east-1.amazonaws.com) - framework to collect and analyze data in real-time, based on HBase.
+* [Apache Metron](https://metron.incubator.apache.org/) - a platform that integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
 * [Apache Nutch](http://nutch.apache.org/) - open source web crawler.
 * [Apache OODT](http://oodt.apache.org/) - capturing, processing and sharing of data for NASA's scientific archives.
 * [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
@@ -398,12 +405,14 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Countly](https://count.ly/) - open source mobile and web analytics platform, based on Node.js & MongoDB.
 * [Domino](https://www.dominodatalab.com/) - Run, scale, share, and deploy models — without any infrastructure.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
+* [ElastAert](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [Hermes](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](http://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
+* [Kapacitor](https://github.com/influxdata/kapacitor) - an open source framework for processing, monitoring, and alerting on time series data.
 * [Kylin](http://kylin.apache.org/) - open source Distributed Analytics Engine from eBay.
 * [PivotalR](https://github.com/pivotalsoftware/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](https://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
