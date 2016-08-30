@@ -264,7 +264,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Drill](http://drill.apache.org/) - framework for interactive analysis, inspired by Dremel.
 * [Apache HCatalog](https://cwiki.apache.org/confluence/display/HCATALOG/) - table and storage management layer for Hadoop.
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
-* [Apache Optiq](https://wiki.apache.org/incubator/OptiqProposal) - framework that allows efficient translation of queries involving heterogeneous and federated data.
+* [Apache Calcite](http://calcite.apache.org/) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.apache.org/index.html) - SQL skin over HBase.
 * [Cloudera Impala](http://www.cloudera.com/products/apache-hadoop/impala.html) - framework for interactive analysis, Inspired by Dremel.
 * [Concurrent Lingual](http://www.cascading.org/projects/lingual/) - SQL-like query language for Cascading.
