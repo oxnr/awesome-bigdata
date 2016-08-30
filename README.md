@@ -493,6 +493,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
 * [Qlik](http://www.qlik.com/) - business intelligence and analytics platform.
+* [Redash](http://redash.io/) - Open source business intelligence platform, supporting multiple data sources and planned queries.
 * [Saiku](http://www.meteorite.bi/) - open source analytics platform.
 * [SpagoBI](http://www.spagobi.org/) - open source business intelligence platform.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
