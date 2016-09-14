@@ -39,6 +39,7 @@ Your contributions are always welcome!
     - [Interesting Readings](#interesting-readings)
     - [Interesting Papers](#interesting-papers)
     - [Videos](#videos)
+    - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## RDBMS
@@ -617,6 +618,16 @@ for Data Analytics at Twitter.
 * [2003](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/gfs-sosp2003.pdf) - **Google** - The Google File System.
 
 ## Videos
+
+## Books
+
+####Streaming
+
+* [Streaming Data](https://www.manning.com/books/streaming-data) - Streaming Data introduces the concepts and requirements of streaming and real-time data systems.
+* [Flink in Action](https://www.manning.com/books/flink-in-action) - Flink in Action makes the complex topic of stream processing with Flink easy to understand and apply.
+* [Storm Applied](https://www.manning.com/books/storm-applied) - Storm Applied is a practical guide to using Apache Storm for the real-world tasks associated with processing and analyzing real-time data streams.
+* [Fundamentals of Stream Processing: Application Design, Systems, and Analytics](http://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/fundamentals-stream-processing-application-design-systems-and-analytics) - This comprehensive, hands-on guide combining the fundamental building blocks and emerging research in stream processing is ideal for application designers, system builders, analytic developers, as well as students and researchers in the field.
+* [Stream Data Processing: A Quality of Service Perspective](http://www.springer.com/us/book/9780387710020) - Presents a new paradigm suitable for stream and complex event processing.
 
 ### Data Visualization
  * [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
