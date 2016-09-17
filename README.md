@@ -304,6 +304,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Linkedin Gobblin](https://github.com/linkedin/gobblin) - linkedin's universal data ingestion framework.
 * [Skizze](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
 * [StreamSets Data Collector](https://github.com/streamsets/datacollector) - continuous big data ingest infrastructure with a simple to use IDE.
+* [Yahoo Pulsar](https://github.com/yahoo/pulsar) - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
 
 ## Service Programming
 
