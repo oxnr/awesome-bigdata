@@ -180,6 +180,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SummitDB](https://github.com/tidwall/summitdb) - an in-memory, NoSQL key/value database, with disk persistance and using the Raft consensus algorithm.
 * [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 * [TiKV](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
+* [Tile38](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
 * [TreodeDB](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
 
 
