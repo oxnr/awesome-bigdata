@@ -259,6 +259,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Prometheus](http://prometheus.io) - a time series database and service monitoring system.
 * [TrailDB](http://traildb.io/) - an efficient tool for storing and querying series of events.
 * [Druid](https://github.com/druid-io/druid/) Column oriented distributed data store ideal for powering interactive applications
+* [Riak-TS](http://basho.com/products/riak-ts/) Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.
 
 ## SQL-like processing
 
