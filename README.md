@@ -261,6 +261,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Druid](https://github.com/druid-io/druid/) Column oriented distributed data store ideal for powering interactive applications
 * [Riak-TS](http://basho.com/products/riak-ts/) Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.
 * [Akumuli](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
+* [Rhombus](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
 
 ## SQL-like processing
 
