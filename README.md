@@ -258,6 +258,13 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
 * [Prometheus](http://prometheus.io) - a time series database and service monitoring system.
 * [TrailDB](http://traildb.io/) - an efficient tool for storing and querying series of events.
+* [Druid](https://github.com/druid-io/druid/) Column oriented distributed data store ideal for powering interactive applications
+* [Riak-TS](http://basho.com/products/riak-ts/) Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.
+* [Akumuli](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
+* [Rhombus](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
+* [Dalmatiner DB](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
+* [Blueflood](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
+* [Timely](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 
 ## SQL-like processing
 
