@@ -263,6 +263,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Akumuli](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
 * [Rhombus](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
 * [Dalmatiner DB](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
+* [Blueflood](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 
 ## SQL-like processing
 
