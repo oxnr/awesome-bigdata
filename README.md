@@ -121,6 +121,7 @@ Your contributions are always welcome!
 * [Seaweed-FS](https://github.com/chrislusf/seaweedfs) - simple and highly scalable distributed file system.
 * [Alluxio](http://www.alluxio.org/) - reliable file sharing at memory speed across cluster frameworks.
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - decentralized cloud storage system.
+* [Baidu File System](https://github.com/baidu/bfs) - distributed filesystem.
 
 ## Document Data Model
 
