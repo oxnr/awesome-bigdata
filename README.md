@@ -150,6 +150,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Accumulo](http://accumulo.apache.org/) - distributed key/value store, built on Hadoop.
 * [Apache Cassandra](http://cassandra.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 * [Apache HBase](http://hbase.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
+* [Baidu Tera](https://github.com/baidu/tera) - an Internet-scale database, inspired by BigTable.
 * [Facebook HydraBase](https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/) - evolution of HBase made by Facebook.
 * [Google BigTable](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - column-oriented distributed datastore.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/docs/concepts/overview) - is a fully managed, schemaless database for storing non-relational data over BigTable.
