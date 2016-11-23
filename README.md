@@ -95,6 +95,7 @@ Your contributions are always welcome!
 * [Pinterest Pinlater](https://engineering.pinterest.com/blog/pinlater-asynchronous-job-execution-system) - asynchronous job execution system.
 * [Pydoop](http://crs4.github.io/pydoop/) - Python MapReduce and HDFS API for Hadoop.
 * [Rackerlabs Blueflood] (http://blueflood.io/) - multi-tenant distributed metric processing system
+* [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - useful for counting activities of event streams over different time windows and finding the most active one.
 * [Tuktu](https://github.com/UnderstandLingBV/Tuktu) - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
