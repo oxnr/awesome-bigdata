@@ -562,6 +562,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
 * [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
 * [Kibana](https://www.elastic.co/products/kibana) - visualize logs and time-stamped data
+* [Lumify](https://lumify.io/) - open source big data analysis and visualization platform
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [Metricsgraphic.js](http://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
