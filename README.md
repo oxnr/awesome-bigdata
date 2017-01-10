@@ -159,6 +159,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [InfiniDB](https://github.com/infinidb/infinidb/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
 * [Tephra](https://github.com/caskdata/tephra) - Transactions for HBase.
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
+* [ScyllaDB] (http://www.scylladb.com/) - column-oriented distributed datastore written in C++, totally compatible with Apache Cassandra.
 
 
 ## Key-value Data Model
