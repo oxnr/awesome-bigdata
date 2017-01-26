@@ -167,7 +167,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Amazon DynamoDB](http://aws.amazon.com/dynamodb/) - distributed key/value store, implementation of Dynamo paper.
 * [Bolt](https://github.com/boltdb/bolt) - an embedded key-value database for Go.
 * [BuntDB](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
-* [Edis](http://inaka.github.io/edis/) - is a protocol-compatible Server replacement for Redis.
+* [Edis](https://github.com/cbd/edis) - is a protocol-compatible Server replacement for Redis.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](https://geteventstore.com/) - distributed time series database.
 * [GridDB](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
@@ -309,7 +309,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Google Photon](http://research.google.com/pubs/pub41318.html) - geographically distributed system for joining multiple continuously flowing streams of data in real-time with high scalability and low latency.
 * [Heka](https://github.com/mozilla-services/heka) - open source stream processing software system.
 * [HIHO](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
-* [Kestrel](http://robey.github.io/kestrel/) - distributed message queue system.
+* [Kestrel](https://github.com/papertrail/kestrel) - distributed message queue system.
 * [LinkedIn Databus](http://data.linkedin.com/projects/databus) - stream of change capture events for a database.
 * [LinkedIn Kamikaze](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
 * [LinkedIn White Elephant](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
