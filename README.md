@@ -19,7 +19,6 @@ Your contributions are always welcome!
     - [Columnar Databases](#columnar-databases)
     - [Time-Series Databases](#time-series-databases)
     - [SQL-like processing](#sql-like-processing)
-    - [Integrated Development Environments](#integrated-development-environments)
     - [Data Ingestion](#data-ingestion)
     - [Service Programming](#service-programming)
     - [Scheduling](#scheduling)
