@@ -332,6 +332,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Thrift](http://thrift.apache.org//) - framework to build binary protocols.
 * [Apache Zookeeper](http://zookeeper.apache.org/) - centralized service for process management.
 * [Google Chubby](http://research.google.com/archive/chubby.html) - a lock service for loosely-coupled distributed systems.
+* [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
 * [Linkedin Norbert](http://data.linkedin.com/opensource/norbert) - cluster manager.
 * [OpenMPI](http://www.open-mpi.org/) - message passing framework.
 * [Serf](https://www.serfdom.io/) - decentralized solution for service discovery and orchestration.
