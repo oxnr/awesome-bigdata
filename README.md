@@ -42,8 +42,8 @@ Your contributions are always welcome!
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## RDBMS
-* [MySQL] (http://www.mysql.com/) The world's most popular open source database.
-* [PostgreSQL] (http://www.postgresql.org/) The world's most advanced open source database.
+* [MySQL](http://www.mysql.com/) The world's most popular open source database.
+* [PostgreSQL](http://www.postgresql.org/) The world's most advanced open source database.
 * [Oracle Database](http://www.oracle.com/us/corporate/features/database-12c/index.html) - object-relational database management system.
 
 ## Frameworks
@@ -94,7 +94,7 @@ Your contributions are always welcome!
 * [Onyx](http://onyxplatform.org) - Distributed computation for the cloud.
 * [Pinterest Pinlater](https://engineering.pinterest.com/blog/pinlater-asynchronous-job-execution-system) - asynchronous job execution system.
 * [Pydoop](http://crs4.github.io/pydoop/) - Python MapReduce and HDFS API for Hadoop.
-* [Rackerlabs Blueflood] (http://blueflood.io/) - multi-tenant distributed metric processing system
+* [Rackerlabs Blueflood](http://blueflood.io/) - multi-tenant distributed metric processing system
 * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - useful for counting activities of event streams over different time windows and finding the most active one.
@@ -159,7 +159,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [InfiniDB](https://github.com/infinidb/infinidb/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
 * [Tephra](https://github.com/caskdata/tephra) - Transactions for HBase.
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
-* [ScyllaDB] (http://www.scylladb.com/) - column-oriented distributed datastore written in C++, totally compatible with Apache Cassandra.
+* [ScyllaDB](http://www.scylladb.com/) - column-oriented distributed datastore written in C++, totally compatible with Apache Cassandra.
 
 
 ## Key-value Data Model
@@ -197,7 +197,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [GCHQ Gaffer](https://github.com/GovernmentCommunicationsHeadquarters/Gaffer) - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
 * [Google Cayley](https://github.com/google/cayley) - open-source graph database.
 * [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) - graph processing framework.
-* [GraphLab PowerGraph](https://dato.com/products/create/open_source.html) - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
+* [GraphLab PowerGraph](https://turi.com/products/create/docs/) - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
 * [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
 * [Gremlin](https://github.com/tinkerpop/gremlin) - graph traversal Language.
 * [Infovore](https://github.com/paulhoule/infovore) - RDF-centric Map/Reduce framework.
@@ -397,7 +397,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Berkeley SWIM Benchmark](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
 * [Intel HiBench](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
 * [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - benchmark suite for MapReduce applications.
-* [Yahoo Gridmix3](https://developer.yahoo.com/blogs/hadoop/gridmix3-emulating-production-workload-apache-hadoop-450.html) - Hadoop cluster benchmarking from Yahoo engineer team.
+* [Yahoo Gridmix3](http://yahoohadoop.tumblr.com/post/98294079296/gridmix3-emulating-production-workload-for) - Hadoop cluster benchmarking from Yahoo engineer team.
 * [Deeplearning4j Benchmarks](https://github.com/deeplearning4j/dl4j-benchmark)
 
 ## Security
@@ -567,7 +567,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Highcharts](http://www.highcharts.com/) - simple and flexible charting API.
 * [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
 * [Kibana](https://www.elastic.co/products/kibana) - visualize logs and time-stamped data
-* [Lumify](https://lumify.io/) - open source big data analysis and visualization platform
+* [Lumify](http://lumify.io/) - open source big data analysis and visualization platform
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [Metricsgraphic.js](http://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
@@ -641,7 +641,6 @@ for Data Analytics at Twitter.
 
 * [2010](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf) - **Facebook** - Finding a needle in Haystack: Facebook’s photo storage.
 * [2010](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Spark-Cluster-Computing-with-Working-Sets.pdf) - **AMPLab** - Spark: Cluster Computing with Working Sets.
-* [2010](http://static.googleusercontent.com/media/research.google.com/en/us/university/relations/facultysummit2010/storage_architecture_and_challenges.pdf) - **Google** - Storage Architecture and Challenges.
 * [2010](http://kowshik.github.io/JPregel/pregel_paper.pdf) - **Google** - Pregel: A System for Large-Scale Graph Processing.
 * [2010](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//pubs/archive/36726.pdf) - **Google** - Large-scale Incremental Processing Using Distributed Transactions and Notiﬁcations base of Percolator and Caffeine.
 * [2010](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//pubs/archive/36632.pdf) - **Google** - Dremel: Interactive Analysis of Web-Scale Datasets.
@@ -661,7 +660,6 @@ for Data Analytics at Twitter.
 ####Streaming
 
 * [Streaming Data](https://www.manning.com/books/streaming-data) - Streaming Data introduces the concepts and requirements of streaming and real-time data systems.
-* [Flink in Action](https://www.manning.com/books/flink-in-action) - Flink in Action makes the complex topic of stream processing with Flink easy to understand and apply.
 * [Storm Applied](https://www.manning.com/books/storm-applied) - Storm Applied is a practical guide to using Apache Storm for the real-world tasks associated with processing and analyzing real-time data streams.
 * [Fundamentals of Stream Processing: Application Design, Systems, and Analytics](http://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/fundamentals-stream-processing-application-design-systems-and-analytics) - This comprehensive, hands-on guide combining the fundamental building blocks and emerging research in stream processing is ideal for application designers, system builders, analytic developers, as well as students and researchers in the field.
 * [Stream Data Processing: A Quality of Service Perspective](http://www.springer.com/us/book/9780387710020) - Presents a new paradigm suitable for stream and complex event processing.
