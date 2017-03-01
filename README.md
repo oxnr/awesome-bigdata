@@ -117,6 +117,7 @@ Your contributions are always welcome!
 * [Google Megastore](http://research.google.com/pubs/pub36971.html) - scalable, highly available storage.
 * [GridGain](http://www.gridgain.com/) - GGFS, Hadoop compliant in-memory file system.
 * [Lustre file system](http://wiki.lustre.org/) - high-performance distributed filesystem.
+* [Microsoft Azure Data Lake Store](https://hadoop.apache.org/docs/current/hadoop-azure-datalake/index.html) - HDFS-compatible storage in Azure cloud
 * [Quantcast File System QFS](https://www.quantcast.com/about-us/quantcast-file-system/) - open-source distributed file system.
 * [Red Hat GlusterFS](http://www.gluster.org/) - scale-out network-attached storage file system.
 * [Seaweed-FS](https://github.com/chrislusf/seaweedfs) - simple and highly scalable distributed file system.
@@ -132,6 +133,7 @@ Your contributions are always welcome!
 * [jumboDB](http://comsysto.github.io/jumbodb/) - document oriented datastore over Hadoop.
 * [LinkedIn Espresso](http://data.linkedin.com/projects/espresso) - horizontally scalable document-oriented NoSQL data store.
 * [MarkLogic](http://www.marklogic.com/) - Schema-agnostic Enterprise NoSQL database technology.
+* [Microsoft Azure DocumentDB](https://azure.microsoft.com/en-us/services/documentdb/) - NoSQL cloud database service with protocol support for MongoDB 
 * [MongoDB](https://www.mongodb.org/) - Document-oriented database system.
 * [RavenDB](https://ravendb.net/) - A transactional, open-source Document Database.
 * [RethinkDB](http://www.rethinkdb.com/) - document database that supports queries like table joins and group by.
@@ -290,7 +292,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
 * [Facebook PrestoDB](https://prestodb.io/) - distributed SQL query engine.
 * [Google BigQuery](http://research.google.com/pubs/pub36632.html) - framework for interactive analysis, implementation of Dremel.
-* [Pivotal HAWQ](http://pivotal.io/big-data/pivotal-hd) - SQL-like data warehouse system for Hadoop.
+* [Pivotal HDB](https://pivotal.io/pivotal-hdb) - SQL-like data warehouse system for Hadoop.
 * [RainstorDB](http://rainstor.com/products/rainstor-database/) - database for storing petabyte-scale volumes of structured and semi-structured data.
 * [Spark Catalyst](https://github.com/apache/spark/tree/master/sql) - is a Query Optimization Framework for Spark and Shark.
 * [SparkSQL](https://databricks.com/blog/2014/03/26/spark-sql-manipulating-structured-data-using-spark-2.html) - Manipulating Structured Data Using Spark.
@@ -345,6 +347,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Scheduling
 
+* [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-introduction) - cloud-based pipeline orchestration for on-prem, cloud and HDInsight
+* [Airflow](https://github.com/airbnb/airflow) -  a platform to programmatically author, schedule and monitor workflows.
 * [Apache Aurora](http://aurora.apache.org/) - is a service scheduler that runs on top of Apache Mesos.
 * [Apache Falcon](http://falcon.apache.org/) - data management framework.
 * [Apache Oozie](http://oozie.apache.org/) - workflow job scheduler.
@@ -352,11 +356,11 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Linkedin Azkaban](https://azkaban.github.io/) - batch workflow job scheduler.
 * [Schedoscope](https://github.com/ottogroup/schedoscope) - Scala DSL for agile scheduling of Hadoop jobs.
 * [Sparrow](https://github.com/radlab/sparrow) - scheduling platform.
-* [Airflow](https://github.com/airbnb/airflow) -  a platform to programmatically author, schedule and monitor workflows.
+
 
 ## Machine Learning
 
-
+* [Azure ML Studio](https://studio.azureml.net/) - Cloud-based AzureML, R, Python Machine Learning platform
 * [brain](https://github.com/harthur/brain) - Neural networks in JavaScript.
 * [Cloudera Oryx](https://github.com/cloudera/oryx) - real-time large-scale machine learning.
 * [Concurrent Pattern](http://www.cascading.org/projects/pattern/) - machine learning library for Cascading.
@@ -401,7 +405,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Deeplearning4j Benchmarks](https://github.com/deeplearning4j/dl4j-benchmark)
 
 ## Security
-
+* [Apache Ranger](http://ranger.apache.org/) - Central security admin & fine-grained authorization for Hadoop
 * [Apache Eagle](https://eagle.incubator.apache.org/) - real time monitoring solution
 * [Apache Knox Gateway](http://knox.apache.org/) - single point of secure access for Hadoop clusters.
 * [Apache Sentry](http://incubator.apache.org/projects/sentry.html) - security module for data stored in Hadoop.
@@ -524,6 +528,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [GoodData](http://www.gooddata.com/) - platform for data products and embedded analytics.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](http://www.jedox.com/) - customisable Business Intelligence platform.
+* [Jethrodata](http://jethro.io) - Interactive Big Data Analytics.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](http://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
@@ -533,7 +538,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SpagoBI](http://www.spagobi.org/) - open source business intelligence platform.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
 * [Zoomdata](http://www.zoomdata.com/) - Big Data Analytics.
-* [Jethrodata](http://jethro.io) - Interactive Big Data Analytics.
 
 ## Data Visualization
 
@@ -544,7 +548,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Bloomery](https://github.com/ufukomer/bloomery) - Web UI for Impala.
 * [Bokeh](http://bokeh.pydata.org/en/latest/) - A powerful Python interactive visualization library that targets modern web browsers for presentation, with the goal of providing elegant, concise construction of novel graphics in the style of D3.js, but also delivering this capability with high-performance interactivity over very large or streaming datasets.
 * [C3](http://c3js.org/) - D3-based reusable chart library
-* [Superset](https://github.com/airbnb/superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
 * [CartoDB](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API.
 * [chartd](http://chartd.co/) - responsive, retina-compatible charts with just an img tag.
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
@@ -579,13 +582,14 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [ReCharts](http://recharts.org/) - A composable charting library built on React components
 * [Shiny](http://shiny.rstudio.com/) - a web application framework for R.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
+* [Superset](https://github.com/airbnb/superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
 * [Vega](https://github.com/trifacta/vega) - a visualization grammar.
 * [Zeppelin](https://github.com/NFLabs/zeppelin) - a notebook-style collaborative data analysis.
 * [Zing Charts](http://www.zingchart.com/) - JavaScript charting library for big data.
 
 
 ## Internet of things and sensor data
-
+* [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Cloud-based bi-directional monitoring and messaging hub
 * [TempoIQ](https://www.tempoiq.com/) - Cloud-based sensor analytics.
 * [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
 * [Pubnub](https://www.pubnub.com/) - Data stream network
