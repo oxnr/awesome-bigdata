@@ -48,6 +48,7 @@ Your contributions are always welcome!
 
 ## Frameworks
 
+* [IBM Streams] (https://www.ibm.com/analytics/us/en/technology/stream-computing/) - platform for distributed processing and real-time analytics.  Integrates with many of the popular technologies in the Big Data ecosystem (Kafka, HDFS, Spark, etc.)
 * [Apache Hadoop](http://hadoop.apache.org/) - framework for distributed processing. Integrates MapReduce (parallel processing), YARN (job scheduling) and HDFS (distributed file system).
 * [Tigon](https://github.com/caskdata/tigon) - High Throughput Real-time Stream Processing Framework.
 * [Pachyderm](http://pachyderm.io/) - Pachyderm is a data storage platform built on Docker and Kubernetes to provide reproducible data processing and analysis.
@@ -86,6 +87,7 @@ Your contributions are always welcome!
 * [Google Dataflow](http://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help themæingest, transform and analyze data.
 * [Google MapReduce](http://research.google.com/archive/mapreduce.html) - map reduce framework.
 * [Google MillWheel](http://research.google.com/pubs/pub41378.html) - fault tolerant stream processing framework.
+* [IBM Streams] (https://www.ibm.com/analytics/us/en/technology/stream-computing/) - platform for distributed processing and real-time analytics.  Provides toolkits for advanced analytics like geospatial, time series, etc. out of the box.
 * [JAQL](https://code.google.com/p/jaql/) - declarative programming language for working with structured, semi-structured and unstructured data.
 * [Kite](http://kitesdk.org/docs/current/) - is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
 * [Metamarkets Druid](http://druid.io/) - framework for real-time analysis of large datasets.
@@ -98,6 +100,7 @@ Your contributions are always welcome!
 * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - useful for counting activities of event streams over different time windows and finding the most active one.
+* [streamsx.topology](https://github.com/IBMStreams/streamsx.topology) - Libraries to enable building IBM Streams application in Java, Python or Scala.
 * [Tuktu](https://github.com/UnderstandLingBV/Tuktu) - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
 * [Twitter Heron](https://github.com/twitter/heron) - Heron is a realtime, distributed, fault-tolerant stream processing engine from Twitter replacing Storm.
 * [Twitter Scalding](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
@@ -590,6 +593,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 
 ## Internet of things and sensor data
+* [Apache Edgent (Incubating)](http://edgent.apache.org/) - a programming model and micro-kernel style runtime that can be embedded in gateways and small footprint edge devices enabling local, real-time, analytics on the edge devices.
 * [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Cloud-based bi-directional monitoring and messaging hub
 * [TempoIQ](https://www.tempoiq.com/) - Cloud-based sensor analytics.
 * [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
