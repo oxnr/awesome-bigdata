@@ -43,6 +43,7 @@ Your contributions are always welcome!
 
 ## RDBMS
 * [MySQL](http://www.mysql.com/) The world's most popular open source database.
+* [MariaDB](https://mariadb.org) One of the most popular database servers. Made by the original developers of MySQL. Guaranteed to stay open source.
 * [PostgreSQL](http://www.postgresql.org/) The world's most advanced open source database.
 * [Oracle Database](http://www.oracle.com/us/corporate/features/database-12c/index.html) - object-relational database management system.
 
