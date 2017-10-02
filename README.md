@@ -217,6 +217,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
 * [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
 * [Twitter FlockDB](https://github.com/twitter-archive/flockdb) - distributed graph database.
+* [NodeXL](https://nodexl.codeplex.com/) - A free, open-source template for Microsoft® Excel® 2007, 2010, 2013 and 2016 that makes it easy to explore network graphs.
 
 
 ## Columnar Databases
