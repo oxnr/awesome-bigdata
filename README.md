@@ -45,6 +45,7 @@ Your contributions are always welcome!
 * [MySQL](https://www.mysql.com/) The world's most popular open source database.
 * [PostgreSQL](https://www.postgresql.org/) The world's most advanced open source database.
 * [Oracle Database](http://www.oracle.com/us/corporate/features/database-12c/index.html) - object-relational database management system.
+* [Teradata](http://www.teradata.com/products-and-services/teradata-database/) - high-performance MPP data warehouse platform.
 
 ## Frameworks
 
@@ -112,6 +113,7 @@ Your contributions are always welcome!
 
 * [Ambry](https://github.com/linkedin/ambry) - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
 * [Apache HDFS](http://hadoop.apache.org/) - a way to store large files across multiple machines.
+* [Apache Kudu](http://kudu.apache.org/) - Hadoop's storage layer to enable fast analytics on fast data.
 * [BeeGFS](https://www.beegfs.io/content/) - formerly FhGFS, parallel distributed file system.
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - software storage platform designed.
 * [Disco DDFS](http://disco.readthedocs.org/en/latest/howto/ddfs.html) - distributed filesystem.
@@ -296,6 +298,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
 * [Apache Calcite](http://calcite.apache.org/) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.apache.org/index.html) - SQL skin over HBase.
+* [Aster Database](http://www.teradata.com/products-and-services/Teradata-Aster/teradata-aster-database) - SQL-like analytic processing for MapReduce.
 * [Cloudera Impala](https://www.cloudera.com/products/apache-hadoop/impala.html) - framework for interactive analysis, Inspired by Dremel.
 * [Concurrent Lingual](http://www.cascading.org/projects/lingual/) - SQL-like query language for Cascading.
 * [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
