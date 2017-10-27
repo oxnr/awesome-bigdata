@@ -289,6 +289,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Dalmatiner DB](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
 * [Blueflood](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 * [Timely](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
+* [SiriDB](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
 
 ## SQL-like processing
 
