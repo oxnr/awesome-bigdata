@@ -682,6 +682,8 @@ for Data Analytics at Twitter.
 
 ## Videos
 
+* [Spark in Motion](https://www.manning.com/livevideo/spark-in-motion) - Spark in Motion teaches you how to use Spark for batch and streaming data analytics.
+
 ## Books
 
 #### Streaming
