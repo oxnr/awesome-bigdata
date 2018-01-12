@@ -619,6 +619,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [ThingWorx](https://www.thingworx.com/) - Rapid development and connection of intelligent systems
 * [IFTTT](https://ifttt.com/) - If this then that
 * [Evrything](https://evrythng.com/)- Making products smart
+* [NetLytics](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
 
 ## Interesting Readings
 
