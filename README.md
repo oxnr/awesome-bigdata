@@ -442,6 +442,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Google Borg](https://www.wired.com/2013/03/google-borg-twitter-mesos/all/) - job scheduling and monitoring system.
 * [Google Omega](https://www.youtube.com/watch?v=0ZFMlO98Jkc) - job scheduling and monitoring system.
 * [Hortonworks HOYA](https://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/) - application that can deploy HBase cluster on YARN.
+* [Kubernetes](https://kubernetes.io/) - a system for automating deployment, scaling, and management of containerized applications.
 * [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
 
 ## Applications
