@@ -713,3 +713,4 @@ for Data Analytics at Twitter.
 - Another list? [list](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
+- Awesome Curated Resources for [learning Big-Data](https://hackr.io/tutorials/learn-hadoop-big-data)
