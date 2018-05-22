@@ -296,6 +296,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Blueflood](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 * [Timely](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 * [SiriDB](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
+* [Thanos](https://github.com/improbable-eng/thanos) - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (existing) Prometheus deployments.
 
 ## SQL-like processing
 
