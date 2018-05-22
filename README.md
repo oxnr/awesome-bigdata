@@ -215,7 +215,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Infovore](https://github.com/paulhoule/infovore) - RDF-centric Map/Reduce framework.
 * [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
 * [MapGraph](https://www.blazegraph.com/mapgraph-technology/) - Massively Parallel Graph processing on GPUs.
-* [Neo4j](https://neo4j.com/) - graph database writting entirely in Java.
+* [Neo4j](https://neo4j.com/) - graph database written entirely in Java.
 * [OrientDB](http://orientdb.com/) - document and graph database.
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
 * [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
