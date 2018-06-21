@@ -59,7 +59,7 @@ Your contributions are always welcome!
 * [AddThis Hydra](https://github.com/addthis/hydra) - distributed data processing and storage system originally developed at AddThis.
 * [AMPLab SIMR](http://databricks.github.io/simr/) - run Spark on Hadoop MapReduce v1.
 * [Apache APEX](https://apex.apache.org/) - a unified, enterprise platform for big data stream and batch processing.
-* [Apache Beam](http://incubator.apache.org/projects/beam.html) - an unified model and set of language-specific SDKs for defining and executing data processing workflows.
+* [Apache Beam](https://beam.apache.org/) - an unified model and set of language-specific SDKs for defining and executing data processing workflows.
 * [Apache Crunch](http://crunch.apache.org/) - a simple Java API for tasks like joining and data aggregation that are tedious to implement on plain MapReduce.
 * [Apache DataFu](http://incubator.apache.org/projects/datafu.html) - collection of user-defined functions for Hadoop and Pig developed by LinkedIn.
 * [Apache Flink](http://flink.apache.org/) - high-performance runtime, and automatic program optimization.
