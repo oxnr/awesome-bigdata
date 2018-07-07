@@ -245,6 +245,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery) Google's cloud offering backed by their pioneering work on Dremel.
 * [Amazon Redshift](https://aws.amazon.com/redshift/) Amazon's cloud offering, also based on a columnar datastore backend.
 * [IndexR](https://github.com/shunfei/indexr) an open-source columnar storage format for fast & realtime analytic with big data.
+* [LocustDB](https://github.com/cswinter/LocustDB) an experimental analytics database aiming to set a new standard for query performance on commodity hardware. 
 
 ## NewSQL Databases
 
