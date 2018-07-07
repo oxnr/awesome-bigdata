@@ -242,10 +242,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Pivotal Greenplum](https://pivotal.io/pivotal-greenplum) - purpose-built, dedicated analytic data warehouse that offers a columnar engine as well as a traditional row-based one.
 * [Vertica](https://www.vertica.com/) - is designed to manage large, fast-growing volumes of data and provide very fast query performance when used for data warehouses.
 * [SQream DB](http://sqream.com/) - A GPU powered big data database, designed for analytics and data warehousing, with ANSI-92 compliant SQL, suitable for data sets from 10TB to 1PB.
-* [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery) Google's cloud offering backed by their pioneering work on Dremel.
-* [Amazon Redshift](https://aws.amazon.com/redshift/) Amazon's cloud offering, also based on a columnar datastore backend.
-* [IndexR](https://github.com/shunfei/indexr) an open-source columnar storage format for fast & realtime analytic with big data.
-* [LocustDB](https://github.com/cswinter/LocustDB) an experimental analytics database aiming to set a new standard for query performance on commodity hardware. 
+* [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery) - Google's cloud offering backed by their pioneering work on Dremel.
+* [Amazon Redshift](https://aws.amazon.com/redshift/) - Amazon's cloud offering, also based on a columnar datastore backend.
+* [IndexR](https://github.com/shunfei/indexr) - an open-source columnar storage format for fast & realtime analytic with big data.
+* [LocustDB](https://github.com/cswinter/LocustDB) - an experimental analytics database aiming to set a new standard for query performance on commodity hardware. 
 
 ## NewSQL Databases
 
