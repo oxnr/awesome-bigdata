@@ -274,7 +274,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
 * [Map-D](https://www.mapd.com/) - GPU in-memory database, big data analysis and visualization platform
 * [TiDB](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
-* [VoltDB](https://www.voltdb.com/) - claims to be fastest in-memory database
+* [VoltDB](https://www.voltdb.com/) - claims to be fastest in-memory database.
+* [ActorDB](https://github.com/biokoda/actordb) - a distributed SQL database with the scalability of a KV store, while keeping the query capabilities of a relational database.
 
 ## Time-Series Databases
 
