@@ -250,6 +250,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## NewSQL Databases
 
 * [Actian Ingres](http://www.actian.com/products/operational-databases/) - commercially supported, open-source SQL relational database management system.
+* [ActorDB](https://github.com/biokoda/actordb) - a distributed SQL database with the scalability of a KV store, while keeping the query capabilities of a relational database.
 * [Amazon RedShift](http://aws.amazon.com/redshift/) - data warehouse service, based on PostgreSQL.
 * [BayesDB](http://probcomp.csail.mit.edu/bayesdb/index.html) - statistic oriented SQL database.
 * [Bedrock](http://bedrockdb.com/) - a simple, modular, networked and distributed transaction layer built atop SQLite.
@@ -264,6 +265,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Haeinsa](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
 * [HandlerSocket](https://www.percona.com/doc/percona-server/5.5/performance/handlersocket.html) - NoSQL plugin for MySQL/MariaDB.
 * [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
+* [Map-D](https://www.mapd.com/) - GPU in-memory database, big data analysis and visualization platform.
 * [MemSQL](http://www.memsql.com/) - in memory SQL database witho optimized columnar storage on flash.
 * [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
 * [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) - in-memory, relational database management system with persistence and recoverability.
@@ -272,10 +274,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SenseiDB](http://senseidb.github.io/sensei/) - distributed, realtime, semi-structured database.
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
-* [Map-D](https://www.mapd.com/) - GPU in-memory database, big data analysis and visualization platform
 * [TiDB](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [VoltDB](https://www.voltdb.com/) - claims to be fastest in-memory database.
-* [ActorDB](https://github.com/biokoda/actordb) - a distributed SQL database with the scalability of a KV store, while keeping the query capabilities of a relational database.
 
 ## Time-Series Databases
 
