@@ -561,6 +561,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](https://www.jedox.com/en/) - customisable Business Intelligence platform.
 * [Jethrodata](https://jethro.io/) - Interactive Big Data Analytics.
+* [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](https://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
@@ -571,7 +572,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SparklineData SNAP](http://sparklinedata.com/) - modern B.I platform powered by Apache Spark.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
 * [Zoomdata](https://www.zoomdata.com/) - Big Data Analytics.
-* [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company
+
 
 ## Data Visualization
 
