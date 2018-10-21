@@ -716,6 +716,9 @@ for Data Analytics at Twitter.
 #### Distributed systems
 * [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) – Theory of distributed systems. Include parts about time and ordering, replication and impossibility results.
 
+#### Graph Based approach
+* [Graph-Powered Machine Learning](https://www.manning.com/books/graph-powered-machine-learning) - Alessandro Negro. Combine graph theory and models to improve machine learning projects
+
 ### Data Visualization
  * [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
  * [Designing Data Visualizations with Noah Iliinsky](https://www.youtube.com/watch?v=R-oiKt7bUU8)
