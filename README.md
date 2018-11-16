@@ -564,6 +564,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](https://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
+* [Numeracy](https://numeracy.co/) - Fast, clean SQL client and business intelligence.
 * [Pentaho](http://www.pentaho.com/) - business intelligence platform.
 * [Qlik](http://www.qlik.com/us/) - business intelligence and analytics platform.
 * [Redash](https://redash.io/) - Open source business intelligence platform, supporting multiple data sources and planned queries.
