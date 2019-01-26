@@ -730,3 +730,6 @@ for Data Analytics at Twitter.
 - WTF! [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
 - Public Datasets [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets).
+- Graph Embedding [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding).
+- Network Embedding [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding).
+- Community Detection [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection).
