@@ -327,6 +327,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Data Ingestion
 
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
+* [Amazon Web Services Glue](https://aws.amazon.com/glue/) -  serverless fully managed extract, transform, and load (ETL) service
 * [Apache Chukwa](http://chukwa.apache.org/) - data collection system.
 * [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
 * [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
