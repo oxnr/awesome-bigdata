@@ -219,6 +219,9 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Gremlin](https://github.com/tinkerpop/gremlin) - graph traversal Language.
 * [Infovore](https://github.com/paulhoule/infovore) - RDF-centric Map/Reduce framework.
 * [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
+* [JanusGraph](http://janusgraph.org) - open-source, distributed graph database
+  with multiple options for storage backends (Bigtable, HBase, Cassandra, etc.)
+  and indexing backends (Elasticsearch, Solr, Lucene).
 * [MapGraph](https://www.blazegraph.com/mapgraph-technology/) - Massively Parallel Graph processing on GPUs.
 * [Microsoft Graph Engine](https://github.com/Microsoft/GraphEngine) - a distributed in-memory data processing engine, underpinned by a strongly-typed in-memory key-value store and a general distributed computation engine.
 * [Neo4j](https://neo4j.com/) - graph database written entirely in Java.
