@@ -625,7 +625,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Shiny](http://shiny.rstudio.com/) - a web application framework for R.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Superset](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
-* [Vega](https://github.com/trifacta/vega) - a visualization grammar.
+* [Vega](https://github.com/vega/vega) - a visualization grammar.
 * [Zeppelin](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
 * [Zing Charts](https://www.zingchart.com/) - JavaScript charting library for big data.
 
