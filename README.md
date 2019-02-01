@@ -603,6 +603,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Echarts](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
 * [FnordMetric](https://metrictools.org/) - write SQL queries that return SVG charts rather than tables
+* [Frappe Charts](https://frappe.io/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
 * [Freeboard](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
 * [Gephi](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X.
 * [Google Charts](https://developers.google.com/chart/) - simple charting API.
