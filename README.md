@@ -133,6 +133,7 @@ Your contributions are always welcome!
 * [Alluxio](http://www.alluxio.org/) - reliable file sharing at memory speed across cluster frameworks.
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) - decentralized cloud storage system.
 * [Baidu File System](https://github.com/baidu/bfs) - distributed filesystem.
+* [SDFS](https://github.com/codenoid/sdfs) - Symlinked Distributed FileSystem.
 
 ## Distributed Index
 
