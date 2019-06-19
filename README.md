@@ -100,6 +100,7 @@ Your contributions are always welcome!
 * [Onyx](http://www.onyxplatform.org/) - Distributed computation for the cloud.
 * [Pinterest Pinlater](https://medium.com/@Pinterest_Engineering/pinlater-an-asynchronous-job-execution-system-b8664cb8aa7d) - asynchronous job execution system.
 * [Pydoop](http://crs4.github.io/pydoop/) - Python MapReduce and HDFS API for Hadoop.
+* [Ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. 
 * [Rackerlabs Blueflood](http://blueflood.io/) - multi-tenant distributed metric processing system
 * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
