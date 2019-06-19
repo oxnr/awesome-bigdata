@@ -750,3 +750,6 @@ for Data Analytics at Twitter.
 - Graph Embedding [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding).
 - Network Embedding [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding).
 - Community Detection [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection).
+- Decision Tree Papers [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
+- Fraud Detection Papers [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
+- Gradient Boosting Papers [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
