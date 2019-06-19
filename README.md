@@ -759,3 +759,4 @@ for Data Analytics at Twitter.
 - Decision Tree Papers [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
 - Fraud Detection Papers [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
 - Gradient Boosting Papers [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
+- Kafka [awesome-kafka](https://github.com/monksy/awesome-kafka).
