@@ -568,6 +568,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Business Intelligence
 
 * [BIME Analytics](https://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
+* [Blazer](https://github.com/ankane/blazer) - business intelligence made simple.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
 * [datapine](https://www.datapine.com/) - self-service business intelligence tool in the cloud.
 * [GoodData](https://www.gooddata.com/) - platform for data products and embedded analytics.
