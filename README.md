@@ -314,7 +314,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Actian SQL for Hadoop](http://www.actian.com/analytic-database/vectorh-sql-hadoop) - high performance interactive SQL access to all Hadoop data.
 * [Apache Drill](http://drill.apache.org/) - framework for interactive analysis, inspired by Dremel.
-* [Apache HCatalog](https://cwiki.apache.org/confluence/display/HCATALOG/Index) - table and storage management layer for Hadoop.
+* [Apache HCatalog](https://cwiki.apache.org/confluence/display/Hive/HCatalog) - table and storage management layer for Hadoop.
 * [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
 * [Apache Calcite](http://calcite.apache.org/) - framework that allows efficient translation of queries involving heterogeneous and federated data.
 * [Apache Phoenix](http://phoenix.apache.org/index.html) - SQL skin over HBase.
