@@ -717,7 +717,7 @@ for Data Analytics at Twitter.
 ## Videos
 
 * [Spark in Motion](https://www.manning.com/livevideo/spark-in-motion) - Spark in Motion teaches you how to use Spark for batch and streaming data analytics.
-* [Elasticsearch 7 and Elastic Stack ](https://www.manning.com/livevideo/elasticsearch-7-and-elastic-stack) - LiveVideo course that teaches you to search, analyze, and visualize big data on a cluster with Elasticsearch, Logstash, Beats, Kibana, and more..
+* [Elasticsearch 7 and Elastic Stack ](https://www.manning.com/livevideo/elasticsearch-7-and-elastic-stack) - LiveVideo course that teaches you to search, analyze, and visualize big data on a cluster with Elasticsearch, Logstash, Beats, Kibana, and more.
 
 ## Books
 
