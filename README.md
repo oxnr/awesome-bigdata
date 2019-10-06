@@ -585,7 +585,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Qlik](http://www.qlik.com/us/) - business intelligence and analytics platform.
 * [Redash](https://redash.io/) - Open source business intelligence platform, supporting multiple data sources and planned queries.
 * [Saiku](http://www.meteorite.bi/) - open source analytics platform.
-* [SpagoBI](http://www.spagobi.org/) - open source business intelligence platform.
+* [Knowage](https://www.knowage-suite.com/) - open source business intelligence platform. (former [SpagoBi](http://www.spagobi.org/))
 * [SparklineData SNAP](http://sparklinedata.com/) - modern B.I platform powered by Apache Spark.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
 * [Zoomdata](https://www.zoomdata.com/) - Big Data Analytics.
