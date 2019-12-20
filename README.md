@@ -283,6 +283,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
 * [TiDB](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [VoltDB](https://www.voltdb.com/) - claims to be fastest in-memory database.
+* [yugabyteDB](https://www.yugabyte.com/yugabytedb/) - open source, high-performance, distributed SQL database compatible with PostgreSQL.
 
 ## Time-Series Databases
 
