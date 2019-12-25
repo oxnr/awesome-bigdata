@@ -295,6 +295,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Kairosdb](https://github.com/kairosdb/kairosdb) - similar to OpenTSDB but allows for Cassandra.
 * [M3DB](http://m3db.github.io/m3/m3db/) - a distributed time series database that can be used for storing realtime metrics at long retention.
 * [Newts](https://opennms.github.io/newts/) - a time series database based on Apache Cassandra.
+* [TDengine](https://github.com/taosdata/TDengine/) - a time series database in C utilizing unique features of IoT to improve read/write throughput and reduce space needed to store data
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
 * [Prometheus](https://prometheus.io/) - a time series database and service monitoring system.
 * [Beringei](https://github.com/facebookincubator/beringei) - Facebook's in-memory time-series database.
