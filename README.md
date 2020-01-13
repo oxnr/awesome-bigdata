@@ -471,6 +471,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Hortonworks HOYA](https://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/) - application that can deploy HBase cluster on YARN.
 * [Kubernetes](https://kubernetes.io/) - a system for automating deployment, scaling, and management of containerized applications.
 * [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
+* [Linkis](https://github.com/WeBankFinTech/Linkis) - Linkis helps easily connect to various back-end computation/storage engines.
 
 ## Applications
 
