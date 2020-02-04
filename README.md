@@ -272,6 +272,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Haeinsa](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
 * [HandlerSocket](https://www.percona.com/doc/percona-server/5.5/performance/handlersocket.html) - NoSQL plugin for MySQL/MariaDB.
 * [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
+* [KarelDB](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
 * [Map-D](https://www.mapd.com/) - GPU in-memory database, big data analysis and visualization platform.
 * [MemSQL](http://www.memsql.com/) - in memory SQL database witho optimized columnar storage on flash.
 * [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
