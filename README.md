@@ -73,7 +73,7 @@ Your contributions are always welcome!
 * [Apache REEF](http://reef.apache.org/) - retainable evaluator execution framework to simplify and unify the lower layers of big data systems.
 * [Apache S4](http://incubator.apache.org/projects/s4.html) - framework for stream processing, implementation of S4.
 * [Apache Spark](http://spark.apache.org/) - framework for in-memory cluster computing.
-* [Apache Spark Streaming](http://spark.apache.org/docs/0.7.3/streaming-programming-guide.html) - framework for stream processing, part of Spark.
+* [Apache Spark Streaming](https://spark.apache.org/docs/latest/streaming-programming-guide.html) - framework for stream processing, part of Spark.
 * [Apache Storm](http://storm.apache.org) - framework for stream processing by Twitter also on YARN.
 * [Apache Samza](http://samza.apache.org/) - stream processing framework, based on Kafka and YARN.
 * [Apache Tez](http://tez.apache.org/) - application framework for executing a complex DAG (directed acyclic graph) of tasks, built on YARN.
