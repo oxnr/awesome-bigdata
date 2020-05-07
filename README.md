@@ -364,6 +364,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [StreamSets Data Collector](https://github.com/streamsets/datacollector) - continuous big data ingest infrastructure with a simple to use IDE.
 * [Yahoo Pulsar](https://github.com/apache/incubator-pulsar) - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
 * [Alooma](https://www.alooma.com/integrations/mysql) - data pipeline as a service enabling moving data sources such as MySQL into data warehouses.
+* [RudderStack](https://github.com/rudderlabs/rudder-server) - an open source customer data infrastructure (segment, mParticle  alternative) written in go.
 
 ## Service Programming
 
