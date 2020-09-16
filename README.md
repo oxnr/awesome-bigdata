@@ -395,6 +395,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Oozie](http://oozie.apache.org/) - workflow job scheduler.
 * [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-introduction) - cloud-based pipeline orchestration for on-prem, cloud and HDInsight
 * [Chronos](http://mesos.github.io/chronos/) - distributed and fault-tolerant scheduler.
+* [Dagster](https://github.com/dagster-io/dagster) - a data orchestrator for machine learning, analytics, and ETL.
 * [Linkedin Azkaban](https://azkaban.github.io/) - batch workflow job scheduler.
 * [Schedoscope](https://github.com/ottogroup/schedoscope) - Scala DSL for agile scheduling of Hadoop jobs.
 * [Sparrow](https://github.com/radlab/sparrow) - scheduling platform.
