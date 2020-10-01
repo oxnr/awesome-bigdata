@@ -488,6 +488,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Hortonworks HOYA](https://hortonworks.com/blog/introducing-hoya-hbase-on-yarn/) - application that can deploy HBase cluster on YARN.
 * [Kubernetes](https://kubernetes.io/) - a system for automating deployment, scaling, and management of containerized applications.
 * [Marathon](https://github.com/mesosphere/marathon) - Mesos framework for long-running services.
+* [Linkis](https://github.com/WeBankFinTech/Linkis) - Linkis helps easily connect to various back-end computation/storage engines.
 
 ## Applications
 
@@ -662,7 +663,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Vega](https://github.com/vega/vega) - a visualization grammar.
 * [Zeppelin](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
 * [Zing Charts](https://www.zingchart.com/) - JavaScript charting library for big data.
-
+* [DataSphere Studio](https://github.com/WeBankFinTech/DataSphereStudio) - one-stop data application development management portal.
 
 ## Internet of things and sensor data
 * [Apache Edgent (Incubating)](http://edgent.apache.org/) - a programming model and micro-kernel style runtime that can be embedded in gateways and small footprint edge devices enabling local, real-time, analytics on the edge devices.
