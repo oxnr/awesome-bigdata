@@ -328,6 +328,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Dremio](https://www.dremio.com/) - an open-source, SQL-like Data-as-a-Service Platform based on Apache Arrow.
 * [Facebook PrestoDB](https://prestodb.io/) - distributed SQL query engine.
 * [Google BigQuery](https://research.google.com/pubs/pub36632.html) - framework for interactive analysis, implementation of Dremel.
+* [Invantive SQL](https://documentation.invantive.com/2017R2/invantive-sql-grammar/invantive-sql-grammar-17.30.html) - SQL engine for online and on-premise use with integrated local data replication and 70+ connectors.
 * [PipelineDB](https://www.pipelinedb.com/) - an open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
 * [Pivotal HDB](https://pivotal.io/pivotal-hdb) - SQL-like data warehouse system for Hadoop.
 * [RainstorDB](http://rainstor.com/products/rainstor-database/) - database for storing petabyte-scale volumes of structured and semi-structured data.
