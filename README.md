@@ -507,7 +507,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [ElastAert](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [Hermes](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
-* [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
 * [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with data warehouse (AWS, BigQuery) integration.
@@ -518,14 +517,12 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [PivotalR](https://github.com/pivotalsoftware/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Rakam](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB. 
 * [Qubole](https://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
-* [Sense](https://sense.io/) - Cloud Platform for Data Science and Big Data Analytics.
 * [SnappyData](https://github.com/SnappyDataInc/snappydata) - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
 * [Snowplow](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 * [Splunk](https://www.splunk.com/) - analyzer for machine-generated data.
 * [Sumo Logic](https://www.sumologic.com/) - cloud based analyzer for machine-generated data.
 * [Talend](http://www.talend.com/products/big-data/) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
-* [Warp](https://warp.one//) - query by example tool for big data (OS X app)
 
 ## Search engine and framework
 
