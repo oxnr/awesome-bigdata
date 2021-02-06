@@ -790,3 +790,4 @@ for Data Analytics at Twitter.
 - Gradient Boosting Papers [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
 - Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
 - Kafka [awesome-kafka](https://github.com/monksy/awesome-kafka).
+- [Google Bigtable](https://github.com/zrosenbauer/awesome-bigtable).
