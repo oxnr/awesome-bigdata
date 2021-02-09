@@ -774,6 +774,8 @@ for Data Analytics at Twitter.
  * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)
  * [Ice Bucket Challenge Data Visualization](https://www.youtube.com/watch?v=qTEchen97rQ)
 
+### Data Analytics
+ * [The Analytics Setup Guidebook](https://www.holistics.io/books/setup-analytics/)
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
