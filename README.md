@@ -597,6 +597,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
 * [Count](https://count.co) - notebook-based anlytics and visualisation platform using SQL or drag-and-drop.
 * [datapine](https://www.datapine.com/) - self-service business intelligence tool in the cloud.
+* [Dekart](https://dekart.xyz/) - Large scale geospatial analytics for Google BigQuery based on Kepler.gl.
 * [GoodData](https://www.gooddata.com/) - platform for data products and embedded analytics.
 * [Jaspersoft](https://www.jaspersoft.com/) - powerful business intelligence suite.
 * [Jedox Palo](https://www.jedox.com/en/) - customisable Business Intelligence platform.
@@ -637,6 +638,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [D3.compose](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 * [D3Plus](http://d3plus.org) - A fairly robust set of reusable charts and styles for d3.js.
 * [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. Built on top of plotly, no JS required
+* [Dekart](https://dekart.xyz/) - Large scale geospatial analytics for Google BigQuery based on Kepler.gl.
 * [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 * [Echarts](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
