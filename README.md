@@ -354,6 +354,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [redpanda](https://vectorized.io/redpanda) - A Kafka® replacement for mission critical systems; 10x faster. Written in C++.
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
 * [Amazon Web Services Glue](https://aws.amazon.com/glue/) -  serverless fully managed extract, transform, and load (ETL) service
+* [Census](https://getcensus.com/) - A reverse ETL product that let you sync data from your data warehouse to SaaS Applications. No engineering favors required—just SQL.
 * [Apache Chukwa](http://chukwa.apache.org/) - data collection system.
 * [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
 * [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
