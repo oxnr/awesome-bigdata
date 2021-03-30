@@ -64,7 +64,7 @@ Your contributions are always welcome!
 * [Tigon](https://github.com/caskdata/tigon) - High Throughput Real-time Stream Processing Framework.
 * [Pachyderm](http://pachyderm.io/) - Pachyderm is a data storage platform built on Docker and Kubernetes to provide reproducible data processing and analysis.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
-* [Smooks](https://github.com/smooks/smooks) - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications.
+* [Smooks](https://github.com/smooks/smooks) - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) fragment-based applications.
 
 ## Distributed Programming
 
