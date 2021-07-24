@@ -507,6 +507,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Argus](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
 * [AthenaX](https://github.com/uber/AthenaX) - a streaming analytics platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (SQL).
 * [Atlas](https://github.com/Netflix/atlas) - a backend for managing dimensional time series data.
+* [Awacs](https://github.com/socketkit/awacs) - Next-gen behavior analysis server (think Mixpanel, Google Analytics) with built-in encryption
 * [Countly](https://count.ly/) - open source mobile and web analytics platform, based on Node.js & MongoDB.
 * [Domino](https://www.dominodatalab.com/) - Run, scale, share, and deploy models — without any infrastructure.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
