@@ -368,6 +368,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Gazette](https://github.com/gazette/core) - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 * [Google Photon](https://research.google.com/pubs/pub41318.html) - geographically distributed system for joining multiple continuously flowing streams of data in real-time with high scalability and low latency.
 * [Heka](https://github.com/mozilla-services/heka) - open source stream processing software system.
+* [Hightouch](https://hightouch.io/) - Sync data from your data warehouse to any SaaS Applications using SQL or dbt models. A leader in Reverse ETL, built for data engineers. 
 * [HIHO](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
 * [Kestrel](https://github.com/papertrail/kestrel) - distributed message queue system.
 * [LinkedIn Databus](https://engineering.linkedin.com/data) - stream of change capture events for a database.
