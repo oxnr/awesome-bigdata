@@ -683,6 +683,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [IFTTT](https://ifttt.com/) - If this then that
 * [Evrything](https://evrythng.com/)- Making products smart
 * [NetLytics](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
+* [Ably](https://ably.com/) - Pub/sub messaging platform for IoT 
 
 ## Interesting Readings
 
