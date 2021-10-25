@@ -75,7 +75,7 @@ Your contributions are always welcome!
 * [Apache Crunch](http://crunch.apache.org/) - a simple Java API for tasks like joining and data aggregation that are tedious to implement on plain MapReduce.
 * [Apache DataFu](http://incubator.apache.org/projects/datafu.html) - collection of user-defined functions for Hadoop and Pig developed by LinkedIn.
 * [Apache Flink](http://flink.apache.org/) - high-performance runtime, and automatic program optimization.
-* [Apache Gearpump](http://gearpump.apache.org/) - real-time big data streaming engine based on Akka.
+* [Apache Gearpump](https://gearpump.github.io/gearpump/) - real-time big data streaming engine based on Akka.
 * [Apache Gora](http://gora.apache.org/) - framework for in-memory data model and persistence.
 * [Apache Hama](http://hama.apache.org/) - BSP (Bulk Synchronous Parallel) computing framework.
 * [Apache MapReduce](https://wiki.apache.org/hadoop/MapReduce/) - programming model for processing large data sets with a parallel, distributed algorithm on a cluster.
@@ -236,7 +236,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [JanusGraph](http://janusgraph.org) - open-source, distributed graph database
   with multiple options for storage backends (Bigtable, HBase, Cassandra, etc.)
   and indexing backends (Elasticsearch, Solr, Lucene).
-* [MapGraph](https://www.blazegraph.com/mapgraph-technology/) - Massively Parallel Graph processing on GPUs.
 * [Microsoft Graph Engine](https://github.com/Microsoft/GraphEngine) - a distributed in-memory data processing engine, underpinned by a strongly-typed in-memory key-value store and a general distributed computation engine.
 * [Neo4j](https://neo4j.com/) - graph database written entirely in Java.
 * [OrientDB](http://orientdb.com/) - document and graph database.
@@ -287,7 +286,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [MemSQL](http://www.memsql.com/) - in memory SQL database witho optimized columnar storage on flash.
 * [NuoDB](http://www.nuodb.com/) - SQL/ACID compliant distributed database.
 * [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) - in-memory, relational database management system with persistence and recoverability.
-* [Pivotal GemFire XD](http://gemfirexd.docs.pivotal.io/latest/) - Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.
+* [Pivotal GemFire XD](https://gemfire.docs.pivotal.io/93/gemfire/getting_started/gemfire_overview.html) - Low-latency, in-memory, distributed SQL data store. Provides SQL interface to in-memory table data, persistable in HDFS.
 * [SAP HANA](https://hana.sap.com/abouthana.html) - is an in-memory, column-oriented, relational database management system.
 * [SenseiDB](http://senseidb.github.io/sensei/) - distributed, realtime, semi-structured database.
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
@@ -306,7 +305,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [QuestDB](https://questdb.io/) - high-performance, open-source SQL database for applications in financial services, IoT, machine learning, DevOps and observability.
 * [IronDB](https://www.circonus.com/irondb/) - scalable, general-purpose time series database.
 * [Kairosdb](https://github.com/kairosdb/kairosdb) - similar to OpenTSDB but allows for Cassandra.
-* [M3DB](http://m3db.github.io/m3/m3db/) - a distributed time series database that can be used for storing realtime metrics at long retention.
+* [M3DB](https://m3db.io/) - a distributed time series database that can be used for storing realtime metrics at long retention.
 * [Newts](https://opennms.github.io/newts/) - a time series database based on Apache Cassandra.
 * [TDengine](https://github.com/taosdata/TDengine/) - a time series database in C utilizing unique features of IoT to improve read/write throughput and reduce space needed to store data
 * [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
@@ -462,7 +461,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Benchmarking
 
-* [Apache Hadoop Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-3561) - micro-benchmarks for testing Hadoop performances.
 * [Berkeley SWIM Benchmark](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
 * [Intel HiBench](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
 * [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - benchmark suite for MapReduce applications.
@@ -515,7 +513,6 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [HASH](https://hash.ai) - open source simulation and visualization platform.
 * [Hermes](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
-* [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
 * [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with data warehouse (AWS, BigQuery) integration.
 * [Jupyter](https://jupyter.org/) - Notebook and project application for interactive data science and scientific computing across all programming languages.
 * [MADlib](http://madlib.incubator.apache.org/community/) - data-processing library of an RDBMS to analyze data.
@@ -656,6 +653,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
 * [Kibana](https://www.elastic.co/products/kibana) - visualize logs and time-stamped data
 * [Lumify](http://lumify.io/) - open source big data analysis and visualization platform
+* [Logit.io](http://logit.io/) - affordable hosting for data visualisation tools including Kibana, Grafana & OpenDashboards.
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
 * [Metricsgraphic.js](https://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
@@ -766,7 +764,7 @@ for Data Analytics at Twitter.
 * [Big Data](https://www.manning.com/books/big-data) - Big Data teaches you to build big data systems using an architecture that takes advantage of clustered hardware along with new tools designed specifically to capture and analyze web-scale data.
 * [Spark in Action](https://www.manning.com/books/spark-in-action) & [Spark in Action 2nd Ed.](https://www.manning.com/books/spark-in-action-second-edition) - Spark in Action teaches you the theory and skills you need to effectively handle batch and streaming data using Spark. Fully updated for Spark 2.0.
 * [Kafka in Action](https://www.manning.com/books/kafka-in-action) - Kafka in Action is a fast-paced introduction to every aspect of working with Kafka you need to really reap its benefits.
-* [Fusion in Action](https://www.manning.com/books/fusion-in-action) - Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
+* [Fusion in Action](https://www.manning.com/books/fusion-in-action-cx) - Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
 * [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) - Reactive Data Handling is a collection of five hand-picked chapters, selected by Manuel Bernhardt, that introduce you to building reactive applications capable of handling real-time processing with large data loads--free eBook! 
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) - A book about data engineering in general and the Azure platform specifically 
 * [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) - Grokking Streaming Systems helps you unravel what streaming systems are, how they work, and whether they’re right for your business. Written to be tool-agnostic, you’ll be able to apply what you learn no matter which framework you choose.
