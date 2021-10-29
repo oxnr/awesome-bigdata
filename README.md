@@ -135,6 +135,7 @@ Your contributions are always welcome!
 * [Google GFS](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) - distributed filesystem.
 * [Google Megastore](https://research.google.com/pubs/pub36971.html) - scalable, highly available storage.
 * [GridGain](https://www.gridgain.com/) - GGFS, Hadoop compliant in-memory file system.
+* [JuiceFS](https://github.com/juicedata/juicefs) - A distributed POSIX file system built on top of Redis and S3. Compatible with HDFS, NFS, and S3.
 * [Lustre file system](http://wiki.lustre.org/) - high-performance distributed filesystem.
 * [Microsoft Azure Data Lake Store](https://hadoop.apache.org/docs/current/hadoop-azure-datalake/index.html) - HDFS-compatible storage in Azure cloud
 * [Quantcast File System QFS](https://www.quantcast.com/about-us/quantcast-file-system/) - open-source distributed file system.
