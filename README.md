@@ -606,6 +606,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Jedox Palo](https://www.jedox.com/en/) - customisable Business Intelligence platform.
 * [Jethrodata](https://jethro.io/) - Interactive Big Data Analytics.
 * [intermix.io](https://intermix.io/) - Performance Monitoring for Amazon Redshift
+* [Lightdash](https://lightdash.com/) - The open source Looker alternative built on dbt
 * [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](https://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
