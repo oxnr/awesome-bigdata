@@ -645,7 +645,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 * [Echarts](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
-* [Flexmonster Pivot Table & Charts](https://www.flexmonster.com) - a powerful JavaScript component for business data visualizing and web reporting.
+* [Flexmonster Pivot Table & Charts](https://www.flexmonster.com) - a powerful JavaScript component for business data visualization and web reporting.
 * [Flexmonster for Desktop](https://www.flexmonster.com) - a free desktop tool for creating insightful reports.
 * [FnordMetric](https://metrictools.org/) - write SQL queries that return SVG charts rather than tables
 * [Frappe Charts](https://frappe.io/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
