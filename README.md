@@ -253,6 +253,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Columnar Storage](http://the-paper-trail.org/blog/columnar-storage/) - an explanation of what columnar storage is and when you might want it.
 * [Actian Vector](http://www.actian.com/) - column-oriented analytic database.
 * [ClickHouse](https://clickhouse.yandex/) - an open-source column-oriented database management system that allows generating analytical data reports in real time.
+* [Databend](https://databend.rs/) - an [open-source](https://github.com/datafuselabs/databend) **Elastic** and **Workload-Aware** modern cloud data warehouse.
 * [EventQL](http://eventql.io/) - a distributed, column-oriented database built for large-scale event collection and analytics.
 * [MonetDB](https://www.monetdb.org/) - column store database.
 * [Parquet](http://parquet.apache.org/) - columnar storage format for Hadoop.
