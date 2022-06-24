@@ -34,6 +34,7 @@ Your contributions are always welcome!
   - [Memcached forks and evolutions](#memcached-forks-and-evolutions)
   - [Embedded Databases](#embedded-databases)
   - [Business Intelligence](#business-intelligence)
+  - [Data Engineering](#data-engineering)
   - [Data Visualization](#data-visualization)
   - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
   - [Interesting Readings](#interesting-readings)
@@ -619,6 +620,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
 * [Zoomdata](https://www.zoomdata.com/) - Big Data Analytics.
 
+## Data Engineering
+* [QuickTable](https://www.quicktable.io/) - Empowers everyone to access, clean, transform, and analyze data on databases, datalakes and warehouses with no code.
 
 ## Data Visualization
 
