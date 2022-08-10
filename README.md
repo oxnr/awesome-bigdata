@@ -800,3 +800,4 @@ for Data Analytics at Twitter.
 - Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
 - Kafka [awesome-kafka](https://github.com/monksy/awesome-kafka).
 - [Google Bigtable](https://github.com/zrosenbauer/awesome-bigtable).
+- Explore Big Data [open source software, libraries, packages, source code, cloud functions and APIs](https://kandi.openweaver.com/explore/bigdata).
