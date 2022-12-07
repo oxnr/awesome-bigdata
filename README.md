@@ -617,6 +617,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Knowage](https://www.knowage-suite.com/) - open source business intelligence platform. (former [SpagoBi](http://www.spagobi.org/))
 * [SparklineData SNAP](http://sparklinedata.com/) - modern B.I platform powered by Apache Spark.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
+* [Query.me](https://query.me) - collaborative data notebooks that let you execute and schedule sequences of SQL, API, and other blocks to build smart reporting workflows. 
 * [Zoomdata](https://www.zoomdata.com/) - Big Data Analytics.
 
 
