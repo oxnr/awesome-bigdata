@@ -468,6 +468,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - benchmark suite for MapReduce applications.
 * [Yahoo Gridmix3](http://yahoohadoop.tumblr.com/post/98294079296/gridmix3-emulating-production-workload-for) - Hadoop cluster benchmarking from Yahoo engineer team.
 * [Deeplearning4j Benchmarks](https://github.com/deeplearning4j/dl4j-benchmark)
+* [UCSB](https://github.com/unum-cloud/ucsb) - extended Yahoo Cloud Serving Benchmark for NoSQL databases.
 
 ## Security
 * [Apache Ranger](http://ranger.apache.org/) - Central security admin & fine-grained authorization for Hadoop
