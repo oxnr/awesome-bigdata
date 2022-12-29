@@ -512,6 +512,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
 * [ElastAert](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
+* [Gigasheet](https://www.gigasheet.com/) - cloud big data spreadsheet.
 * [HASH](https://hash.ai) - open source simulation and visualization platform.
 * [Hermes](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
