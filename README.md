@@ -205,6 +205,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Ignite](https://ignite.apache.org/index.html) - is an in-memory key-value data store providing full SQL-compliant data access that can optionally be backed by disk storage.
 * [LinkedIn Krati](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
 * [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
+* [LunaSec](https://www.lunasec.io) - key-value datastore that encrypts/tokenizes values for compliance + security; uses S3 + DynamoDB for storage. 
 * [Oracle NoSQL Database](http://www.oracle.com/technetwork/database/database-technologies/nosqldb/overview/index.html) - distributed key-value database by Oracle Corporation.
 * [Redis](https://redis.io/) - in memory key value datastore.
 * [Riak](https://github.com/basho/riak) - a decentralized datastore.
