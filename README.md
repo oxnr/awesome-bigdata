@@ -196,6 +196,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [BTDB](https://github.com/Bobris/BTDB) - Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more
 * [BuntDB](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 * [Edis](https://github.com/cbd/edis) - is a protocol-compatible Server replacement for Redis.
+* [BerylDB](https://github.com/beryldb/beryldb) - A modular key value database.
 * [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](https://geteventstore.com/) - distributed time series database.
 * [GhostDB](https://github.com/jakekgrog/GhostDB) - a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
