@@ -755,6 +755,7 @@ for Data Analytics at Twitter.
 * [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) - LiveVideo tutorial that covers machine learning, Tensorflow, artificial intelligence, and neural networks.
 * [Data warehouse schema design - dimensional modeling and star schema](https://snir.dev/talks/data-warehouse-schema-design) - Introduction to schema design for data warehouse using the star schema method.
 * [Elasticsearch 7 and Elastic Stack](https://www.manning.com/livevideo/elasticsearch-7-and-elastic-stack) - LiveVideo tutorial that covers searching, analyzing, and visualizing big data on a cluster with Elasticsearch, Logstash, Beats, Kibana, and more.
+* [Streaming 101: Hello Streaming](https://www.youtube.com/watch?v=A1YC_AC0qf8) - A brief overview of streaming systems, how they differ from other data processing systems and typical use cases
 
 ## Books
 
@@ -773,6 +774,9 @@ for Data Analytics at Twitter.
 * [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) - Reactive Data Handling is a collection of five hand-picked chapters, selected by Manuel Bernhardt, that introduce you to building reactive applications capable of handling real-time processing with large data loads--free eBook! 
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) - A book about data engineering in general and the Azure platform specifically 
 * [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) - Grokking Streaming Systems helps you unravel what streaming systems are, how they work, and whether they’re right for your business. Written to be tool-agnostic, you’ll be able to apply what you learn no matter which framework you choose.
+* [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) - Data Analysis with Python and PySpark is a carefully engineered tutorial that helps you use PySpark to deliver your data-driven applications at any scale. 
+* [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow) - A book that teaches you how to build and maintain effective data pipelines.
+* [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) - A book that teaches you how to solve design, planning, and control problems using modern machine learning and AI techniques.
 
 #### Distributed systems
 * [Distributed Systems for fun and profit](http://book.mixu.net/distsys/) – Theory of distributed systems. Include parts about time and ordering, replication and impossibility results.
