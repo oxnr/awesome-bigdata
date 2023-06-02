@@ -675,6 +675,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Zeppelin](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
 * [Zing Charts](https://www.zingchart.com/) - JavaScript charting library for big data.
 * [DataSphere Studio](https://github.com/WeBankFinTech/DataSphereStudio) - one-stop data application development management portal.
+* [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ## Internet of things and sensor data
 * [Apache Edgent (Incubating)](http://edgent.apache.org/) - a programming model and micro-kernel style runtime that can be embedded in gateways and small footprint edge devices enabling local, real-time, analytics on the edge devices.
