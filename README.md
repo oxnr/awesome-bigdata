@@ -366,6 +366,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Facebook Scribe](https://github.com/facebookarchive/scribe) - streamed log data aggregator.
 * [Fluentd](http://www.fluentd.org) - tool to collect events and logs.
 * [Gazette](https://github.com/gazette/core) - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
+* [Graylog](https://www.graylog.org/) - Scaleable log storage, searching and alerts.
 * [Google Photon](https://research.google.com/pubs/pub41318.html) - geographically distributed system for joining multiple continuously flowing streams of data in real-time with high scalability and low latency.
 * [Heka](https://github.com/mozilla-services/heka) - open source stream processing software system.
 * [HIHO](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
