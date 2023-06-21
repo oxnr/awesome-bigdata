@@ -419,6 +419,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Machine Learning
 
+* [Aim](https://github.com/aimhubio/aim) - An easy-to-use & supercharged open-source AI metadata tracker.
 * [Azure ML Studio](https://studio.azureml.net/) - Cloud-based AzureML, R, Python Machine Learning platform
 * [brain](https://github.com/harthur/brain) - Neural networks in JavaScript.
 * [Oryx](https://github.com/OryxProject/oryx) - Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning.
