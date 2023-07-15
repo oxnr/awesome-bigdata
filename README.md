@@ -238,6 +238,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
   and indexing backends (Elasticsearch, Solr, Lucene).
 * [MapGraph](https://www.blazegraph.com/mapgraph-technology/) - Massively Parallel Graph processing on GPUs.
 * [Microsoft Graph Engine](https://github.com/Microsoft/GraphEngine) - a distributed in-memory data processing engine, underpinned by a strongly-typed in-memory key-value store and a general distributed computation engine.
+* [Nebula Graph](https://www.nebula-graph.io/) - a distributed, scalable, and lightning-fast graph database capable of hosting graphs with dozens of billions of vertices (nodes) and trillions of edges with millisecond latency.
+
 * [Neo4j](https://neo4j.com/) - graph database written entirely in Java.
 * [OrientDB](http://orientdb.com/) - document and graph database.
 * [Phoebus](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
