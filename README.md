@@ -65,6 +65,7 @@ Your contributions are always welcome!
 * [Pachyderm](http://pachyderm.io/) - Pachyderm is a data storage platform built on Docker and Kubernetes to provide reproducible data processing and analysis.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 * [Smooks](https://github.com/smooks/smooks) - An extensible Java framework for building XML and non-XML (CSV, EDI, Java, etc...) streaming applications.
+* [Numaflow](https://github.com/numaproj/numaflow) - Kubernetes native stream processing platform with language agnostic framework
 
 ## Distributed Programming
 
