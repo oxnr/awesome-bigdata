@@ -19,6 +19,7 @@ Your contributions are always welcome!
   - [Columnar Databases](#columnar-databases)
   - [NewSQL Databases](#newsql-databases)
   - [Time-Series Databases](#time-series-databases)
+  - [Vector Databases](#vector-databases)
   - [SQL-like processing](#sql-like-processing)
   - [Data Ingestion](#data-ingestion)
   - [Service Programming](#service-programming)
@@ -323,6 +324,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [SiriDB](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
 * [Thanos](https://github.com/improbable-eng/thanos) - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (existing) Prometheus deployments.
 * [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - fast, scalable and resource-effective open-source TSDB compatible with Prometheus. Single-node and cluster versions included
+
+## Vector Databases
+
+* [Infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search
 
 ## SQL-like processing
 
