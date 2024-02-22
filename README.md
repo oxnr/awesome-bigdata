@@ -471,6 +471,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Deeplearning4j Benchmarks](https://github.com/deeplearning4j/dl4j-benchmark)
 * [UCSB](https://github.com/unum-cloud/ucsb) - extended Yahoo Cloud Serving Benchmark for NoSQL databases.
 
+## Real-time Data
+
+* [Streamdal](https://github.com/streamdal/streamdal) - A Wasm-powered data pipeline engine that you embed into your application code for ridiculously fast, real-time data transformations without network hops, and PII detection.
+
 ## Security
 * [Apache Ranger](http://ranger.apache.org/) - Central security admin & fine-grained authorization for Hadoop
 * [Apache Eagle](http://eagle.apache.org/) - real time monitoring solution
