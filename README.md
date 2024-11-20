@@ -209,7 +209,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Redis](https://redis.io/) - in memory key value datastore.
 * [Riak](https://github.com/basho/riak) - a decentralized datastore.
 * [Storehaus](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
-* [SummitDB](https://github.com/tidwall/summitdb) - an in-memory, NoSQL key/value database, with disk persistance and using the Raft consensus algorithm.
+* [SummitDB](https://github.com/tidwall/summitdb) - an in-memory, NoSQL key/value database, with disk persistence and using the Raft consensus algorithm.
 * [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 * [TiKV](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
 * [Tile38](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
@@ -387,7 +387,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [Akka Toolkit](http://akka.io/) - runtime for distributed, and fault tolerant event-driven applications on the JVM.
 * [Apache Avro](http://avro.apache.org/) - data serialization system.
-* [Apache Curator](http://curator.apache.org/) - Java libaries for Apache ZooKeeper.
+* [Apache Curator](http://curator.apache.org/) - Java libraries for Apache ZooKeeper.
 * [Apache Karaf](http://karaf.apache.org/) - OSGi runtime that runs on top of any OSGi framework.
 * [Apache Thrift](http://thrift.apache.org//) - framework to build binary protocols.
 * [Apache Zookeeper](http://zookeeper.apache.org/) - centralized service for process management.
@@ -445,7 +445,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [MonkeyLearn](https://monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
 * [ND4J](https://github.com/deeplearning4j/nd4j) - A matrix library for the JVM. Numpy for Java. 
 * [nupic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
-* [PredictionIO](http://predictionio.incubator.apache.org/index.html) - machine learning server buit on Hadoop, Mahout and Cascading.
+* [PredictionIO](http://predictionio.incubator.apache.org/index.html) - machine learning server built on Hadoop, Mahout and Cascading.
 * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - a temporal extension library for PyTorch Geometric .
 * [RL4J](https://github.com/deeplearning4j/rl4j) - Reinforcement learning for Java and Scala. Includes Deep-Q learning and A3C algorithms, and integrates with Open AI's Gym. Runs in the Deeplearning4j ecosystem. 
 * [SAMOA](http://samoa.incubator.apache.org/) - distributed streaming machine learning framework.
@@ -480,7 +480,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## System Deployment
 
-* [Apache Ambari](http://ambari.apache.org/) - operational framework for Hadoop mangement.
+* [Apache Ambari](http://ambari.apache.org/) - operational framework for Hadoop management.
 * [Apache Bigtop](http://bigtop.apache.org//) - system deployment framework for the Hadoop ecosystem.
 * [Apache Helix](http://helix.apache.org/) - cluster management framework.
 * [Apache Mesos](http://mesos.apache.org/) - cluster manager.
@@ -738,7 +738,7 @@ for Data Analytics at Twitter.
 * [2010](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf) - **Facebook** - Finding a needle in Haystack: Facebook’s photo storage.
 * [2010](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Spark-Cluster-Computing-with-Working-Sets.pdf) - **AMPLab** - Spark: Cluster Computing with Working Sets.
 * [2010](http://kowshik.github.io/JPregel/pregel_paper.pdf) - **Google** - Pregel: A System for Large-Scale Graph Processing.
-* [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36726.pdf) - **Google** - Large-scale Incremental Processing Using Distributed Transactions and Notiﬁcations base of Percolator and Caffeine.
+* [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36726.pdf) - **Google** - Large-scale Incremental Processing Using Distributed Transactions and notifications base of Percolator and Caffeine.
 * [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf) - **Google** - Dremel: Interactive Analysis of Web-Scale Datasets.
 * [2010](http://leoneu.github.io/) - **Yahoo** - S4: Distributed Stream Computing Platform.
 * [2009](http://www.cs.umd.edu/~abadi/papers/hadoopdb.pdf) - HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads.	
