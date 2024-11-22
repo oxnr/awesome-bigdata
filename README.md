@@ -433,6 +433,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 * [GraphLab Create](https://dato.com/products/create/) - A machine learning platform in Python with a broad collection of ML toolkits, data engineering, and deployment tools.
 * [H2O](https://github.com/h2oai/h2o-3/) - statistical, machine learning and math runtime with Hadoop. R and Python.
+* [isolation-forest](https://github.com/linkedin/isolation-forest) - A distributed Spark/Scala implementation of the isolation forest algorithm for unsupervised outlier detection, featuring support for scalable training and ONNX export for easy cross-platform inference.
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph structured data. Python
 * [Keras](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
 * [Lambdo](https://github.com/johnsonc/lambdo) - Lambdo is a workflow engine which significantly simplifies the analysis process by unifying feature engineering and machine learning operations.
