@@ -517,6 +517,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [HASH](https://hash.ai) - open source simulation and visualization platform.
 * [Hermes](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
+* [Ilum](https://ilum.cloud) - Free Data Lakeouse platforms with modules like Jupyter, Airflow, MlFlow, Mage.ai.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) - Large scale analytics platform by indeed.
 * [Indicative](https://www.indicative.com/) - Web & mobile analytics tool, with data warehouse (AWS, BigQuery) integration.
 * [Jupyter](https://jupyter.org/) - Notebook and project application for interactive data science and scientific computing across all programming languages.
@@ -691,6 +692,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Interesting Readings
 
 * [Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/) - Benchmark of Redshift, Hive, Shark, Impala and Stiger/Tez.
+* [How to run Apache Spark on Kubernetes in less than 5min](https://ilum.cloud/blog/spark-on-kubernetes/) - Guite on how to run Apache Spark on Kubernetes with Ilum.
 * [NoSQL Comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis) - Cassandra vs MongoDB vs CouchDB vs Redis vs Riak vs HBase vs Couchbase vs Neo4j vs Hypertable vs ElasticSearch vs Accumulo vs VoltDB vs Scalaris comparison.
 * [Monitoring Kafka performance](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics?ref=awesome) - Guide to monitoring Apache Kafka, including native methods for metrics collection.
 * [Monitoring Hadoop performance](https://www.datadoghq.com/blog/monitor-hadoop-metrics?ref=awesome) - Guide to monitoring Hadoop, with an overview of Hadoop architecture, and native methods for metrics collection.
