@@ -807,3 +807,4 @@ for Data Analytics at Twitter.
 - Monte Carlo Tree Search Papers [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers).
 - Kafka [awesome-kafka](https://github.com/monksy/awesome-kafka).
 - [Google Bigtable](https://github.com/zrosenbauer/awesome-bigtable).
+- [Awesome Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation)
