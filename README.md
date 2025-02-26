@@ -413,6 +413,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Chronos](http://mesos.github.io/chronos/) - distributed and fault-tolerant scheduler.
 * [Cronicle](https://github.com/jhuckaby/Cronicle) - Distributed, easy to install, NodeJS based, task scheduler
 * [Dagster](https://github.com/dagster-io/dagster) - a data orchestrator for machine learning, analytics, and ETL.
+* [Kestra](https://www.kestra.io) - Open source data orchestration and scheduling platform with declarative syntax.
 * [Linkedin Azkaban](https://azkaban.github.io/) - batch workflow job scheduler.
 * [Schedoscope](https://github.com/ottogroup/schedoscope) - Scala DSL for agile scheduling of Hadoop jobs.
 * [Sparrow](https://github.com/radlab/sparrow) - scheduling platform.
