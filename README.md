@@ -652,6 +652,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - High-performance plugin-based React chart for Bootstrap and Material Design.
 * [Echarts](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
+* [Flexmonster Pivot Table & Charts](https://www.flexmonster.com) - a powerful JavaScript component for business data visualization and web reporting.
+* [Flexmonster for Desktop](https://www.flexmonster.com) - a free desktop tool for creating insightful reports.
 * [FnordMetric](https://metrictools.org/) - write SQL queries that return SVG charts rather than tables
 * [Frappe Charts](https://frappe.io/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
 * [Freeboard](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
@@ -676,6 +678,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Sigma.js](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 * [Superset](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
 * [Vega](https://github.com/vega/vega) - a visualization grammar.
+* [WebDataRocks](https://www.webdatarocks.com) - a free web pivot table component for embedding into your data analytic apps.
 * [Zeppelin](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
 * [Zing Charts](https://www.zingchart.com/) - JavaScript charting library for big data.
 * [DataSphere Studio](https://github.com/WeBankFinTech/DataSphereStudio) - one-stop data application development management portal.
