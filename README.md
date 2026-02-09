@@ -354,6 +354,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Trafodion](https://wiki.trafodion.org/wiki/index.php/Main_Page) - enterprise-class SQL-on-HBase solution targeting big data transactional or operational workloads.
 
 ## Data Ingestion
+* [Bruin](https://github.com/bruin-data/bruin) - End-to-end data pipeline tool combining ingestion from 50+ sources, SQL/Python transformations, and built-in data quality checks.
+* [ingestr](https://github.com/bruin-data/ingestr) - CLI tool to copy data between any source and destination with a single command. Supports 50+ connectors.
 * [redpanda](https://vectorized.io/redpanda) - A Kafka® replacement for mission critical systems; 10x faster. Written in C++.
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - real-time processing of streaming data at massive scale.
 * [Amazon Web Services Glue](https://aws.amazon.com/glue/) -  serverless fully managed extract, transform, and load (ETL) service
