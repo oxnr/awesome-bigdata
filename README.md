@@ -365,6 +365,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Pulsar](https://github.com/apache/pulsar) - a distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
 * [Apache Sqoop](http://sqoop.apache.org/) - tool to transfer data between Hadoop and a structured datastore.
 * [Embulk](http://www.embulk.org) - open-source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.
+* [DataRaven](https://dataraven.io/) - Managed cloud object storage transfers for data ingestion workflows.
 * [Estuary](https://estuary.dev) - SaaS platform based on Gazette with plug-and-play connectors.
 * [Facebook Scribe](https://github.com/facebookarchive/scribe) - streamed log data aggregator.
 * [Fluentd](http://www.fluentd.org) - tool to collect events and logs.
