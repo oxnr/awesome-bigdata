@@ -540,6 +540,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Substation](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 * [Talend](http://www.talend.com/products/big-data/) - unified open source environment for YARN, Hadoop, HBASE, Hive, HCatalog & Pig.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=oxnr_awesome-bigdata) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Search engine and framework
 
 * [Apache Lucene](http://lucene.apache.org/) - Search engine library.
