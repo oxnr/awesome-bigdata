@@ -626,6 +626,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Saiku Analytics](https://www.meteorite.bi/) - Open source analytics platform.
 * [Knowage](https://www.knowage-suite.com/) - open source business intelligence platform. (former [SpagoBi](http://www.spagobi.org/))
 * [SparklineData SNAP](http://sparklinedata.com/) - modern B.I platform powered by Apache Spark.
+* [stratif.io](https://stratif.io) - Self-hosted, open-source product analytics that runs directly on your DuckDB, Postgres, Snowflake, or ClickHouse warehouse.
 * [Tableau](https://www.tableau.com/) - business intelligence platform.
 * [Zoomdata](https://www.zoomdata.com/) - Big Data Analytics.
 
