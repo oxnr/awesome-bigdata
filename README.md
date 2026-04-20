@@ -98,7 +98,7 @@ Your contributions are always welcome!
 * [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) - Hadoop enhancement which removes single point of failure.
 * [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
 * [Facebook Scuba](https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920) - distributed in-memory datastore.
-* [Google Dataflow](https://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help themæingest, transform and analyze data.
+* [Google Dataflow](https://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help ingest, transform and analyze data.
 * [Google MapReduce](https://research.google.com/archive/mapreduce.html) - map reduce framework.
 * [Google MillWheel](https://research.google.com/pubs/pub41378.html) - fault tolerant stream processing framework.
 * [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/) - platform for distributed processing and real-time analytics.  Provides toolkits for advanced analytics like geospatial, time series, etc. out of the box.
