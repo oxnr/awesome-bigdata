@@ -45,6 +45,7 @@ Your contributions are always welcome!
   - [Videos](#videos)
   - [Books](#books)
       - [Streaming](#streaming)
+- [Apache Kafka](https://github.com/apache/kafka) - Distributed event streaming platform.
       - [Distributed systems](#distributed-systems)
       - [Graph Based approach](#graph-based-approach)
     - [Data Visualization](#data-visualization-1)
