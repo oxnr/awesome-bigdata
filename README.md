@@ -649,6 +649,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Business Intelligence
 
+* [AI for Database](https://aifordatabase.com) - agentic AI tool that connects to any database (PostgreSQL, MySQL, MongoDB, and more) and lets you query it in plain English — no SQL required. Features self-refreshing dashboards and automated workflows that trigger alerts, emails, or webhooks based on database changes.
 * [BIME Analytics](https://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
 * [Blazer](https://github.com/ankane/blazer) - business intelligence made simple.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
