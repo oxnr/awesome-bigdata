@@ -508,6 +508,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
 * [BidMach](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for trust scoring AI agent wallets on Solana. Useful for ML/AI teams building multi-agent workflows that interact with Solana-based payment infrastructure. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Benchmarking
 
 * [Apache JMeter](https://jmeter.apache.org/) - load testing tool for measuring performance of services and distributed systems.
