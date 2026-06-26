@@ -661,6 +661,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Jethrodata](https://jethro.io/) - Interactive Big Data Analytics.
 * [intermix.io](https://intermix.io/) - Performance Monitoring for Amazon Redshift
 * [Lightdash](https://github.com/lightdash/lightdash) - The open source Looker alternative built on dbt
+* [Lunapad](https://lunapad.dev/) - Open-source analytics notebook for querying data, building reusable analyses, and publishing interactive reports.
 * [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) - business intelligence software and platform.
 * [Microstrategy](https://www.microstrategy.com/) - software platforms for business intelligence, mobile intelligence, and network applications.
