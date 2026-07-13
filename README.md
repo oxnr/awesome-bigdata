@@ -862,4 +862,5 @@ for Data Analytics at Twitter.
 - Kafka [awesome-kafka](https://github.com/monksy/awesome-kafka).
 - [Google Bigtable](https://github.com/zrosenbauer/awesome-bigtable).
 - Data Annotation and Labeling Tools [awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation).
-- [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily updated directory of developer, DevRel, cloud native, and platform engineering conferences taking place all over the world, separated by regions. 
+- [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily updated directory of developer, DevRel, cloud native, and platform engineering conferences taking place all over the world, separated by regions.
+- [Awesome Tech Newsletters](https://github.com/Infrasity-Labs/awesome-tech-newsletter) - A curated, community-driven list of the best tech, software engineering, and developer marketing newsletters. 
