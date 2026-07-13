@@ -863,4 +863,5 @@ for Data Analytics at Twitter.
 - [Google Bigtable](https://github.com/zrosenbauer/awesome-bigtable).
 - Data Annotation and Labeling Tools [awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation).
 - [Awesome Developer Conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) - A daily updated directory of developer, DevRel, cloud native, and platform engineering conferences taking place all over the world, separated by regions.
-- [Awesome Tech Newsletters](https://github.com/Infrasity-Labs/awesome-tech-newsletter) - A curated, community-driven list of the best tech, software engineering, and developer marketing newsletters. 
+- [Awesome Tech Newsletters](https://github.com/Infrasity-Labs/awesome-tech-newsletter) - A curated, community-driven list of the best tech, software engineering, and developer marketing newsletters.
+- [Awesome Developer Podcasts](https://github.com/Infrasity-Labs/awesome-developer-podcasts) - A curated directory of developer podcasts for software engineering teams. It is an open-source collection of podcasts that covers system architecture, cloud-native, DevOps, B2B SaaS, AI/ML, and engineering leadership.
