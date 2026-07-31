@@ -374,7 +374,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Milvus](https://github.com/milvus-io/milvus) - open-source vector database for scalable similarity search.
 * [Qdrant](https://qdrant.tech/) - vector database and similarity search engine with REST, gRPC, and client SDKs.
 * [Weaviate](https://weaviate.io/) - open-source vector database for semantic search with structured filtering.
-* [Zvec](https://github.com/alibaba/zvec) - embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.
+* [Zvec](https://github.com/alibaba/zvec) - open-source, in-process vector database for dense, sparse, and hybrid similarity search.
 
 ## Data Ingestion
 * [redpanda](https://vectorized.io/redpanda) - A Kafka® replacement for mission critical systems; 10x faster. Written in C++.
