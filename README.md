@@ -393,6 +393,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [DataRaven](https://dataraven.io/) - managed cloud object storage transfers for data ingestion workflows.
 * [DBConvert Streams](https://streams.dbconvert.com/cdc-replication/) - self-hosted CDC replication and database migration tool.
 * [Debezium](https://debezium.io/) - open-source distributed platform for change data capture.
+* [Duckle](https://github.com/slothflowlabs/duckle) - open-source visual ETL/ELT platform built on DuckDB with connectors, data quality checks, and lineage.
 * [Embulk](http://www.embulk.org) - open-source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.
 * [Estuary](https://estuary.dev) - SaaS platform based on Gazette with plug-and-play connectors.
 * [Facebook Scribe](https://github.com/facebookarchive/scribe) - streamed log data aggregator.
