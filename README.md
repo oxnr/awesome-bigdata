@@ -604,6 +604,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [LinkedIn Cleo](https://github.com/linkedin/cleo) - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
 * [LinkedIn Galene](https://engineering.linkedin.com/search/did-you-mean-galene) - search architecture at LinkedIn.
 * [LinkedIn Zoie](https://github.com/senseidb/zoie) - is a realtime search/indexing system written in Java.
+* [Manticore Search](https://github.com/manticoresoftware/manticoresearch) - open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 * [MG4J](http://mg4j.di.unimi.it/) - MG4J (Managing Gigabytes for Java) is a full-text search engine for large document collections written in Java. It is highly customisable, high-performance and provides state-of-the-art features and new research algorithms.
 * [Sphinx Search Server](http://sphinxsearch.com/) - fulltext search engine.
 * [Vespa](http://vespa.ai/) - is an engine for low-latency computation over large data sets. It stores and indexes your data such that queries, selection and processing over the data can be performed at serving time.
