@@ -656,6 +656,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Blazer](https://github.com/ankane/blazer) - business intelligence made simple.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
 * [Count](https://count.co) - notebook-based anlytics and visualisation platform using SQL or drag-and-drop.
+* [DAC](https://github.com/bruin-data/dac) - dashboard-as-code tool defining dashboards in YAML and TSX, with a built-in semantic layer.
 * [datapine](https://www.datapine.com/) - self-service business intelligence tool in the cloud.
 * [Dekart](https://dekart.xyz/) - Large scale geospatial analytics for Google BigQuery based on Kepler.gl.
 * [GoodData](https://www.gooddata.com/) - platform for data products and embedded analytics.
