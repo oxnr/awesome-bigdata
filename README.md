@@ -12,6 +12,7 @@ Your contributions are always welcome!
   - [Distributed Programming](#distributed-programming)
   - [Distributed Filesystem](#distributed-filesystem)
   - [Distributed Index](#distributed-index)
+  - [Distributed Tracing Platform](#distributed-tracing-platform)
   - [Document Data Model](#document-data-model)
   - [Key Map Data Model](#key-map-data-model)
   - [Key-value Data Model](#key-value-data-model)
@@ -152,7 +153,9 @@ Your contributions are always welcome!
 ## Distributed Index
 
 * [Pilosa](https://github.com/pilosa/pilosa) Open source distributed bitmap index that dramatically accelerates queries across multiple, massive data sets. 
+## Distributed Tracing Platform
 
+* [Jaeger](https://www.jaegertracing.io/) - Jaeger: open source, distributed tracing platform for monitor and troubleshoot workflows in complex distributed systems
 ## Document Data Model
 
 * [Actian Versant](https://www.actian.com/data-management/ingres-sql-rdbms/) - commercial object-oriented database management systems .
