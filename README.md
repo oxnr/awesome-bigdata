@@ -521,6 +521,12 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Yahoo Gridmix3](http://yahoohadoop.tumblr.com/post/98294079296/gridmix3-emulating-production-workload-for) - Hadoop cluster benchmarking from Yahoo engineer team.
 * [Deeplearning4j Benchmarks](https://github.com/deeplearning4j/dl4j-benchmark)
 * [UCSB](https://github.com/unum-cloud/ucsb) - extended Yahoo Cloud Serving Benchmark for NoSQL databases.
+* [DeathStarBench](https://github.com/delimitrou/DeathStarBench) - Open-source benchmark suite for cloud microservices.
+* [CloudSuite](https://github.com/parsa-epfl/cloudsuite) - A Benchmark Suite for Cloud Services.
+* [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
+* [TailBench](https://tailbench.csail.mit.edu/) - TailBench: A Benchmark Suite and Evaluation Methodology for Latency-Critical Applications
+* [SProBench](https://github.com/apurvkulkarni7/SProBench) - SProBench: Stream Processing Benchmark for High Performance Computing
+
 
 ## Security
 * [Apache Ranger](http://ranger.apache.org/) - Central security admin & fine-grained authorization for Hadoop
