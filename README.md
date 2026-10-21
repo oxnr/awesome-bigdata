@@ -415,6 +415,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Logstash](https://www.elastic.co/products/logstash) - a tool for managing events and logs.
 * [Metricbeat](https://www.elastic.co/beats/metricbeat) - lightweight shipper for system and service metrics.
 * [Netflix Suro](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
+* [OLake](https://github.com/datazip-inc/olake) - Open-source replication of Postgres, MySQL, MongoDB, Oracle, SQL Server, DB2, Kafka and S3 into Apache Iceberg, with CDC and table maintenance. Written in Go.
 * [Pinterest Secor](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 * [Linkedin Gobblin](https://github.com/linkedin/gobblin) - linkedin's universal data ingestion framework.
 * [Skizze](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
