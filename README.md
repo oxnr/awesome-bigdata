@@ -268,6 +268,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Amazon Redshift](https://aws.amazon.com/redshift/) - Amazon's cloud offering, also based on a columnar datastore backend.
 * [IndexR](https://github.com/shunfei/indexr) - an open-source columnar storage format for fast & realtime analytic with big data.
 * [LocustDB](https://github.com/cswinter/LocustDB) - an experimental analytics database aiming to set a new standard for query performance on commodity hardware. 
+* [KoldStore](https://github.com/kalamdb/koldstore) - experimental PostgreSQL tiered-storage extension that moves historical rows to Parquet and queries supported hot and cold data through the original table; not production-ready.
 
 ## NewSQL Databases
 
