@@ -391,6 +391,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Apache Sqoop](http://sqoop.apache.org/) - tool to transfer data between Hadoop and a structured datastore.
 * [Bruin](https://github.com/bruin-data/bruin) - end-to-end data pipeline tool combining ingestion, transformations, and data quality checks.
 * [Census](https://getcensus.com/) - A reverse ETL product that let you sync data from your data warehouse to SaaS Applications. No engineering favors required—just SQL.
+* [Datanika](https://datanika.io) - open-source ELT platform pairing dlt extract-and-load with dbt-core transformations, plus scheduling and run history in one self-hosted UI.
 * [DataRaven](https://dataraven.io/) - managed cloud object storage transfers for data ingestion workflows.
 * [DBConvert Streams](https://streams.dbconvert.com/cdc-replication/) - self-hosted CDC replication and database migration tool.
 * [Debezium](https://debezium.io/) - open-source distributed platform for change data capture.
