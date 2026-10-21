@@ -12,6 +12,7 @@ Your contributions are always welcome!
   - [Distributed Programming](#distributed-programming)
   - [Distributed Filesystem](#distributed-filesystem)
   - [Distributed Index](#distributed-index)
+  - [Distributed Tracing Platform](#distributed-tracing-platform)
   - [Document Data Model](#document-data-model)
   - [Key Map Data Model](#key-map-data-model)
   - [Key-value Data Model](#key-value-data-model)
@@ -152,7 +153,9 @@ Your contributions are always welcome!
 ## Distributed Index
 
 * [Pilosa](https://github.com/pilosa/pilosa) Open source distributed bitmap index that dramatically accelerates queries across multiple, massive data sets. 
+## Distributed Tracing Platform
 
+* [Jaeger](https://www.jaegertracing.io/) - Jaeger: open source, distributed tracing platform for monitor and troubleshoot workflows in complex distributed systems
 ## Document Data Model
 
 * [Actian Versant](https://www.actian.com/data-management/ingres-sql-rdbms/) - commercial object-oriented database management systems .
@@ -524,6 +527,12 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Deeplearning4j Benchmarks](https://github.com/deeplearning4j/dl4j-benchmark)
 * [UCSB](https://github.com/unum-cloud/ucsb) - extended Yahoo Cloud Serving Benchmark for NoSQL databases.
 * [HiBench Next](https://github.com/mgarralda/HiBench-Next) - Modernized HiBench suite for reproducible Apache Spark benchmarking, featuring 24 Scala/PySpark workloads, Web UI, REST API, and CLI.
+* [DeathStarBench](https://github.com/delimitrou/DeathStarBench) - Open-source benchmark suite for cloud microservices.
+* [CloudSuite](https://github.com/parsa-epfl/cloudsuite) - A Benchmark Suite for Cloud Services.
+* [YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
+* [TailBench](https://tailbench.csail.mit.edu/) - TailBench: A Benchmark Suite and Evaluation Methodology for Latency-Critical Applications
+* [SProBench](https://github.com/apurvkulkarni7/SProBench) - SProBench: Stream Processing Benchmark for High Performance Computing
+
 
 ## Security
 * [Apache Ranger](http://ranger.apache.org/) - Central security admin & fine-grained authorization for Hadoop
