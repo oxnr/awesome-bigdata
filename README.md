@@ -653,6 +653,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Business Intelligence
 
+* [Beekeeper Studio](https://www.beekeeperstudio.io/) - cross-platform SQL client for querying and exploring analytical databases and warehouses like ClickHouse, BigQuery, Redshift, and DuckDB.
 * [BIME Analytics](https://www.bimeanalytics.com/?lang=en) - business intelligence platform in the cloud.
 * [Blazer](https://github.com/ankane/blazer) - business intelligence made simple.
 * [Chartio](https://chartio.com) - lean business intelligence platform to visualize and explore your data.
