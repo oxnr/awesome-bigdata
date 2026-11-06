@@ -431,6 +431,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 ## Data Quality and Observability
 
+* [Data Contract CLI](https://cli.datacontract.com) - open-source CLI for testing data in Spark, Databricks, Snowflake, BigQuery, Kafka and other sources against data contracts in the Open Data Contract Standard (ODCS).
 * [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/observability/get-started/) - open-source data observability for monitoring data journeys, data quality, and pipeline events.
 * [DataOps TestGen](https://github.com/DataKitchen/dataops-testgen) - open-source data quality tool that profiles tables, generates tests from the profiling results, and monitors freshness, volume, and schema, with a web UI.
 * [Dex](https://github.com/exmergo/dex) - open-source agent skills for analytics engineering that profile warehouse tables read-only, flag PII and grain problems, verify joins, and detect schema, volume, and grain drift in dbt projects.
