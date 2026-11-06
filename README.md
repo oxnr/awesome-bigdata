@@ -412,6 +412,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Hevo](https://hevodata.com/) - managed data pipeline platform for moving data from databases, SaaS apps, cloud storage, SDKs, and streaming services.
 * [Hightouch](https://hightouch.com/) - reverse ETL platform for syncing warehouse data into business applications.
 * [HIHO](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
+* [Hydra ETL](https://github.com/bejaouibechir/Hydra) - open-source declarative ETL engine: pipelines are YAML files validated before they run, executed with pandas or DuckDB, from a CLI, a REST API or a visual editor.
 * [ingestr](https://github.com/bruin-data/ingestr) - CLI tool for copying data between sources and destinations.
 * [Kestrel](https://github.com/papertrail/kestrel) - distributed message queue system.
 * [LinkedIn Databus](https://engineering.linkedin.com/data) - stream of change capture events for a database.
