@@ -94,6 +94,7 @@ Your contributions are always welcome!
 * [Apache Tez](http://tez.apache.org/) - application framework for executing a complex DAG (directed acyclic graph) of tasks, built on YARN.
 * [Apache Twill](https://incubator.apache.org/projects/twill.html) - abstraction over YARN that reduces the complexity of developing distributed applications.
 * [Baidu Bigflow](http://bigflow.cloud/en/index.html) - an interface that allows for writing distributed computing programs providing lots of simple, flexible, powerful APIs to easily handle data of any scale.
+* [CardinalityEstimation](https://github.com/saguiitay/CardinalityEstimation) - C# library for approximate distinct counting with HyperLogLog and mergeable estimators for partitioned data.
 * [Cascalog](http://cascalog.org/) - data processing and querying library.
 * [Cheetah](http://vldbarc.org/pvldb/vldb2010/pvldb_vol3/I08.pdf) - High Performance, Custom Data Warehouse on Top of MapReduce.
 * [Concurrent Cascading](http://www.cascading.org/) - framework for data management/analytics on Hadoop.
