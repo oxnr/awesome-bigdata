@@ -369,6 +369,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [StarRocks](https://www.starrocks.io/) - high-performance MPP SQL engine for real-time analytics and lakehouse queries.
 * [Stinger](https://hortonworks.com/innovation/stinger/) - interactive query for Hive.
 * [Tajo](http://tajo.apache.org/) - distributed data warehouse system on Hadoop.
+* [Timeplus Proton](https://github.com/timeplus-io/proton) - streaming SQL engine in a single C++ binary, powered by ClickHouse, for streaming ETL, windowed aggregations, joins and materialized views over Kafka and other sources.
 * [Trafodion](https://wiki.trafodion.org/wiki/index.php/Main_Page) - enterprise-class SQL-on-HBase solution targeting big data transactional or operational workloads.
 * [Trino](https://trino.io/) - distributed SQL query engine for querying large datasets across heterogeneous data sources.
 
