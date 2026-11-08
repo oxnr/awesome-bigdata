@@ -359,6 +359,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Google BigQuery](https://research.google.com/pubs/pub36632.html) - framework for interactive analysis, implementation of Dremel.
 * [Materialize](https://github.com/materializeinc/materialize) - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
 * [Invantive SQL](https://documentation.invantive.com/2017R2/invantive-sql-grammar/invantive-sql-grammar-17.30.html) - SQL engine for online and on-premise use with integrated local data replication and 70+ connectors.
+* [Opteryx](https://opteryx.app/) - hosted single-node SQL engine that queries Parquet and JSONL files where they live (GCS, S3, HTTP), with Iceberg and PostgreSQL sources.
 * [PipelineDB](https://www.pipelinedb.com/) - an open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
 * [Pivotal HDB](https://pivotal.io/pivotal-hdb) - SQL-like data warehouse system for Hadoop.
 * [rawquery](https://rawquery.dev/) - managed lakehouse query service using DuckDB over Apache Iceberg tables on object storage.
