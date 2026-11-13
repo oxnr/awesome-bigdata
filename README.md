@@ -157,6 +157,7 @@ Your contributions are always welcome!
 ## Distributed Tracing Platform
 
 * [Jaeger](https://www.jaegertracing.io/) - Jaeger: open source, distributed tracing platform for monitor and troubleshoot workflows in complex distributed systems
+* [Zipkin](https://zipkin.io/) - Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data.
 ## Document Data Model
 
 * [Actian Versant](https://www.actian.com/data-management/ingres-sql-rdbms/) - commercial object-oriented database management systems .
